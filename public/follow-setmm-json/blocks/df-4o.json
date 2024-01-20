@@ -1,0 +1,1 @@
+{"bIdx":8475,"bType":"axiom","type":"","name":"df-4o","params":"","body":["|- wceq(c4o, csuc(c3o))"],"bodyPretty":["⊢ 4o = suc(3o)"],"proof":[],"comment":"Define the ordinal number 4. (Contributed by Mario Carneiro, 14-Jul-2013.)","parent":[],"children":["4on","o2p2e4","4onn","en4","hash4"]}

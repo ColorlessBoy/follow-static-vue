@@ -1,0 +1,1 @@
+{"bIdx":10770,"bType":"axiom","type":"","name":"diff.cpli.s","params":"setvar s0","body":["|- diffsc(s0, cpli)"],"bodyPretty":["⊢ d(s0, +ℕ)"],"proof":[],"comment":"","parent":[],"children":[]}

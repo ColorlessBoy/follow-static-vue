@@ -1,0 +1,1 @@
+{"bIdx":29290,"bType":"axiom","type":"","name":"diff.ccplgr.w","params":"wff w0","body":["|- diffcw(ccplgr, w0)"],"bodyPretty":["⊢ d(ComplGraph, w0)"],"proof":[],"comment":"","parent":[],"children":[]}

@@ -1,0 +1,1 @@
+{"bIdx":35121,"bType":"axiom","type":"","name":"diff.cgzi.w","params":"wff w0","body":["|- diffcw(cgzi, w0)"],"bodyPretty":["⊢ d(AxInf, w0)"],"proof":[],"comment":"","parent":[],"children":[]}

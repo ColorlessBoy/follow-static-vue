@@ -1,0 +1,1 @@
+{"bIdx":15464,"bType":"const","type":"class","name":"csqrt","params":"","body":["sqrt"],"bodyPretty":[],"proof":[],"comment":"Extend class notation to include square root of a complex number.","parent":[],"children":[]}

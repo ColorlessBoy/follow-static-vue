@@ -1,0 +1,1 @@
+{"bIdx":36014,"bType":"axiom","type":"","name":"diff.cub.s","params":"setvar sBase, class c0","body":["|- diffsc(sBase, cub(c0))","-| diffsc(sBase, c0)"],"bodyPretty":["⊢ d(sBase, UB(c0))","⊣ d(sBase, c0)"],"proof":[],"comment":"","parent":[],"children":[]}

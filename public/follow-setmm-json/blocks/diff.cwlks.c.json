@@ -1,0 +1,1 @@
+{"bIdx":29494,"bType":"axiom","type":"","name":"diff.cwlks.c","params":"class c0","body":["|- diffcc(cwlks, c0)"],"bodyPretty":["⊢ d(Walks, c0)"],"proof":[],"comment":"","parent":[],"children":[]}

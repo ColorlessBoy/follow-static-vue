@@ -1,0 +1,1 @@
+{"bIdx":29771,"bType":"const","type":"class","name":"cwwspthsnon","params":"","body":["WSPathsNOn"],"bodyPretty":[],"proof":[],"comment":"Extend class notation with simple paths between two vertices (in a graph) of a fixed length as word over the set of vertices.","parent":[],"children":[]}

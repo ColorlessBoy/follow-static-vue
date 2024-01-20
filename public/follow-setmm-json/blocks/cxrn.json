@@ -1,0 +1,1 @@
+{"bIdx":38379,"bType":"prop","type":"class","name":"cxrn","params":"class c0, class c1","body":["(c0 |X. c1)"],"bodyPretty":[],"proof":[],"comment":"Extend the definition of a class to include the range Cartesian product class.","parent":[],"children":[]}

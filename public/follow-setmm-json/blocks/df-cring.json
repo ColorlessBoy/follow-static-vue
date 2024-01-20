@@ -1,0 +1,1 @@
+{"bIdx":20580,"bType":"axiom","type":"","name":"df-cring","params":"setvar s0","body":["|- wceq(ccrg, crab(s0, crg, wcel(cfv(cmgp, cv(s0)), ccmn)))"],"bodyPretty":["⊢ CRing = { s0 ∈ Ring |(mulGrp ` s0)∈ CMnd }"],"proof":[],"comment":"Define class of all commutative rings. (Contributed by Mario Carneiro, 7-Jan-2015.)","parent":[],"children":["iscrng"]}

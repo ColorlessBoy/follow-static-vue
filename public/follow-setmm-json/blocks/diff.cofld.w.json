@@ -1,0 +1,1 @@
+{"bIdx":33240,"bType":"axiom","type":"","name":"diff.cofld.w","params":"wff w0","body":["|- diffcw(cofld, w0)"],"bodyPretty":["⊢ d(oField, w0)"],"proof":[],"comment":"","parent":[],"children":[]}

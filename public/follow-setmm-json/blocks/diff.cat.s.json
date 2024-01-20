@@ -1,0 +1,1 @@
+{"bIdx":31213,"bType":"axiom","type":"","name":"diff.cat.s","params":"setvar s0","body":["|- diffsc(s0, cat)"],"bodyPretty":["⊢ d(s0, HAtoms)"],"proof":[],"comment":"","parent":[],"children":[]}

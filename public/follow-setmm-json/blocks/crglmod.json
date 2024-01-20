@@ -1,0 +1,1 @@
+{"bIdx":21286,"bType":"const","type":"class","name":"crglmod","params":"","body":["ringLMod"],"bodyPretty":[],"proof":[],"comment":"Extend class notation with the left module induced by a ring over itself.","parent":[],"children":[]}

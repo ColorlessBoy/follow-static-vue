@@ -1,0 +1,1 @@
+{"bIdx":37245,"bType":"const","type":"class","name":"cunc-","params":"","body":["uncurry_"],"bodyPretty":[],"proof":[],"comment":"Notation for the parameterized uncurrying function.","parent":[],"children":[]}

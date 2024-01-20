@@ -1,0 +1,1 @@
+{"bIdx":42096,"bType":"axiom","type":"","name":"diff.chvm.w","params":"wff w0","body":["|- diffcw(chvm, w0)"],"bodyPretty":["⊢ d(HVMap, w0)"],"proof":[],"comment":"","parent":[],"children":[]}

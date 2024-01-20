@@ -1,0 +1,1 @@
+{"bIdx":46942,"bType":"axiom","type":"","name":"diff.cprpr.c","params":"class c0","body":["|- diffcc(cprpr, c0)"],"bodyPretty":["⊢ d(PrPairs, c0)"],"proof":[],"comment":"","parent":[],"children":[]}

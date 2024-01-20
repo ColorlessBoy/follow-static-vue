@@ -1,0 +1,1 @@
+{"bIdx":37276,"bType":"axiom","type":"","name":"diff.cinftyexpitau.w","params":"wff w0","body":["|- diffcw(cinftyexpitau, w0)"],"bodyPretty":["⊢ d(inftyexpitau, w0)"],"proof":[],"comment":"","parent":[],"children":[]}

@@ -1,0 +1,1 @@
+{"bIdx":26060,"bType":"axiom","type":"","name":"diff.citg2.w","params":"wff w0","body":["|- diffcw(citg2, w0)"],"bodyPretty":["⊢ d(S.2, w0)"],"proof":[],"comment":"","parent":[],"children":[]}

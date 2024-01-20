@@ -1,0 +1,1 @@
+{"bIdx":30199,"bType":"axiom","type":"","name":"diff.ceupth.c","params":"class c0","body":["|- diffcc(ceupth, c0)"],"bodyPretty":["⊢ d(EulerPaths, c0)"],"proof":[],"comment":"","parent":[],"children":[]}

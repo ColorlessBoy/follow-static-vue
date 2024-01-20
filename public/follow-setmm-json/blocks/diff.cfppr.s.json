@@ -1,0 +1,1 @@
+{"bIdx":47172,"bType":"axiom","type":"","name":"diff.cfppr.s","params":"setvar s0","body":["|- diffsc(s0, cfppr)"],"bodyPretty":["⊢ d(s0, FPPr)"],"proof":[],"comment":"","parent":[],"children":[]}

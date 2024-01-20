@@ -1,0 +1,1 @@
+{"bIdx":9377,"bType":"prop","type":"class","name":"coi","params":"class c0, class c1","body":["OrdIso(c0, c1)"],"bodyPretty":[],"proof":[],"comment":"Extend class definition to include the canonical order isomorphism to an ordinal.","parent":[],"children":[]}

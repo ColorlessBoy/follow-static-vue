@@ -1,0 +1,1 @@
+{"bIdx":18675,"bType":"axiom","type":"","name":"diff.cuncf.s","params":"setvar s0","body":["|- diffsc(s0, cuncf)"],"bodyPretty":["⊢ d(s0, uncurryF)"],"proof":[],"comment":"","parent":[],"children":[]}

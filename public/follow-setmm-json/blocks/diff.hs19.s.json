@@ -1,0 +1,1 @@
+{"bIdx":198,"bType":"axiom","type":"","name":"diff.hs19.s","params":"setvar s0","body":["|- diffss(hs19, s0)"],"bodyPretty":["⊢ d(hs19, s0)"],"proof":[],"comment":"","parent":[],"children":[]}

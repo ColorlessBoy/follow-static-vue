@@ -1,0 +1,1 @@
+{"bIdx":22096,"bType":"axiom","type":"","name":"diff.czlm.c","params":"class c0","body":["|- diffcc(czlm, c0)"],"bodyPretty":["⊢ d(ZMod, c0)"],"proof":[],"comment":"","parent":[],"children":[]}

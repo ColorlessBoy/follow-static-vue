@@ -1,0 +1,1 @@
+{"bIdx":25073,"bType":"axiom","type":"","name":"diff.cnghm.c","params":"class c0","body":["|- diffcc(cnghm, c0)"],"bodyPretty":["⊢ d(NGHom, c0)"],"proof":[],"comment":"","parent":[],"children":[]}

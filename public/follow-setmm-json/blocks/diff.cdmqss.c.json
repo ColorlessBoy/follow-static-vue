@@ -1,0 +1,1 @@
+{"bIdx":38477,"bType":"axiom","type":"","name":"diff.cdmqss.c","params":"class c0","body":["|- diffcc(cdmqss, c0)"],"bodyPretty":["⊢ d(DomainQss, c0)"],"proof":[],"comment":"","parent":[],"children":[]}

@@ -1,0 +1,1 @@
+{"bIdx":18087,"bType":"axiom","type":"","name":"diff.coppc.s","params":"setvar s0","body":["|- diffsc(s0, coppc)"],"bodyPretty":["⊢ d(s0, oppCat)"],"proof":[],"comment":"","parent":[],"children":[]}

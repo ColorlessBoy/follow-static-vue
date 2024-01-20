@@ -1,0 +1,1 @@
+{"bIdx":19030,"bType":"axiom","type":"","name":"diff.cipo.c","params":"class c0","body":["|- diffcc(cipo, c0)"],"bodyPretty":["⊢ d(toInc, c0)"],"proof":[],"comment":"","parent":[],"children":[]}

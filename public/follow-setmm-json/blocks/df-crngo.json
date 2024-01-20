@@ -1,0 +1,1 @@
+{"bIdx":38177,"bType":"axiom","type":"","name":"df-crngo","params":"","body":["|- wceq(ccring, cin(crngo, ccm2))"],"bodyPretty":["⊢ CRingOps =(RingOps ⋂ Com2)"],"proof":[],"comment":"Define the class of commutative rings. (Contributed by Jeff Madsen, 8-Jun-2010.)","parent":[],"children":["iscrngo"]}

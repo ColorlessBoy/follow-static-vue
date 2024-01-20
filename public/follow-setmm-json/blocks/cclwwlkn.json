@@ -1,0 +1,1 @@
+{"bIdx":30001,"bType":"const","type":"class","name":"cclwwlkn","params":"","body":["ClWWalksN"],"bodyPretty":[],"proof":[],"comment":"Extend class notation with closed walks (in an undirected graph) of a fixed length as word over the set of vertices.","parent":[],"children":[]}

@@ -1,0 +1,1 @@
+{"bIdx":16329,"bType":"axiom","type":"","name":"diff.csin.s","params":"setvar s0","body":["|- diffsc(s0, csin)"],"bodyPretty":["⊢ d(s0, sin)"],"proof":[],"comment":"","parent":[],"children":[]}

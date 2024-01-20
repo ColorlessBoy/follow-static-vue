@@ -1,0 +1,1 @@
+{"bIdx":25662,"bType":"axiom","type":"","name":"diff.ccfil.w","params":"wff w0","body":["|- diffcw(ccfil, w0)"],"bodyPretty":["⊢ d(CauFil, w0)"],"proof":[],"comment":"","parent":[],"children":[]}

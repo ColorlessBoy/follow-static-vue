@@ -1,0 +1,1 @@
+{"bIdx":4170,"bType":"prop","type":"class","name":"cin","params":"class c0, class c1","body":["(c0 ⋂ c1)"],"bodyPretty":[],"proof":[],"comment":"Extend class notation to include the intersection of two classes (read: \" ` A ` intersect ` B ` \").","parent":[],"children":[]}

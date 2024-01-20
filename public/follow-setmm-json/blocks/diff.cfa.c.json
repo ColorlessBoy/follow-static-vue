@@ -1,0 +1,1 @@
+{"bIdx":14371,"bType":"axiom","type":"","name":"diff.cfa.c","params":"class c0","body":["|- diffcc(cfa, c0)"],"bodyPretty":["⊢ d(!, c0)"],"proof":[],"comment":"","parent":[],"children":[]}

@@ -1,0 +1,1 @@
+{"bIdx":22984,"bType":"axiom","type":"","name":"diff.cchpmat.w","params":"wff w0","body":["|- diffcw(cchpmat, w0)"],"bodyPretty":["⊢ d(CharPlyMat, w0)"],"proof":[],"comment":"","parent":[],"children":[]}

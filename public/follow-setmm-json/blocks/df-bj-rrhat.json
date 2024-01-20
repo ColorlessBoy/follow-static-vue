@@ -1,0 +1,1 @@
+{"bIdx":37346,"bType":"axiom","type":"","name":"df-bj-rrhat","params":"","body":["|- wceq(crrhat, cun(cr, csn(cinfty)))"],"bodyPretty":["⊢ RRhat =(ℝ ⋃ { infty })"],"proof":[],"comment":"Define the real projective line. (Contributed by BJ, 27-Jun-2019.)","parent":[],"children":["bj-rrhatsscchat"]}

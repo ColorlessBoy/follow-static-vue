@@ -1,0 +1,1 @@
+{"bIdx":35899,"bType":"axiom","type":"","name":"diff.cmade.s","params":"setvar s0","body":["|- diffsc(s0, cmade)"],"bodyPretty":["⊢ d(s0, _M)"],"proof":[],"comment":"","parent":[],"children":[]}

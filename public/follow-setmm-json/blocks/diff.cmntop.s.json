@@ -1,0 +1,1 @@
+{"bIdx":33651,"bType":"axiom","type":"","name":"diff.cmntop.s","params":"setvar s0","body":["|- diffsc(s0, cmntop)"],"bodyPretty":["⊢ d(s0, ManTop)"],"proof":[],"comment":"","parent":[],"children":[]}

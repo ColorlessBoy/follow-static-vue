@@ -1,0 +1,1 @@
+{"bIdx":47418,"bType":"axiom","type":"","name":"diff.cintop.s","params":"setvar s0","body":["|- diffsc(s0, cintop)"],"bodyPretty":["⊢ d(s0, intOp)"],"proof":[],"comment":"","parent":[],"children":[]}

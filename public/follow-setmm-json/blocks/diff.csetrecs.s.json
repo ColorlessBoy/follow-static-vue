@@ -1,0 +1,1 @@
+{"bIdx":48182,"bType":"axiom","type":"","name":"diff.csetrecs.s","params":"setvar sBase, class c0","body":["|- diffsc(sBase, csetrecs(c0))","-| diffsc(sBase, c0)"],"bodyPretty":["⊢ d(sBase, setrecs(c0))","⊣ d(sBase, c0)"],"proof":[],"comment":"","parent":[],"children":[]}

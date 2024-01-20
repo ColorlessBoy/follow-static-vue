@@ -1,0 +1,1 @@
+{"bIdx":40258,"bType":"axiom","type":"","name":"diff.cpautN.w","params":"wff w0","body":["|- diffcw(cpautN, w0)"],"bodyPretty":["⊢ d(PAut, w0)"],"proof":[],"comment":"","parent":[],"children":[]}

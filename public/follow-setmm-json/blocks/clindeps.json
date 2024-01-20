@@ -1,0 +1,1 @@
+{"bIdx":47870,"bType":"const","type":"class","name":"clindeps","params":"","body":["linDepS"],"bodyPretty":[],"proof":[],"comment":"Extend class notation with the relation between a module and its linearly dependent subsets.","parent":[],"children":[]}

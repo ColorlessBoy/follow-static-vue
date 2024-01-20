@@ -1,0 +1,1 @@
+{"bIdx":8392,"bType":"axiom","type":"","name":"diff.crdg.c","params":"class cBase, class c0, class c1","body":["|- diffcc(cBase, crdg(c0, c1))","-| diffcc(cBase, c0)","-| diffcc(cBase, c1)"],"bodyPretty":["⊢ d(cBase, rec(c0, c1))","⊣ d(cBase, c0)","⊣ d(cBase, c1)"],"proof":[],"comment":"","parent":[],"children":[]}

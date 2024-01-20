@@ -1,0 +1,1 @@
+{"bIdx":43995,"bType":"axiom","type":"","name":"diff.ctimesr.c","params":"class c0","body":["|- diffcc(ctimesr, c0)"],"bodyPretty":["⊢ d(.v, c0)"],"proof":[],"comment":"","parent":[],"children":[]}

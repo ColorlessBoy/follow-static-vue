@@ -1,0 +1,1 @@
+{"bIdx":20033,"bType":"axiom","type":"","name":"diff.clsm.s","params":"setvar s0","body":["|- diffsc(s0, clsm)"],"bodyPretty":["⊢ d(s0, LSSum)"],"proof":[],"comment":"","parent":[],"children":[]}

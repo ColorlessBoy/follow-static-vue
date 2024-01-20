@@ -1,0 +1,1 @@
+{"bIdx":8892,"bType":"const","type":"class","name":"cdom","params":"","body":["≼"],"bodyPretty":[],"proof":[],"comment":"Extend class definition to include the dominance relation (curly \"less than or equal to\")","parent":[],"children":[]}

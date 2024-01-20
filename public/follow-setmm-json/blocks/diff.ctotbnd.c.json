@@ -1,0 +1,1 @@
+{"bIdx":37897,"bType":"axiom","type":"","name":"diff.ctotbnd.c","params":"class c0","body":["|- diffcc(ctotbnd, c0)"],"bodyPretty":["⊢ d(TotBnd, c0)"],"proof":[],"comment":"","parent":[],"children":[]}

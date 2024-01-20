@@ -1,0 +1,1 @@
+{"bIdx":27633,"bType":"axiom","type":"","name":"diff.cmu.s","params":"setvar s0","body":["|- diffsc(s0, cmu)"],"bodyPretty":["⊢ d(s0, mmu)"],"proof":[],"comment":"","parent":[],"children":[]}

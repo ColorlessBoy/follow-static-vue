@@ -1,0 +1,1 @@
+{"bIdx":21727,"bType":"axiom","type":"","name":"diff.cslv.w","params":"wff w0","body":["|- diffcw(cslv, w0)"],"bodyPretty":["⊢ d(selectVars, w0)"],"proof":[],"comment":"","parent":[],"children":[]}

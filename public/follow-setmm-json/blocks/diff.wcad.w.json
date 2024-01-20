@@ -1,0 +1,1 @@
+{"bIdx":1887,"bType":"axiom","type":"","name":"diff.wcad.w","params":"wff wBase, wff w0, wff w1, wff w2","body":["|- diffww(wBase, wcad(w0, w1, w2))","-| diffww(wBase, w0)","-| diffww(wBase, w1)","-| diffww(wBase, w2)"],"bodyPretty":["⊢ d(wBase, cadd(w0, w1, w2))","⊣ d(wBase, w0)","⊣ d(wBase, w1)","⊣ d(wBase, w2)"],"proof":[],"comment":"","parent":[],"children":[]}

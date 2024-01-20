@@ -1,0 +1,1 @@
+{"bIdx":14102,"bType":"prop","type":"class","name":"cseq","params":"class c0, class c1, class c2","body":["seq(c0(c1, c2))"],"bodyPretty":[],"proof":[],"comment":"Extend class notation with recursive sequence builder.","parent":[],"children":[]}

@@ -1,0 +1,1 @@
+{"bIdx":18211,"bType":"const","type":"class","name":"csubc","params":"","body":["Subcat"],"bodyPretty":[],"proof":[],"comment":"Extend class notation to include the collection of subcategories of a category.","parent":[],"children":[]}

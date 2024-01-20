@@ -1,0 +1,1 @@
+{"bIdx":29755,"bType":"const","type":"class","name":"cwwlks","params":"","body":["WWalks"],"bodyPretty":[],"proof":[],"comment":"Extend class notation with walks (in a graph) as word over the set of vertices.","parent":[],"children":[]}

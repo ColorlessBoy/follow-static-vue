@@ -1,0 +1,1 @@
+{"bIdx":35065,"bType":"axiom","type":"","name":"diff.cgon.w","params":"wff wBase, class c0","body":["|- diffcw(cgon(c0), wBase)","-| diffcw(c0, wBase)"],"bodyPretty":["⊢ d(¬(c0), wBase)","⊣ d(c0, wBase)"],"proof":[],"comment":"","parent":[],"children":[]}

@@ -1,0 +1,1 @@
+{"bIdx":31059,"bType":"axiom","type":"","name":"diff.ccauold.w","params":"wff w0","body":["|- diffcw(ccauold, w0)"],"bodyPretty":["⊢ d(Cauchy, w0)"],"proof":[],"comment":"","parent":[],"children":[]}

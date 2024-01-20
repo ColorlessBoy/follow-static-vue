@@ -1,0 +1,1 @@
+{"bIdx":16341,"bType":"axiom","type":"","name":"diff.cpi.s","params":"setvar s0","body":["|- diffsc(s0, cpi)"],"bodyPretty":["⊢ d(s0, π)"],"proof":[],"comment":"","parent":[],"children":[]}

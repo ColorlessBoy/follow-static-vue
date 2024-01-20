@@ -1,0 +1,1 @@
+{"bIdx":29015,"bType":"const","type":"class","name":"cusgr","params":"","body":["USGraph"],"bodyPretty":[],"proof":[],"comment":"Extend class notation with undirected simple graphs (without loops).","parent":[],"children":[]}

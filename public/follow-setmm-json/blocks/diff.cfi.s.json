@@ -1,0 +1,1 @@
+{"bIdx":9270,"bType":"axiom","type":"","name":"diff.cfi.s","params":"setvar s0","body":["|- diffsc(s0, cfi)"],"bodyPretty":["⊢ d(s0, fi)"],"proof":[],"comment":"","parent":[],"children":[]}

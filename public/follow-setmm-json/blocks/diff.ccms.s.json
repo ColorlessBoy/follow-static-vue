@@ -1,0 +1,1 @@
+{"bIdx":25749,"bType":"axiom","type":"","name":"diff.ccms.s","params":"setvar s0","body":["|- diffsc(s0, ccms)"],"bodyPretty":["⊢ d(s0, CMetSp)"],"proof":[],"comment":"","parent":[],"children":[]}

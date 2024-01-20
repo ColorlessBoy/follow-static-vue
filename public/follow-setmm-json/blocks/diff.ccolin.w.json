@@ -1,0 +1,1 @@
+{"bIdx":36225,"bType":"axiom","type":"","name":"diff.ccolin.w","params":"wff w0","body":["|- diffcw(ccolin, w0)"],"bodyPretty":["⊢ d(Colinear, w0)"],"proof":[],"comment":"","parent":[],"children":[]}

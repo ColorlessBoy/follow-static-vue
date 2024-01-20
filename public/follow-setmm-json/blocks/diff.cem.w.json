@@ -1,0 +1,1 @@
+{"bIdx":27505,"bType":"axiom","type":"","name":"diff.cem.w","params":"wff w0","body":["|- diffcw(cem, w0)"],"bodyPretty":["⊢ d(γ, w0)"],"proof":[],"comment":"","parent":[],"children":[]}

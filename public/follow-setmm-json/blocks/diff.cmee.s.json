@@ -1,0 +1,1 @@
+{"bIdx":18802,"bType":"axiom","type":"","name":"diff.cmee.s","params":"setvar s0","body":["|- diffsc(s0, cmee)"],"bodyPretty":["⊢ d(s0, meet)"],"proof":[],"comment":"","parent":[],"children":[]}

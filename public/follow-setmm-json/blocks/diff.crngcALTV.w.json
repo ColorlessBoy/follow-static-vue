@@ -1,0 +1,1 @@
+{"bIdx":47579,"bType":"axiom","type":"","name":"diff.crngcALTV.w","params":"wff w0","body":["|- diffcw(crngcALTV, w0)"],"bodyPretty":["⊢ d(RngCatALTV, w0)"],"proof":[],"comment":"","parent":[],"children":[]}

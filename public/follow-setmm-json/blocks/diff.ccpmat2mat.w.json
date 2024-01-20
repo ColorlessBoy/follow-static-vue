@@ -1,0 +1,1 @@
+{"bIdx":22854,"bType":"axiom","type":"","name":"diff.ccpmat2mat.w","params":"wff w0","body":["|- diffcw(ccpmat2mat, w0)"],"bodyPretty":["⊢ d(cPolyMatToMat, w0)"],"proof":[],"comment":"","parent":[],"children":[]}

@@ -1,0 +1,1 @@
+{"bIdx":36035,"bType":"axiom","type":"","name":"df-range","params":"","body":["|- wceq(crange, cimage(cres(c2nd, cxp(universe, universe))))"],"bodyPretty":["⊢ Range = Image((2nd |`(𝕌 × 𝕌)))"],"proof":[],"comment":"Define the range function. See ~ brrange for its value. (Contributed by Scott Fenton, 11-Apr-2014.)","parent":[],"children":["brrange"]}

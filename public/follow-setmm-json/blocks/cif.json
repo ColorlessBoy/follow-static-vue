@@ -1,0 +1,1 @@
+{"bIdx":4707,"bType":"prop","type":"class","name":"cif","params":"class c0, class c1, wff w0","body":["if(w0, c0, c1)"],"bodyPretty":[],"proof":[],"comment":"Extend class notation to include the conditional operator for classes.","parent":[],"children":[]}

@@ -1,0 +1,1 @@
+{"bIdx":20819,"bType":"axiom","type":"","name":"diff.cfield.w","params":"wff w0","body":["|- diffcw(cfield, w0)"],"bodyPretty":["⊢ d(Field, w0)"],"proof":[],"comment":"","parent":[],"children":[]}

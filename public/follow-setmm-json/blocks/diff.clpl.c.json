@@ -1,0 +1,1 @@
+{"bIdx":39723,"bType":"axiom","type":"","name":"diff.clpl.c","params":"class c0","body":["|- diffcc(clpl, c0)"],"bodyPretty":["⊢ d(LPlanes, c0)"],"proof":[],"comment":"","parent":[],"children":[]}

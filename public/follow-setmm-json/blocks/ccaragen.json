@@ -1,0 +1,1 @@
+{"bIdx":46082,"bType":"const","type":"class","name":"ccaragen","params":"","body":["CaraGen"],"bodyPretty":[],"proof":[],"comment":"Extend class notation with a function that takes an outer measure and generates a sigma-algebra and a measure.","parent":[],"children":[]}

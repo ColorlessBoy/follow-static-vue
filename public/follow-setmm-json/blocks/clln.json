@@ -1,0 +1,1 @@
+{"bIdx":39717,"bType":"const","type":"class","name":"clln","params":"","body":["LLines"],"bodyPretty":[],"proof":[],"comment":"Extend class notation with set of all \"lattice lines\" (lattice elements which cover an atom) in a Hilbert lattice.","parent":[],"children":[]}

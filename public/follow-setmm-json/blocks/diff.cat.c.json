@@ -1,0 +1,1 @@
+{"bIdx":31214,"bType":"axiom","type":"","name":"diff.cat.c","params":"class c0","body":["|- diffcc(cat, c0)"],"bodyPretty":["⊢ d(HAtoms, c0)"],"proof":[],"comment":"","parent":[],"children":[]}

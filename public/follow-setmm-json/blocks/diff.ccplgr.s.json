@@ -1,0 +1,1 @@
+{"bIdx":29288,"bType":"axiom","type":"","name":"diff.ccplgr.s","params":"setvar s0","body":["|- diffsc(s0, ccplgr)"],"bodyPretty":["⊢ d(s0, ComplGraph)"],"proof":[],"comment":"","parent":[],"children":[]}

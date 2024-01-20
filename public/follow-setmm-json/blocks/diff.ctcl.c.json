@@ -1,0 +1,1 @@
+{"bIdx":15192,"bType":"axiom","type":"","name":"diff.ctcl.c","params":"class c0","body":["|- diffcc(ctcl, c0)"],"bodyPretty":["⊢ d(t+, c0)"],"proof":[],"comment":"","parent":[],"children":[]}

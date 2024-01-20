@@ -1,0 +1,1 @@
+{"bIdx":18915,"bType":"axiom","type":"","name":"diff.clat.c","params":"class c0","body":["|- diffcc(clat, c0)"],"bodyPretty":["⊢ d(Lat, c0)"],"proof":[],"comment":"","parent":[],"children":[]}

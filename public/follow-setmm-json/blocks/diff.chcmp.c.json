@@ -1,0 +1,1 @@
+{"bIdx":33573,"bType":"axiom","type":"","name":"diff.chcmp.c","params":"class c0","body":["|- diffcc(chcmp, c0)"],"bodyPretty":["⊢ d(HCmp, c0)"],"proof":[],"comment":"","parent":[],"children":[]}

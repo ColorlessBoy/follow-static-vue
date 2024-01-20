@@ -1,0 +1,1 @@
+{"bIdx":6502,"bType":"axiom","type":"","name":"df-on","params":"setvar s0","body":["|- wceq(con0, cab(s0, word(cv(s0))))"],"bodyPretty":["⊢ On = { s0 | Ord(s0)}"],"proof":[],"comment":"Define the class of all ordinal numbers. Definition 7.11 of [TakeutiZaring] p. 38. (Contributed by NM, 5-Jun-1994.)","parent":[],"children":["elong","dfon2"]}

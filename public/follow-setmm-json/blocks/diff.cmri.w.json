@@ -1,0 +1,1 @@
+{"bIdx":17945,"bType":"axiom","type":"","name":"diff.cmri.w","params":"wff w0","body":["|- diffcw(cmri, w0)"],"bodyPretty":["⊢ d(mrInd, w0)"],"proof":[],"comment":"","parent":[],"children":[]}

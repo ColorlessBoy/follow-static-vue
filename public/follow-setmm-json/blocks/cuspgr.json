@@ -1,0 +1,1 @@
+{"bIdx":29011,"bType":"const","type":"class","name":"cuspgr","params":"","body":["USPGraph"],"bodyPretty":[],"proof":[],"comment":"Extend class notation with undirected simple pseudographs (which could have loops).","parent":[],"children":[]}

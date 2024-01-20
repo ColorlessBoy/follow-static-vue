@@ -1,0 +1,1 @@
+{"bIdx":7432,"bType":"prop","type":"class","name":"crio","params":"setvar s0, class c0, wff w0","body":["iota(s0 ∈ c0, w0)"],"bodyPretty":[],"proof":[],"comment":"Extend class notation with restricted description binder.","parent":[],"children":[]}

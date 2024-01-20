@@ -1,0 +1,1 @@
+{"bIdx":16345,"bType":"axiom","type":"","name":"df-e","params":"","body":["|- wceq(ceu, cfv(ce, nat1))"],"bodyPretty":["⊢ e =(exp ` 1)"],"proof":[],"comment":"Define Euler's constant ` _e ` = 2.71828.... (Contributed by NM, 14-Mar-2005.)","parent":[],"children":["esum","ere","ege2le3","efzval","loge","logdivlti","pntpbnd1a","ex-co","subfaclim"]}

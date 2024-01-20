@@ -1,0 +1,1 @@
+{"bIdx":24580,"bType":"axiom","type":"","name":"diff.ctus.c","params":"class c0","body":["|- diffcc(ctus, c0)"],"bodyPretty":["⊢ d(toUnifSp, c0)"],"proof":[],"comment":"","parent":[],"children":[]}

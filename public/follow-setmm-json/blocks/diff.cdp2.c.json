@@ -1,0 +1,1 @@
+{"bIdx":32993,"bType":"axiom","type":"","name":"diff.cdp2.c","params":"class cBase, class c0, class c1","body":["|- diffcc(cBase, cdp2(c0, c1))","-| diffcc(cBase, c0)","-| diffcc(cBase, c1)"],"bodyPretty":["⊢ d(cBase, _(c0, c1))","⊣ d(cBase, c0)","⊣ d(cBase, c1)"],"proof":[],"comment":"","parent":[],"children":[]}

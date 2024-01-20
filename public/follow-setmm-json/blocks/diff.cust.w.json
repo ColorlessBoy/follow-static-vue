@@ -1,0 +1,1 @@
+{"bIdx":24513,"bType":"axiom","type":"","name":"diff.cust.w","params":"wff w0","body":["|- diffcw(cust, w0)"],"bodyPretty":["⊢ d(UnifOn, w0)"],"proof":[],"comment":"","parent":[],"children":[]}

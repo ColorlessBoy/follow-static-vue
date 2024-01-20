@@ -1,0 +1,1 @@
+{"bIdx":28908,"bType":"axiom","type":"","name":"diff.cuhgr.s","params":"setvar s0","body":["|- diffsc(s0, cuhgr)"],"bodyPretty":["⊢ d(s0, UHGraph)"],"proof":[],"comment":"","parent":[],"children":[]}

@@ -1,0 +1,1 @@
+{"bIdx":4709,"bType":"axiom","type":"","name":"diff.cif.c","params":"class cBase, class c0, class c1, wff w0","body":["|- diffcc(cBase, cif(c0, c1, w0))","-| diffcc(cBase, c0)","-| diffcc(cBase, c1)","-| diffcw(cBase, w0)"],"bodyPretty":["⊢ d(cBase, if(w0, c0, c1))","⊣ d(cBase, c0)","⊣ d(cBase, c1)","⊣ d(cBase, w0)"],"proof":[],"comment":"","parent":[],"children":[]}

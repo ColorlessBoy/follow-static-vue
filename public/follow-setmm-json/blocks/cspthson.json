@@ -1,0 +1,1 @@
+{"bIdx":29636,"bType":"const","type":"class","name":"cspthson","params":"","body":["SPathsOn"],"bodyPretty":[],"proof":[],"comment":"Extend class notation with simple paths between two vertices (within a graph).","parent":[],"children":[]}

@@ -1,0 +1,1 @@
+{"bIdx":35968,"bType":"axiom","type":"","name":"diff.cimage.w","params":"wff wBase, class c0","body":["|- diffcw(cimage(c0), wBase)","-| diffcw(c0, wBase)"],"bodyPretty":["⊢ d(Image(c0), wBase)","⊣ d(c0, wBase)"],"proof":[],"comment":"","parent":[],"children":[]}

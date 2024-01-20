@@ -1,0 +1,1 @@
+{"bIdx":35837,"bType":"axiom","type":"","name":"df-sle","params":"","body":["|- wceq(csle, cdif(cxp(csur, csur), ccnv(cslt)))"],"bodyPretty":["⊢ ≤s =((No × No)\\ `' <s)"],"proof":[],"comment":"Define the surreal less than or equal predicate. Compare ~ df-le . (Contributed by Scott Fenton, 8-Dec-2021.)","parent":[],"children":["slenlt"]}

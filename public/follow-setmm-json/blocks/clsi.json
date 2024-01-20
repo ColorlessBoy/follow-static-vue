@@ -1,0 +1,1 @@
+{"bIdx":45317,"bType":"const","type":"class","name":"clsi","params":"","body":["liminf"],"bodyPretty":[],"proof":[],"comment":"Extend class notation to include the liminf function. (actually, it makes sense for any extended real function defined on a subset of RR which is not upper-bounded)","parent":[],"children":[]}

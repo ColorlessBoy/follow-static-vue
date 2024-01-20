@@ -1,0 +1,1 @@
+{"bIdx":21285,"bType":"axiom","type":"","name":"diff.csra.w","params":"wff w0","body":["|- diffcw(csra, w0)"],"bodyPretty":["⊢ d(subringAlg, w0)"],"proof":[],"comment":"","parent":[],"children":[]}

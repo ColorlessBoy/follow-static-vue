@@ -1,0 +1,1 @@
+{"bIdx":42977,"bType":"axiom","type":"","name":"df-za","params":"","body":["|- wceq(cza, cfv(citgo, cz))"],"bodyPretty":["⊢ _ZZ =(IntgOver ` ℤ)"],"proof":[],"comment":"Define an algebraic integer as a complex number which is the root of a monic integer polynomial. (Contributed by Stefan O'Rear, 30-Nov-2014.)","parent":[],"children":[""]}

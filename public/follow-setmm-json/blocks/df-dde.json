@@ -1,0 +1,1 @@
+{"bIdx":33910,"bType":"axiom","type":"","name":"df-dde","params":"setvar s0","body":["|- wceq(cdde, cmpt(s0, cpw(cr), cif(nat1, nat0, wcel(nat0, cv(s0)))))"],"bodyPretty":["⊢ Ddelta =(s0 ∈ P(ℝ)↦ if(0 ∈ s0, 1, 0))"],"proof":[],"comment":"Define the Dirac delta measure. (Contributed by Thierry Arnoux, 14-Sep-2018.)","parent":[],"children":["ddeval1","ddeval0","ddemeas"]}

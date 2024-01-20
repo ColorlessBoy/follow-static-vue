@@ -1,0 +1,1 @@
+{"bIdx":19244,"bType":"const","type":"class","name":"csubmnd","params":"","body":["SubMnd"],"bodyPretty":[],"proof":[],"comment":"Class function taking a monoid to its lattice of submonoids.","parent":[],"children":[]}

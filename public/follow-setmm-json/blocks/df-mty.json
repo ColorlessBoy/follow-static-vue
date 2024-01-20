@@ -1,0 +1,1 @@
+{"bIdx":35215,"bType":"axiom","type":"","name":"df-mty","params":"","body":["|- wceq(cmty, cslot(nat3))"],"bodyPretty":["⊢ mType = Slot(3)"],"proof":[],"comment":"Define the type function in a Metamath formal system. (Contributed by Mario Carneiro, 14-Jul-2016.)","parent":[],"children":[""]}

@@ -1,0 +1,1 @@
+{"bIdx":35964,"bType":"axiom","type":"","name":"diff.csingles.w","params":"wff w0","body":["|- diffcw(csingles, w0)"],"bodyPretty":["⊢ d(Singletons, w0)"],"proof":[],"comment":"","parent":[],"children":[]}

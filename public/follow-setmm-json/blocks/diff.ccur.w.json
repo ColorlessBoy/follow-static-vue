@@ -1,0 +1,1 @@
+{"bIdx":8260,"bType":"axiom","type":"","name":"diff.ccur.w","params":"wff wBase, class c0","body":["|- diffcw(ccur(c0), wBase)","-| diffcw(c0, wBase)"],"bodyPretty":["⊢ d(curry(c0), wBase)","⊣ d(c0, wBase)"],"proof":[],"comment":"","parent":[],"children":[]}

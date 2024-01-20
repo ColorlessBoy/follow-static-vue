@@ -1,0 +1,1 @@
+{"bIdx":35478,"bType":"axiom","type":"","name":"diff.crqp.s","params":"setvar s0","body":["|- diffsc(s0, crqp)"],"bodyPretty":["⊢ d(s0, /Qp)"],"proof":[],"comment":"","parent":[],"children":[]}

@@ -1,0 +1,1 @@
+{"bIdx":21729,"bType":"axiom","type":"","name":"diff.cai.s","params":"setvar s0","body":["|- diffsc(s0, cai)"],"bodyPretty":["⊢ d(s0, AlgInd)"],"proof":[],"comment":"","parent":[],"children":[]}

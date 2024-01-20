@@ -1,0 +1,1 @@
+{"bIdx":20813,"bType":"axiom","type":"","name":"diff.cdr.s","params":"setvar s0","body":["|- diffsc(s0, cdr)"],"bodyPretty":["⊢ d(s0, DivRing)"],"proof":[],"comment":"","parent":[],"children":[]}

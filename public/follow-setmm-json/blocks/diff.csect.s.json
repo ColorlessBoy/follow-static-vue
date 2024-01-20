@@ -1,0 +1,1 @@
+{"bIdx":18129,"bType":"axiom","type":"","name":"diff.csect.s","params":"setvar s0","body":["|- diffsc(s0, csect)"],"bodyPretty":["⊢ d(s0, Sect)"],"proof":[],"comment":"","parent":[],"children":[]}

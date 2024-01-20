@@ -1,0 +1,1 @@
+{"bIdx":35172,"bType":"axiom","type":"","name":"diff.cmvrs.w","params":"wff w0","body":["|- diffcw(cmvrs, w0)"],"bodyPretty":["⊢ d(mVars, w0)"],"proof":[],"comment":"","parent":[],"children":[]}

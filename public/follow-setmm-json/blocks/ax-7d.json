@@ -1,0 +1,1 @@
+{"bIdx":34842,"bType":"axiom","type":"","name":"ax-7d","params":"setvar s0, setvar s1, wff w0","body":["|- wi(wal(s0, wal(s1, w0)), wal(s1, wal(s0, w0)))","-| diffss(s0, s1)"],"bodyPretty":["⊢ (∀(s0, ∀(s1, w0))→ ∀(s1, ∀(s0, w0)))","⊣ d(s0, s1)"],"proof":[],"comment":"Distinct variable version of ~ ax-11 . (Contributed by Mario Carneiro, 14-Aug-2015.)","parent":[],"children":[""]}

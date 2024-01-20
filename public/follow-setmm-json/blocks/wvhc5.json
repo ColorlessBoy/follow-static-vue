@@ -1,0 +1,1 @@
+{"bIdx":44164,"bType":"prop","type":"wff","name":"wvhc5","params":"wff w0, wff w1, wff w2, wff w3, wff w4","body":["(w0, w1, w2, w3, w4)"],"bodyPretty":[],"proof":[],"comment":"Syntax for a 5-element virtual hypotheses collection. (Contributed by Alan Sare, 17-Oct-2017.) (New usage is discouraged.)","parent":[],"children":[]}

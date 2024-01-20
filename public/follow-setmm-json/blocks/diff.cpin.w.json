@@ -1,0 +1,1 @@
+{"bIdx":25400,"bType":"axiom","type":"","name":"diff.cpin.w","params":"wff w0","body":["|- diffcw(cpin, w0)"],"bodyPretty":["⊢ d(piN, w0)"],"proof":[],"comment":"","parent":[],"children":[]}

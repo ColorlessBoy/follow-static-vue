@@ -1,0 +1,1 @@
+{"bIdx":10787,"bType":"axiom","type":"","name":"diff.cmpq.c","params":"class c0","body":["|- diffcc(cmpq, c0)"],"bodyPretty":["⊢ d(×, c0)"],"proof":[],"comment":"","parent":[],"children":[]}

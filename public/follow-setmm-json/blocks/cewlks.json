@@ -1,0 +1,1 @@
+{"bIdx":29488,"bType":"const","type":"class","name":"cewlks","params":"","body":["EdgWalks"],"bodyPretty":[],"proof":[],"comment":"Extend class notation with s-walks \"on the edge level\" (of a hypergraph).","parent":[],"children":[]}

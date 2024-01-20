@@ -1,0 +1,1 @@
+{"bIdx":37989,"bType":"axiom","type":"","name":"diff.cexid.s","params":"setvar s0","body":["|- diffsc(s0, cexid)"],"bodyPretty":["⊢ d(s0, ExId)"],"proof":[],"comment":"","parent":[],"children":[]}

@@ -1,0 +1,1 @@
+{"bIdx":19187,"bType":"axiom","type":"","name":"diff.csgrp.w","params":"wff w0","body":["|- diffcw(csgrp, w0)"],"bodyPretty":["⊢ d(SGrp, w0)"],"proof":[],"comment":"","parent":[],"children":[]}

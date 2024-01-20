@@ -1,0 +1,1 @@
+{"bIdx":35834,"bType":"axiom","type":"","name":"diff.csle.s","params":"setvar s0","body":["|- diffsc(s0, csle)"],"bodyPretty":["⊢ d(s0, ≤s)"],"proof":[],"comment":"","parent":[],"children":[]}

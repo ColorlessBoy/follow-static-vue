@@ -1,0 +1,1 @@
+{"bIdx":18907,"bType":"axiom","type":"","name":"df-p0","params":"setvar s0","body":["|- wceq(cp0, cmpt(s0, universe, cfv(cfv(cglb, cv(s0)), cfv(cbs, cv(s0)))))"],"bodyPretty":["⊢ 0. =(s0 ∈ 𝕌 ↦((glb ` s0)`(Base ` s0)))"],"proof":[],"comment":"Define poset zero. (Contributed by NM, 12-Oct-2011.)","parent":[],"children":["p0val"]}

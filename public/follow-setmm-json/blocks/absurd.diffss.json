@@ -1,0 +1,1 @@
+{"bIdx":67,"bType":"absurd","type":"","name":"absurd.diffss","params":"setvar s0","body":["|-| diffss(s0, s0)"],"bodyPretty":["ʜ d(s0, s0)"],"proof":[],"comment":"","parent":[],"children":[]}

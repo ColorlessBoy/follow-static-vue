@@ -1,0 +1,1 @@
+{"bIdx":7734,"bType":"axiom","type":"","name":"diff.cof.s","params":"setvar sBase, class c0","body":["|- diffsc(sBase, cof(c0))","-| diffsc(sBase, c0)"],"bodyPretty":["⊢ d(sBase, oF(c0))","⊣ d(sBase, c0)"],"proof":[],"comment":"","parent":[],"children":[]}

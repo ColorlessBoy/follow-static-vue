@@ -1,0 +1,1 @@
+{"bIdx":38452,"bType":"axiom","type":"","name":"diff.weqvrel.s","params":"setvar sBase, class c0","body":["|- diffsw(sBase, weqvrel(c0))","-| diffsc(sBase, c0)"],"bodyPretty":["⊢ d(sBase, EqvRel(c0))","⊣ d(sBase, c0)"],"proof":[],"comment":"","parent":[],"children":[]}

@@ -1,0 +1,1 @@
+{"bIdx":31123,"bType":"axiom","type":"","name":"diff.chft.w","params":"wff w0","body":["|- diffcw(chft, w0)"],"bodyPretty":["⊢ d(.fn, w0)"],"proof":[],"comment":"","parent":[],"children":[]}

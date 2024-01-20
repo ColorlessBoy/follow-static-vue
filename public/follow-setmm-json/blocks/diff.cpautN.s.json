@@ -1,0 +1,1 @@
+{"bIdx":40256,"bType":"axiom","type":"","name":"diff.cpautN.s","params":"setvar s0","body":["|- diffsc(s0, cpautN)"],"bodyPretty":["⊢ d(s0, PAut)"],"proof":[],"comment":"","parent":[],"children":[]}

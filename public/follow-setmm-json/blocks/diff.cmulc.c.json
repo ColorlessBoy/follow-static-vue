@@ -1,0 +1,1 @@
+{"bIdx":37370,"bType":"axiom","type":"","name":"diff.cmulc.c","params":"class c0","body":["|- diffcc(cmulc, c0)"],"bodyPretty":["⊢ d(.cc, c0)"],"proof":[],"comment":"","parent":[],"children":[]}

@@ -1,0 +1,1 @@
+{"bIdx":48236,"bType":"const","type":"class","name":"csinh","params":"","body":["sinh"],"bodyPretty":[],"proof":[],"comment":"Extend class notation to include the hyperbolic sine function, see ~ df-sinh .","parent":[],"children":[]}

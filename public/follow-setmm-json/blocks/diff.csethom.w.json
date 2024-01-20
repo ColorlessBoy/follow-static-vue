@@ -1,0 +1,1 @@
+{"bIdx":37223,"bType":"axiom","type":"","name":"diff.csethom.w","params":"wff w0","body":["|- diffcw(csethom, w0)"],"bodyPretty":["⊢ d(-Set->, w0)"],"proof":[],"comment":"","parent":[],"children":[]}

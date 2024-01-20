@@ -1,0 +1,1 @@
+{"bIdx":22660,"bType":"const","type":"class","name":"cmvmul","params":"","body":["maVecMul"],"bodyPretty":[],"proof":[],"comment":"Syntax for the operator for the multiplication of a vector with a matrix.","parent":[],"children":[]}

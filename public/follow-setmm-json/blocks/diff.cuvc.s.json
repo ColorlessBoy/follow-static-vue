@@ -1,0 +1,1 @@
+{"bIdx":22415,"bType":"axiom","type":"","name":"diff.cuvc.s","params":"setvar s0","body":["|- diffsc(s0, cuvc)"],"bodyPretty":["⊢ d(s0, unitVec)"],"proof":[],"comment":"","parent":[],"children":[]}

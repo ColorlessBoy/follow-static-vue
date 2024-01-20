@@ -1,0 +1,1 @@
+{"bIdx":10589,"bType":"axiom","type":"","name":"diff.cina.w","params":"wff w0","body":["|- diffcw(cina, w0)"],"bodyPretty":["⊢ d(Inacc, w0)"],"proof":[],"comment":"","parent":[],"children":[]}

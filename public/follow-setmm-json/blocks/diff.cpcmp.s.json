@@ -1,0 +1,1 @@
+{"bIdx":33483,"bType":"axiom","type":"","name":"diff.cpcmp.s","params":"setvar s0","body":["|- diffsc(s0, cpcmp)"],"bodyPretty":["⊢ d(s0, Paracomp)"],"proof":[],"comment":"","parent":[],"children":[]}

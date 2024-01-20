@@ -1,0 +1,1 @@
+{"bIdx":37238,"bType":"axiom","type":"","name":"diff.ctopmgmhom.w","params":"wff w0","body":["|- diffcw(ctopmgmhom, w0)"],"bodyPretty":["⊢ d(-TopMgm->, w0)"],"proof":[],"comment":"","parent":[],"children":[]}

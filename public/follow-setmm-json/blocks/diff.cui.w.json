@@ -1,0 +1,1 @@
+{"bIdx":20678,"bType":"axiom","type":"","name":"diff.cui.w","params":"wff w0","body":["|- diffcw(cui, w0)"],"bodyPretty":["⊢ d(Unit, w0)"],"proof":[],"comment":"","parent":[],"children":[]}

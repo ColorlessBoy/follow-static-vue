@@ -1,0 +1,1 @@
+{"bIdx":35758,"bType":"axiom","type":"","name":"diff.cbday.c","params":"class c0","body":["|- diffcc(cbday, c0)"],"bodyPretty":["⊢ d(bday, c0)"],"proof":[],"comment":"","parent":[],"children":[]}

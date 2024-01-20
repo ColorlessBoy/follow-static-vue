@@ -1,0 +1,1 @@
+{"bIdx":18464,"bType":"axiom","type":"","name":"df-doma","params":"","body":["|- wceq(cdoma, ccom(c1st, c1st))"],"bodyPretty":["⊢ domA =(1st ∘ 1st)"],"proof":[],"comment":"Definition of the domain extractor for an arrow. (Contributed by FL, 24-Oct-2007.) (Revised by Mario Carneiro, 11-Jan-2017.)","parent":[],"children":["homadm","dmaf"]}

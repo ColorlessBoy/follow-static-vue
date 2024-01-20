@@ -1,0 +1,1 @@
+{"bIdx":33766,"bType":"const","type":"class","name":"csiga","params":"","body":["sigAlgebra"],"bodyPretty":[],"proof":[],"comment":"Extend class notation to include the function giving the sigma-algebras on a given base set.","parent":[],"children":[]}

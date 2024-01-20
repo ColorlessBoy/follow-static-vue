@@ -1,0 +1,1 @@
+{"bIdx":31146,"bType":"axiom","type":"","name":"diff.cbo.c","params":"class c0","body":["|- diffcc(cbo, c0)"],"bodyPretty":["⊢ d(BndLinOp, c0)"],"proof":[],"comment":"","parent":[],"children":[]}

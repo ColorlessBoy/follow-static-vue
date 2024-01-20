@@ -1,0 +1,1 @@
+{"bIdx":1807,"bType":"axiom","type":"","name":"diff.cv.w","params":"wff wBase, setvar s0","body":["|- diffcw(cv(s0), wBase)","-| diffsw(s0, wBase)"],"bodyPretty":["⊢ d(s0, wBase)","⊣ d(s0, wBase)"],"proof":[],"comment":"","parent":[],"children":[]}

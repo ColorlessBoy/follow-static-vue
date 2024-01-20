@@ -1,0 +1,1 @@
+{"bIdx":35207,"bType":"axiom","type":"","name":"diff.cmpps.c","params":"class c0","body":["|- diffcc(cmpps, c0)"],"bodyPretty":["⊢ d(mPPSt, c0)"],"proof":[],"comment":"","parent":[],"children":[]}

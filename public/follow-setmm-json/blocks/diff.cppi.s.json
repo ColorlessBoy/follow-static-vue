@@ -1,0 +1,1 @@
+{"bIdx":27629,"bType":"axiom","type":"","name":"diff.cppi.s","params":"setvar s0","body":["|- diffsc(s0, cppi)"],"bodyPretty":["⊢ d(s0, ppi)"],"proof":[],"comment":"","parent":[],"children":[]}

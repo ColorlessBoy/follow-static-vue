@@ -1,0 +1,1 @@
+{"bIdx":40248,"bType":"axiom","type":"","name":"diff.claut.s","params":"setvar s0","body":["|- diffsc(s0, claut)"],"bodyPretty":["⊢ d(s0, LAut)"],"proof":[],"comment":"","parent":[],"children":[]}

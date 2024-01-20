@@ -1,0 +1,1 @@
+{"bIdx":46574,"bType":"prop","type":"class","name":"caiota","params":"setvar s0, wff w0","body":["iota'(s0, w0)"],"bodyPretty":[],"proof":[],"comment":"Extend class notation with an alternative for Russell's definition of a description binder (inverted iota).","parent":[],"children":[]}

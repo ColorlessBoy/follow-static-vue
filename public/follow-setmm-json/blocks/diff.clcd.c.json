@@ -1,0 +1,1 @@
+{"bIdx":41919,"bType":"axiom","type":"","name":"diff.clcd.c","params":"class c0","body":["|- diffcc(clcd, c0)"],"bodyPretty":["⊢ d(LCDual, c0)"],"proof":[],"comment":"","parent":[],"children":[]}

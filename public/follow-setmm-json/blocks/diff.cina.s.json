@@ -1,0 +1,1 @@
+{"bIdx":10587,"bType":"axiom","type":"","name":"diff.cina.s","params":"setvar s0","body":["|- diffsc(s0, cina)"],"bodyPretty":["⊢ d(s0, Inacc)"],"proof":[],"comment":"","parent":[],"children":[]}

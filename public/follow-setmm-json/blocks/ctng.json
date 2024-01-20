@@ -1,0 +1,1 @@
+{"bIdx":24929,"bType":"const","type":"class","name":"ctng","params":"","body":["toNrmGrp"],"bodyPretty":[],"proof":[],"comment":"Make a normed group from a norm and a group.","parent":[],"children":[]}

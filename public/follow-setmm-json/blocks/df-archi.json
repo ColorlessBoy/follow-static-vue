@@ -1,0 +1,1 @@
+{"bIdx":33163,"bType":"axiom","type":"","name":"df-archi","params":"setvar s0","body":["|- wceq(carchi, cab(s0, wceq(cfv(cinftm, cv(s0)), emptycls)))"],"bodyPretty":["⊢ Archi = { s0 |(<<< ` s0)= ∅ }"],"proof":[],"comment":"A structure said to be Archimedean if it has no infinitesimal elements. (Contributed by Thierry Arnoux, 30-Jan-2018.)","parent":[],"children":["isarchi"]}

@@ -1,0 +1,1 @@
+{"bIdx":31083,"bType":"axiom","type":"","name":"diff.cspn.w","params":"wff w0","body":["|- diffcw(cspn, w0)"],"bodyPretty":["⊢ d(span, w0)"],"proof":[],"comment":"","parent":[],"children":[]}

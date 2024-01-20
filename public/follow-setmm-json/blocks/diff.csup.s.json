@@ -1,0 +1,1 @@
+{"bIdx":9303,"bType":"axiom","type":"","name":"diff.csup.s","params":"setvar sBase, class c0, class c1, class c2","body":["|- diffsc(sBase, csup(c0, c1, c2))","-| diffsc(sBase, c0)","-| diffsc(sBase, c1)","-| diffsc(sBase, c2)"],"bodyPretty":["⊢ d(sBase, sup(c0, c1, c2))","⊣ d(sBase, c0)","⊣ d(sBase, c1)","⊣ d(sBase, c2)"],"proof":[],"comment":"","parent":[],"children":[]}

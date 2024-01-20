@@ -1,0 +1,1 @@
+{"bIdx":47451,"bType":"axiom","type":"","name":"diff.ccmgm2.c","params":"class c0","body":["|- diffcc(ccmgm2, c0)"],"bodyPretty":["⊢ d(CMgmALT, c0)"],"proof":[],"comment":"","parent":[],"children":[]}

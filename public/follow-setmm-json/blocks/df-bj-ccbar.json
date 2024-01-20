@@ -1,0 +1,1 @@
+{"bIdx":37309,"bType":"axiom","type":"","name":"df-bj-ccbar","params":"","body":["|- wceq(cccbar, cun(cc, cccinfty))"],"bodyPretty":["⊢ CCbar =(ℂ ⋃ CCinfty)"],"proof":[],"comment":"Definition of the set of extended complex numbers ` CCbar ` . (Contributed by BJ, 22-Jun-2019.)","parent":[],"children":["bj-ccssccbar","bj-ccinftyssccbar"]}

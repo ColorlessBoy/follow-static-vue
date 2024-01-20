@@ -1,0 +1,1 @@
+{"bIdx":35979,"bType":"axiom","type":"","name":"diff.cdomain.c","params":"class c0","body":["|- diffcc(cdomain, c0)"],"bodyPretty":["⊢ d(Domain, c0)"],"proof":[],"comment":"","parent":[],"children":[]}

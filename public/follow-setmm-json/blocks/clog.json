@@ -1,0 +1,1 @@
+{"bIdx":27049,"bType":"const","type":"class","name":"clog","params":"","body":["log"],"bodyPretty":[],"proof":[],"comment":"Extend class notation with the natural logarithm function on complex numbers.","parent":[],"children":[]}

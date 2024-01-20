@@ -1,0 +1,1 @@
+{"bIdx":46295,"bType":"const","type":"class","name":"csmblfn","params":"","body":["SMblFn"],"bodyPretty":[],"proof":[],"comment":"Extend class notation with the class of real-valued measurable functions w.r.t. sigma-algebras.","parent":[],"children":[]}

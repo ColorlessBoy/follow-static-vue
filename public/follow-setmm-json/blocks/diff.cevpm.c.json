@@ -1,0 +1,1 @@
+{"bIdx":19879,"bType":"axiom","type":"","name":"diff.cevpm.c","params":"class c0","body":["|- diffcc(cevpm, c0)"],"bodyPretty":["⊢ d(pmEven, c0)"],"proof":[],"comment":"","parent":[],"children":[]}

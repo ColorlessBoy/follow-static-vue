@@ -1,0 +1,1 @@
+{"bIdx":14966,"bType":"axiom","type":"","name":"diff.ccsh.c","params":"class c0","body":["|- diffcc(ccsh, c0)"],"bodyPretty":["⊢ d(cyclShift, c0)"],"proof":[],"comment":"","parent":[],"children":[]}

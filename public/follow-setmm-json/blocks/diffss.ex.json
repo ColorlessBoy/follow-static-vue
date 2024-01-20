@@ -1,0 +1,1 @@
+{"bIdx":75,"bType":"axiom","type":"","name":"diffss.ex","params":"setvar s0, setvar s1","body":["|- diffss(s0, s1)","-| diffss(s1, s0)"],"bodyPretty":["⊢ d(s0, s1)","⊣ d(s1, s0)"],"proof":[],"comment":"","parent":[],"children":[]}

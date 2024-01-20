@@ -1,0 +1,1 @@
+{"bIdx":48324,"bType":"axiom","type":"","name":"diff.walsi.c","params":"class cBase, setvar s0, wff w0, wff w1","body":["|- diffcw(cBase, walsi(s0, w0, w1))","-| diffsc(s0, cBase)","-| diffcw(cBase, w0)","-| diffcw(cBase, w1)"],"bodyPretty":["⊢ d(cBase, ∀!(s0, w0 → w1))","⊣ d(s0, cBase)","⊣ d(cBase, w0)","⊣ d(cBase, w1)"],"proof":[],"comment":"","parent":[],"children":[]}

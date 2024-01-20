@@ -1,0 +1,1 @@
+{"bIdx":47283,"bType":"axiom","type":"","name":"diff.cisomgr.c","params":"class c0","body":["|- diffcc(cisomgr, c0)"],"bodyPretty":["⊢ d(IsomGr, c0)"],"proof":[],"comment":"","parent":[],"children":[]}

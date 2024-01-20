@@ -1,0 +1,1 @@
+{"bIdx":16337,"bType":"axiom","type":"","name":"diff.ctan.s","params":"setvar s0","body":["|- diffsc(s0, ctan)"],"bodyPretty":["⊢ d(s0, tan)"],"proof":[],"comment":"","parent":[],"children":[]}

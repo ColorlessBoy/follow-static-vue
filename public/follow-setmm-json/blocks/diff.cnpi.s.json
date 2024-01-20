@@ -1,0 +1,1 @@
+{"bIdx":10766,"bType":"axiom","type":"","name":"diff.cnpi.s","params":"setvar s0","body":["|- diffsc(s0, cnpi)"],"bodyPretty":["⊢ d(s0, ℕ+)"],"proof":[],"comment":"","parent":[],"children":[]}

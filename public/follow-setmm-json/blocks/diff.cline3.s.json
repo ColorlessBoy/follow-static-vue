@@ -1,0 +1,1 @@
+{"bIdx":44006,"bType":"axiom","type":"","name":"diff.cline3.s","params":"setvar s0","body":["|- diffsc(s0, cline3)"],"bodyPretty":["⊢ d(s0, line3)"],"proof":[],"comment":"","parent":[],"children":[]}

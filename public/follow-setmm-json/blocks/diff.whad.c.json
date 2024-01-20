@@ -1,0 +1,1 @@
+{"bIdx":1870,"bType":"axiom","type":"","name":"diff.whad.c","params":"class cBase, wff w0, wff w1, wff w2","body":["|- diffcw(cBase, whad(w0, w1, w2))","-| diffcw(cBase, w0)","-| diffcw(cBase, w1)","-| diffcw(cBase, w2)"],"bodyPretty":["⊢ d(cBase, hadd(w0, w1, w2))","⊣ d(cBase, w0)","⊣ d(cBase, w1)","⊣ d(cBase, w2)"],"proof":[],"comment":"","parent":[],"children":[]}

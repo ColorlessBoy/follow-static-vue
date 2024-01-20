@@ -1,0 +1,1 @@
+{"bIdx":28448,"bType":"axiom","type":"","name":"diff.cmir.c","params":"class c0","body":["|- diffcc(cmir, c0)"],"bodyPretty":["⊢ d(pInvG, c0)"],"proof":[],"comment":"","parent":[],"children":[]}

@@ -1,0 +1,1 @@
+{"bIdx":33991,"bType":"axiom","type":"","name":"diff.ccarsg.c","params":"class c0","body":["|- diffcc(ccarsg, c0)"],"bodyPretty":["⊢ d(toCaraSiga, c0)"],"proof":[],"comment":"","parent":[],"children":[]}

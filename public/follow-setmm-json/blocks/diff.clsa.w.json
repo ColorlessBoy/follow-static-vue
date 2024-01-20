@@ -1,0 +1,1 @@
+{"bIdx":39158,"bType":"axiom","type":"","name":"diff.clsa.w","params":"wff w0","body":["|- diffcw(clsa, w0)"],"bodyPretty":["⊢ d(LSAtoms, w0)"],"proof":[],"comment":"","parent":[],"children":[]}

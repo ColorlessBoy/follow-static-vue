@@ -1,0 +1,1 @@
+{"bIdx":24467,"bType":"axiom","type":"","name":"diff.ctvc.s","params":"setvar s0","body":["|- diffsc(s0, ctvc)"],"bodyPretty":["⊢ d(s0, TopVec)"],"proof":[],"comment":"","parent":[],"children":[]}

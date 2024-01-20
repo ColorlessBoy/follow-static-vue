@@ -1,0 +1,1 @@
+{"bIdx":10755,"bType":"const","type":"class","name":"ctskm","params":"","body":["tarskiMap"],"bodyPretty":[],"proof":[],"comment":"Extend class definition to include the map whose value is the smallest Tarski class.","parent":[],"children":[]}

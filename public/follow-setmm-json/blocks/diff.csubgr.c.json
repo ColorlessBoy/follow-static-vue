@@ -1,0 +1,1 @@
+{"bIdx":29135,"bType":"axiom","type":"","name":"diff.csubgr.c","params":"class c0","body":["|- diffcc(csubgr, c0)"],"bodyPretty":["⊢ d(SubGraph, c0)"],"proof":[],"comment":"","parent":[],"children":[]}

@@ -1,0 +1,1 @@
+{"bIdx":18366,"bType":"axiom","type":"","name":"diff.cnat.c","params":"class c0","body":["|- diffcc(cnat, c0)"],"bodyPretty":["⊢ d(Nat, c0)"],"proof":[],"comment":"","parent":[],"children":[]}

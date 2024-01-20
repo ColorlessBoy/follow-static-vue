@@ -1,0 +1,1 @@
+{"bIdx":43986,"bType":"axiom","type":"","name":"diff.cplusr.s","params":"setvar s0","body":["|- diffsc(s0, cplusr)"],"bodyPretty":["⊢ d(s0, +r)"],"proof":[],"comment":"","parent":[],"children":[]}

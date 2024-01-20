@@ -1,0 +1,1 @@
+{"bIdx":33849,"bType":"axiom","type":"","name":"diff.cbrsiga.w","params":"wff w0","body":["|- diffcw(cbrsiga, w0)"],"bodyPretty":["⊢ d(BrSiga, w0)"],"proof":[],"comment":"","parent":[],"children":[]}

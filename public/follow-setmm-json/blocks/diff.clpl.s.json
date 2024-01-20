@@ -1,0 +1,1 @@
+{"bIdx":39722,"bType":"axiom","type":"","name":"diff.clpl.s","params":"setvar s0","body":["|- diffsc(s0, clpl)"],"bodyPretty":["⊢ d(s0, LPlanes)"],"proof":[],"comment":"","parent":[],"children":[]}

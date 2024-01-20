@@ -1,0 +1,1 @@
+{"bIdx":22328,"bType":"axiom","type":"","name":"diff.cobs.w","params":"wff w0","body":["|- diffcw(cobs, w0)"],"bodyPretty":["⊢ d(OBasis, w0)"],"proof":[],"comment":"","parent":[],"children":[]}

@@ -1,0 +1,1 @@
+{"bIdx":17627,"bType":"axiom","type":"","name":"df-cco","params":"","body":["|- wceq(cco, cslot(cdc(nat1, nat5)))"],"bodyPretty":["⊢ comp = Slot(cdc(1, 5))"],"proof":[],"comment":"Define the composition operation of a category. (Contributed by Mario Carneiro, 2-Jan-2017.)","parent":[],"children":["ccondx","ccoid","ressco","catcoppccl","catcfuccl","catcxpccl"]}

@@ -1,0 +1,1 @@
+{"bIdx":35146,"bType":"axiom","type":"","name":"diff.cmvt.s","params":"setvar s0","body":["|- diffsc(s0, cmvt)"],"bodyPretty":["⊢ d(s0, mVT)"],"proof":[],"comment":"","parent":[],"children":[]}

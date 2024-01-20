@@ -1,0 +1,1 @@
+{"bIdx":17276,"bType":"axiom","type":"","name":"diff.cvdwp.c","params":"class c0","body":["|- diffcc(cvdwp, c0)"],"bodyPretty":["⊢ d(PolyAP, c0)"],"proof":[],"comment":"","parent":[],"children":[]}

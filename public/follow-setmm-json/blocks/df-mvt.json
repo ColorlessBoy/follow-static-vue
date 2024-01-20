@@ -1,0 +1,1 @@
+{"bIdx":35218,"bType":"axiom","type":"","name":"df-mvt","params":"setvar s0","body":["|- wceq(cmvt, cmpt(s0, universe, crn(cfv(cmty, cv(s0)))))"],"bodyPretty":["⊢ mVT =(s0 ∈ 𝕌 ↦ ran((mType ` s0)))"],"proof":[],"comment":"Define the set of variable typecodes in a Metamath formal system. (Contributed by Mario Carneiro, 14-Jul-2016.)","parent":[],"children":["mvtval"]}

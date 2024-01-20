@@ -1,0 +1,1 @@
+{"bIdx":24170,"bType":"axiom","type":"","name":"diff.cufl.s","params":"setvar s0","body":["|- diffsc(s0, cufl)"],"bodyPretty":["⊢ d(s0, UFL)"],"proof":[],"comment":"","parent":[],"children":[]}

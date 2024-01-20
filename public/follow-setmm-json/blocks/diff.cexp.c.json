@@ -1,0 +1,1 @@
+{"bIdx":14166,"bType":"axiom","type":"","name":"diff.cexp.c","params":"class c0","body":["|- diffcc(cexp, c0)"],"bodyPretty":["⊢ d(^, c0)"],"proof":[],"comment":"","parent":[],"children":[]}

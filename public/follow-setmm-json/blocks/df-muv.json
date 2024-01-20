@@ -1,0 +1,1 @@
+{"bIdx":35410,"bType":"axiom","type":"","name":"df-muv","params":"","body":["|- wceq(cmuv, cslot(nat7))"],"bodyPretty":["⊢ mUV = Slot(7)"],"proof":[],"comment":"Define the universe of a model. (Contributed by Mario Carneiro, 14-Jul-2016.)","parent":[],"children":[""]}

@@ -1,0 +1,1 @@
+{"bIdx":17949,"bType":"axiom","type":"","name":"diff.cacs.w","params":"wff w0","body":["|- diffcw(cacs, w0)"],"bodyPretty":["⊢ d(ACS, w0)"],"proof":[],"comment":"","parent":[],"children":[]}

@@ -1,0 +1,1 @@
+{"bIdx":143,"bType":"axiom","type":"","name":"diff.hs0.w","params":"wff w0","body":["|- diffsw(hs0, w0)"],"bodyPretty":["⊢ d(hs0, w0)"],"proof":[],"comment":"","parent":[],"children":[]}

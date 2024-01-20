@@ -1,0 +1,1 @@
+{"bIdx":23745,"bType":"axiom","type":"","name":"diff.cptfin.w","params":"wff w0","body":["|- diffcw(cptfin, w0)"],"bodyPretty":["⊢ d(PtFin, w0)"],"proof":[],"comment":"","parent":[],"children":[]}

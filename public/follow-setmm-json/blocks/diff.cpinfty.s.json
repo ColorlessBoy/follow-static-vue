@@ -1,0 +1,1 @@
+{"bIdx":37313,"bType":"axiom","type":"","name":"diff.cpinfty.s","params":"setvar s0","body":["|- diffsc(s0, cpinfty)"],"bodyPretty":["⊢ d(s0, pinfty)"],"proof":[],"comment":"","parent":[],"children":[]}

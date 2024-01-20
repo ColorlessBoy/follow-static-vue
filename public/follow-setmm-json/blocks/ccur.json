@@ -1,0 +1,1 @@
+{"bIdx":8257,"bType":"prop","type":"class","name":"ccur","params":"class c0","body":["curry(c0)"],"bodyPretty":[],"proof":[],"comment":"Extend class notation to include the currying function.","parent":[],"children":[]}

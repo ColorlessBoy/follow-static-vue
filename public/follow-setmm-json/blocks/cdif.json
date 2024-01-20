@@ -1,0 +1,1 @@
+{"bIdx":4162,"bType":"prop","type":"class","name":"cdif","params":"class c0, class c1","body":["(c0 \\ c1)"],"bodyPretty":[],"proof":[],"comment":"Extend class notation to include class difference (read: \" ` A ` minus ` B ` \").","parent":[],"children":[]}

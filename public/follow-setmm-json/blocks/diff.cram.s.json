@@ -1,0 +1,1 @@
+{"bIdx":17310,"bType":"axiom","type":"","name":"diff.cram.s","params":"setvar s0","body":["|- diffsc(s0, cram)"],"bodyPretty":["⊢ d(s0, Ramsey)"],"proof":[],"comment":"","parent":[],"children":[]}

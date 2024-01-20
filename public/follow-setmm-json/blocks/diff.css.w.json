@@ -1,0 +1,1 @@
+{"bIdx":30801,"bType":"axiom","type":"","name":"diff.css.w","params":"wff w0","body":["|- diffcw(css, w0)"],"bodyPretty":["⊢ d(SubSp, w0)"],"proof":[],"comment":"","parent":[],"children":[]}

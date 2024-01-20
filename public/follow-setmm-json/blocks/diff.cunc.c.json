@@ -1,0 +1,1 @@
+{"bIdx":8263,"bType":"axiom","type":"","name":"diff.cunc.c","params":"class cBase, class c0","body":["|- diffcc(cBase, cunc(c0))","-| diffcc(cBase, c0)"],"bodyPretty":["⊢ d(cBase, uncurry(c0))","⊣ d(cBase, c0)"],"proof":[],"comment":"","parent":[],"children":[]}

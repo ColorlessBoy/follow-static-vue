@@ -1,0 +1,1 @@
+{"bIdx":21435,"bType":"axiom","type":"","name":"df-idom","params":"","body":["|- wceq(cidom, cin(ccrg, cdomn))"],"bodyPretty":["⊢ IDomn =(CRing ⋂ Domn)"],"proof":[],"comment":"An _integral domain_ is a commutative domain. (Contributed by Mario Carneiro, 17-Jun-2015.)","parent":[],"children":["isidom"]}

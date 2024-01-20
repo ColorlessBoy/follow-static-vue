@@ -1,0 +1,1 @@
+{"bIdx":37105,"bType":"axiom","type":"","name":"diff.bj-c1upl.c","params":"class cBase, class c0","body":["|- diffcc(cBase, bj-c1upl(c0))","-| diffcc(cBase, c0)"],"bodyPretty":["⊢ d(cBase,(| c0 |))","⊣ d(cBase, c0)"],"proof":[],"comment":"","parent":[],"children":[]}

@@ -1,0 +1,1 @@
+{"bIdx":1354,"bType":"prop","type":"wff","name":"w3a","params":"wff w0, wff w1, wff w2","body":["(w0 ∧ w1 ∧ w2)"],"bodyPretty":[],"proof":[],"comment":"Extend wff definition to include three-way conjunction ('and').","parent":[],"children":[]}

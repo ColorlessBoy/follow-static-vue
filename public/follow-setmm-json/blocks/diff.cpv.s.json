@@ -1,0 +1,1 @@
+{"bIdx":30639,"bType":"axiom","type":"","name":"diff.cpv.s","params":"setvar s0","body":["|- diffsc(s0, cpv)"],"bodyPretty":["⊢ d(s0, +v)"],"proof":[],"comment":"","parent":[],"children":[]}

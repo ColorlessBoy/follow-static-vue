@@ -1,0 +1,1 @@
+{"bIdx":22060,"bType":"axiom","type":"","name":"diff.zring.w","params":"wff w0","body":["|- diffcw(zring, w0)"],"bodyPretty":["⊢ d(ZZring, w0)"],"proof":[],"comment":"","parent":[],"children":[]}

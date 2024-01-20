@@ -1,0 +1,1 @@
+{"bIdx":33485,"bType":"axiom","type":"","name":"diff.cpcmp.w","params":"wff w0","body":["|- diffcw(cpcmp, w0)"],"bodyPretty":["⊢ d(Paracomp, w0)"],"proof":[],"comment":"","parent":[],"children":[]}

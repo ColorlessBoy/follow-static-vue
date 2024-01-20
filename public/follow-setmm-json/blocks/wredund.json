@@ -1,0 +1,1 @@
+{"bIdx":38467,"bType":"prop","type":"wff","name":"wredund","params":"class c0, class c1, class c2","body":["Redund(c0, < c1, c2 >)"],"bodyPretty":[],"proof":[],"comment":"Extend the definition of a wff to include the redundancy predicate. (Read: ` A ` is redundant with respect to ` B ` in ` C ` .)","parent":[],"children":[]}

@@ -1,0 +1,1 @@
+{"bIdx":35217,"bType":"axiom","type":"","name":"df-mmax","params":"","body":["|- wceq(cmax, cslot(nat5))"],"bodyPretty":["⊢ mAx = Slot(5)"],"proof":[],"comment":"Define the set of axioms in a Metamath formal system. (Contributed by Mario Carneiro, 14-Jul-2016.)","parent":[],"children":[""]}

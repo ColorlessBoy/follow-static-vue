@@ -1,0 +1,1 @@
+{"bIdx":30845,"bType":"axiom","type":"","name":"diff.chmo.s","params":"setvar s0","body":["|- diffsc(s0, chmo)"],"bodyPretty":["⊢ d(s0, HmOp)"],"proof":[],"comment":"","parent":[],"children":[]}

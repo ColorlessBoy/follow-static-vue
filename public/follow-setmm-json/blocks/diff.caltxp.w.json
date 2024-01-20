@@ -1,0 +1,1 @@
+{"bIdx":36130,"bType":"axiom","type":"","name":"diff.caltxp.w","params":"wff wBase, class c0, class c1","body":["|- diffcw(caltxp(c0, c1), wBase)","-| diffcw(c0, wBase)","-| diffcw(c1, wBase)"],"bodyPretty":["⊢ d((c0 XX. c1), wBase)","⊣ d(c0, wBase)","⊣ d(c1, wBase)"],"proof":[],"comment":"","parent":[],"children":[]}

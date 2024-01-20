@@ -1,0 +1,1 @@
+{"bIdx":35903,"bType":"axiom","type":"","name":"diff.cold.s","params":"setvar s0","body":["|- diffsc(s0, cold)"],"bodyPretty":["⊢ d(s0, _Old)"],"proof":[],"comment":"","parent":[],"children":[]}

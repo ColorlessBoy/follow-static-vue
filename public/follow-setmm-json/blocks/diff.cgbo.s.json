@@ -1,0 +1,1 @@
+{"bIdx":47204,"bType":"axiom","type":"","name":"diff.cgbo.s","params":"setvar s0","body":["|- diffsc(s0, cgbo)"],"bodyPretty":["⊢ d(s0, GoldbachOdd)"],"proof":[],"comment":"","parent":[],"children":[]}

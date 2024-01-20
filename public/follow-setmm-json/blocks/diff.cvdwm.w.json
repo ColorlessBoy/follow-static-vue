@@ -1,0 +1,1 @@
+{"bIdx":17273,"bType":"axiom","type":"","name":"diff.cvdwm.w","params":"wff w0","body":["|- diffcw(cvdwm, w0)"],"bodyPretty":["⊢ d(MonoAP, w0)"],"proof":[],"comment":"","parent":[],"children":[]}

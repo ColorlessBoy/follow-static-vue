@@ -1,0 +1,1 @@
+{"bIdx":46577,"bType":"axiom","type":"","name":"diff.caiota.w","params":"wff wBase, setvar s0, wff w0","body":["|- diffcw(caiota(s0, w0), wBase)","-| diffsw(s0, wBase)","-| diffww(wBase, w0)"],"bodyPretty":["⊢ d(iota'(s0, w0), wBase)","⊣ d(s0, wBase)","⊣ d(wBase, w0)"],"proof":[],"comment":"","parent":[],"children":[]}

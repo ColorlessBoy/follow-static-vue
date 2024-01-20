@@ -1,0 +1,1 @@
+{"bIdx":33410,"bType":"axiom","type":"","name":"diff.csmat.w","params":"wff w0","body":["|- diffcw(csmat, w0)"],"bodyPretty":["⊢ d(subMat1, w0)"],"proof":[],"comment":"","parent":[],"children":[]}

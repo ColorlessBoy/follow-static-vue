@@ -1,0 +1,1 @@
+{"bIdx":36502,"bType":"prop","type":"wff","name":"w3nand","params":"wff w0, wff w1, wff w2","body":["(w0 ⊼ w1 ⊼ w2)"],"bodyPretty":[],"proof":[],"comment":"The double nand.","parent":[],"children":[]}

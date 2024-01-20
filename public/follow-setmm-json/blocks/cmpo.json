@@ -1,0 +1,1 @@
+{"bIdx":7483,"bType":"prop","type":"class","name":"cmpo","params":"setvar s0, setvar s1, class c0, class c1, class c2","body":["(s0 ∈ c0, s1 ∈ c1 ↦ c2)"],"bodyPretty":[],"proof":[],"comment":"Extend the definition of a class to include maps-to notation for defining an operation via a rule.","parent":[],"children":[]}

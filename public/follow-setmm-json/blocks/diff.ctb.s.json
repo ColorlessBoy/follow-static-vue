@@ -1,0 +1,1 @@
+{"bIdx":23113,"bType":"axiom","type":"","name":"diff.ctb.s","params":"setvar s0","body":["|- diffsc(s0, ctb)"],"bodyPretty":["⊢ d(s0, TopBases)"],"proof":[],"comment":"","parent":[],"children":[]}

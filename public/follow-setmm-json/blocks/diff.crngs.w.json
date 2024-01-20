@@ -1,0 +1,1 @@
+{"bIdx":47501,"bType":"axiom","type":"","name":"diff.crngs.w","params":"wff w0","body":["|- diffcw(crngs, w0)"],"bodyPretty":["⊢ d(RngIsom, w0)"],"proof":[],"comment":"","parent":[],"children":[]}

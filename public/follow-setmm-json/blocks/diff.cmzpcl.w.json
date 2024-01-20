@@ -1,0 +1,1 @@
+{"bIdx":42475,"bType":"axiom","type":"","name":"diff.cmzpcl.w","params":"wff w0","body":["|- diffcw(cmzpcl, w0)"],"bodyPretty":["⊢ d(mzPolyCld, w0)"],"proof":[],"comment":"","parent":[],"children":[]}

@@ -1,0 +1,1 @@
+{"bIdx":17623,"bType":"axiom","type":"","name":"df-ocomp","params":"","body":["|- wceq(coc, cslot(cdc(nat1, nat1)))"],"bodyPretty":["⊢ oc = Slot(cdc(1, 1))"],"proof":[],"comment":"Define the orthocomplementation extractor for posets and related structures. (Contributed by NM, 4-Sep-2011.) (Revised by Mario Carneiro, 14-Aug-2015.)","parent":[],"children":["ocndx","ocid"]}

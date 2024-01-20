@@ -1,0 +1,1 @@
+{"bIdx":18979,"bType":"axiom","type":"","name":"diff.ccla.s","params":"setvar s0","body":["|- diffsc(s0, ccla)"],"bodyPretty":["⊢ d(s0, CLat)"],"proof":[],"comment":"","parent":[],"children":[]}

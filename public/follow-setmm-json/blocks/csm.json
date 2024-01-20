@@ -1,0 +1,1 @@
+{"bIdx":31036,"bType":"const","type":"class","name":"csm","params":"","body":[".h"],"bodyPretty":[],"proof":[],"comment":"Extend class notation with scalar multiplication in Hilbert space. In the literature scalar multiplication is usually indicated by juxtaposition, but we need an explicit symbol to prevent ambiguity.","parent":[],"children":[]}

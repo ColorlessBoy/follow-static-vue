@@ -1,0 +1,1 @@
+{"bIdx":5783,"bType":"prop","type":"wff","name":"wse","params":"class c0, class c1","body":["c0[Se]c1"],"bodyPretty":[],"proof":[],"comment":"Extend wff notation to include the set-like predicate. Read: \" ` R ` is set-like on ` A ` \".","parent":[],"children":[]}

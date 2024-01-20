@@ -1,0 +1,1 @@
+{"bIdx":21121,"bType":"axiom","type":"","name":"diff.clmhm.w","params":"wff w0","body":["|- diffcw(clmhm, w0)"],"bodyPretty":["⊢ d(LMHom, w0)"],"proof":[],"comment":"","parent":[],"children":[]}

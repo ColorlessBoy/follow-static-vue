@@ -1,0 +1,1 @@
+{"bIdx":36000,"bType":"axiom","type":"","name":"diff.csuccf.w","params":"wff w0","body":["|- diffcw(csuccf, w0)"],"bodyPretty":["⊢ d(Succ, w0)"],"proof":[],"comment":"","parent":[],"children":[]}

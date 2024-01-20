@@ -1,0 +1,1 @@
+{"bIdx":32722,"bType":"prop","type":"wff","name":"w2reu","params":"setvar s0, setvar s1, class c0, class c1, wff w0","body":["∃!(s0 ∈ c0, s1 ∈ c1, w0)"],"bodyPretty":[],"proof":[],"comment":"Syntax for double restricted existential uniqueness quantification.","parent":[],"children":[]}

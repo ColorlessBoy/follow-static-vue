@@ -1,0 +1,1 @@
+{"bIdx":28584,"bType":"axiom","type":"","name":"diff.clmi.c","params":"class c0","body":["|- diffcc(clmi, c0)"],"bodyPretty":["⊢ d(lInvG, c0)"],"proof":[],"comment":"","parent":[],"children":[]}

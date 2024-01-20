@@ -1,0 +1,1 @@
+{"bIdx":4809,"bType":"prop","type":"class","name":"cpr","params":"class c0, class c1","body":["{ c0, c1 }"],"bodyPretty":[],"proof":[],"comment":"Extend class notation to include unordered pair.","parent":[],"children":[]}

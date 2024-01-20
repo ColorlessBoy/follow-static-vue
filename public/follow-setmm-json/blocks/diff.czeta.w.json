@@ -1,0 +1,1 @@
+{"bIdx":27529,"bType":"axiom","type":"","name":"diff.czeta.w","params":"wff w0","body":["|- diffcw(czeta, w0)"],"bodyPretty":["⊢ d(ζ, w0)"],"proof":[],"comment":"","parent":[],"children":[]}

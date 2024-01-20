@@ -1,0 +1,1 @@
+{"bIdx":24019,"bType":"axiom","type":"","name":"df-hmph","params":"","body":["|- wceq(chmph, cima(ccnv(chmeo), cdif(universe, c1o)))"],"bodyPretty":["⊢ ~= =(`' Homeo \"(𝕌 \\ 1o))"],"proof":[],"comment":"Definition of the relation ` x ` is homeomorphic to ` y ` . (Contributed by FL, 14-Feb-2007.)","parent":[],"children":["hmph","hmphtop","hmpher"]}

@@ -1,0 +1,1 @@
+{"bIdx":25342,"bType":"axiom","type":"","name":"diff.chtpy.w","params":"wff w0","body":["|- diffcw(chtpy, w0)"],"bodyPretty":["⊢ d(Htpy, w0)"],"proof":[],"comment":"","parent":[],"children":[]}

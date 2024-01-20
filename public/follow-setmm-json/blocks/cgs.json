@@ -1,0 +1,1 @@
+{"bIdx":30533,"bType":"const","type":"class","name":"cgs","params":"","body":["/g"],"bodyPretty":[],"proof":[],"comment":"Extend class notation with a function mapping a group operation to the division (or subtraction) operation for the group.","parent":[],"children":[]}

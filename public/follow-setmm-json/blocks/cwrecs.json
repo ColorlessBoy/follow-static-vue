@@ -1,0 +1,1 @@
+{"bIdx":8281,"bType":"prop","type":"class","name":"cwrecs","params":"class c0, class c1, class c2","body":["wrecs(c0, c1, c2)"],"bodyPretty":[],"proof":[],"comment":"Declare syntax for the well-founded recursive function generator.","parent":[],"children":[]}

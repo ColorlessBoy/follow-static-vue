@@ -1,0 +1,1 @@
+{"bIdx":16962,"bType":"axiom","type":"","name":"diff.cprime.w","params":"wff w0","body":["|- diffcw(cprime, w0)"],"bodyPretty":["⊢ d(Prime, w0)"],"proof":[],"comment":"","parent":[],"children":[]}

@@ -1,0 +1,1 @@
+{"bIdx":36692,"bType":"axiom","type":"","name":"ax-prv2","params":"wff w0, wff w1","body":["|- wi(cprvb(wi(w0, w1)), wi(cprvb(w0), cprvb(w1)))"],"bodyPretty":["⊢ (Prv((w0 → w1))→(Prv(w0)→ Prv(w1)))"],"proof":[],"comment":"Second property of three of the provability predicate. (Contributed by BJ, 3-Apr-2019.)","parent":[],"children":["prvlem1","prvlem2"]}

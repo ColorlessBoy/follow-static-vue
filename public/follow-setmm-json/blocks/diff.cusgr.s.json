@@ -1,0 +1,1 @@
+{"bIdx":29016,"bType":"axiom","type":"","name":"diff.cusgr.s","params":"setvar s0","body":["|- diffsc(s0, cusgr)"],"bodyPretty":["⊢ d(s0, USGraph)"],"proof":[],"comment":"","parent":[],"children":[]}

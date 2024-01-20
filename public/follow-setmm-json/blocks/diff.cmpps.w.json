@@ -1,0 +1,1 @@
+{"bIdx":35208,"bType":"axiom","type":"","name":"diff.cmpps.w","params":"wff w0","body":["|- diffcw(cmpps, w0)"],"bodyPretty":["⊢ d(mPPSt, w0)"],"proof":[],"comment":"","parent":[],"children":[]}

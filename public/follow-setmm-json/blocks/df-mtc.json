@@ -1,0 +1,1 @@
+{"bIdx":35216,"bType":"axiom","type":"","name":"df-mtc","params":"","body":["|- wceq(cmtc, cslot(nat4))"],"bodyPretty":["⊢ mTC = Slot(4)"],"proof":[],"comment":"Define the set of typecodes in a Metamath formal system. (Contributed by Mario Carneiro, 14-Jul-2016.)","parent":[],"children":[""]}

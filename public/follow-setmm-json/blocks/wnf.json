@@ -1,0 +1,1 @@
+{"bIdx":2067,"bType":"prop","type":"wff","name":"wnf","params":"setvar s0, wff w0","body":["F/(s0, w0)"],"bodyPretty":[],"proof":[],"comment":"Extend wff definition to include the not-free predicate.","parent":[],"children":[]}

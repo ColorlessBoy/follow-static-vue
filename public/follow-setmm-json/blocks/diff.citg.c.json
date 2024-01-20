@@ -1,0 +1,1 @@
+{"bIdx":26067,"bType":"axiom","type":"","name":"diff.citg.c","params":"class cBase, setvar s0, class c0, class c1","body":["|- diffcc(cBase, citg(s0, c0, c1))","-| diffsc(s0, cBase)","-| diffcc(cBase, c0)","-| diffcc(cBase, c1)"],"bodyPretty":["⊢ d(cBase, S.(c0, c1, s0))","⊣ d(s0, cBase)","⊣ d(cBase, c0)","⊣ d(cBase, c1)"],"proof":[],"comment":"","parent":[],"children":[]}

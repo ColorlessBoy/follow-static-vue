@@ -1,0 +1,1 @@
+{"bIdx":23516,"bType":"axiom","type":"","name":"diff.creg.s","params":"setvar s0","body":["|- diffsc(s0, creg)"],"bodyPretty":["⊢ d(s0, Reg)"],"proof":[],"comment":"","parent":[],"children":[]}

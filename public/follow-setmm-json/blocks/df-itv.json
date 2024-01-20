@@ -1,0 +1,1 @@
+{"bIdx":28220,"bType":"axiom","type":"","name":"df-itv","params":"","body":["|- wceq(citv, cslot(cdc(nat1, nat6)))"],"bodyPretty":["⊢ Itv = Slot(cdc(1, 6))"],"proof":[],"comment":"Define the Interval (segment) index extractor for Tarski geometries. (Contributed by Thierry Arnoux, 24-Aug-2017.)","parent":[],"children":["itvndx","itvid"]}

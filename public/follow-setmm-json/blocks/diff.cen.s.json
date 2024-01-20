@@ -1,0 +1,1 @@
+{"bIdx":8889,"bType":"axiom","type":"","name":"diff.cen.s","params":"setvar s0","body":["|- diffsc(s0, cen)"],"bodyPretty":["⊢ d(s0, ≅)"],"proof":[],"comment":"","parent":[],"children":[]}

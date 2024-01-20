@@ -1,0 +1,1 @@
+{"bIdx":26850,"bType":"axiom","type":"","name":"diff.ctayl.w","params":"wff w0","body":["|- diffcw(ctayl, w0)"],"bodyPretty":["⊢ d(Tayl, w0)"],"proof":[],"comment":"","parent":[],"children":[]}

@@ -1,0 +1,1 @@
+{"bIdx":33121,"bType":"axiom","type":"","name":"df-ogrp","params":"","body":["|- wceq(cogrp, cin(cgrp, comnd))"],"bodyPretty":["⊢ oGrp =(Grp ⋂ oMnd)"],"proof":[],"comment":"Define class of all ordered groups. An ordered group is a group with a total ordering compatible with its operation. (Contributed by Thierry Arnoux, 13-Mar-2018.)","parent":[],"children":["isogrp"]}

@@ -1,0 +1,1 @@
+{"bIdx":20821,"bType":"axiom","type":"","name":"df-field","params":"","body":["|- wceq(cfield, cin(cdr, ccrg))"],"bodyPretty":["⊢ Field =(DivRing ⋂ CRing)"],"proof":[],"comment":"A _field_ is a commutative division ring. (Contributed by Mario Carneiro, 17-Jun-2015.)","parent":[],"children":["isfld","fldc","fldhmsubc","fldcALTV","fldhmsubcALTV"]}

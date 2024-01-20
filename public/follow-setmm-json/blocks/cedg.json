@@ -1,0 +1,1 @@
+{"bIdx":28895,"bType":"const","type":"class","name":"cedg","params":"","body":["Edg"],"bodyPretty":[],"proof":[],"comment":"Extend class notation with the set of edges (of an undirected simple (hyper-/pseudo-)graph).","parent":[],"children":[]}

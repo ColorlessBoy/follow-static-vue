@@ -1,0 +1,1 @@
+{"bIdx":29204,"bType":"const","type":"class","name":"cnbgr","params":"","body":["NeighbVtx"],"bodyPretty":[],"proof":[],"comment":"Extend class notation with neighbors (of a vertex in a graph).","parent":[],"children":[]}

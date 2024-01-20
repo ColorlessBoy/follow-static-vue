@@ -1,0 +1,1 @@
+{"bIdx":16479,"bType":"axiom","type":"","name":"diff.ctau.s","params":"setvar s0","body":["|- diffsc(s0, ctau)"],"bodyPretty":["⊢ d(s0, τ)"],"proof":[],"comment":"","parent":[],"children":[]}

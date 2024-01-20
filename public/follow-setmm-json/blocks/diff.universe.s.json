@@ -1,0 +1,1 @@
+{"bIdx":3744,"bType":"axiom","type":"","name":"diff.universe.s","params":"setvar s0","body":["|- diffsc(s0, universe)"],"bodyPretty":["⊢ d(s0, 𝕌)"],"proof":[],"comment":"","parent":[],"children":[]}

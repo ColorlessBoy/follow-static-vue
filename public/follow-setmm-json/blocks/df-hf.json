@@ -1,0 +1,1 @@
+{"bIdx":36388,"bType":"axiom","type":"","name":"df-hf","params":"","body":["|- wceq(chf, cuni(cima(cr1, com)))"],"bodyPretty":["⊢ Hf = ⋃(R1 \" _om)"],"proof":[],"comment":"Define the hereditarily finite sets. These are the finite sets whose elements are finite, and so forth. (Contributed by Scott Fenton, 9-Jul-2015.)","parent":[],"children":["elhf"]}

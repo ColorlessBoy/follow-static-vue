@@ -1,0 +1,1 @@
+{"bIdx":43036,"bType":"axiom","type":"","name":"diff.ccytp.w","params":"wff w0","body":["|- diffcw(ccytp, w0)"],"bodyPretty":["⊢ d(CytP, w0)"],"proof":[],"comment":"","parent":[],"children":[]}

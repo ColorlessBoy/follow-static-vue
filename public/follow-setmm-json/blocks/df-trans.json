@@ -1,0 +1,1 @@
+{"bIdx":36024,"bType":"axiom","type":"","name":"df-trans","params":"","body":["|- wceq(ctrans, cdif(universe, crn(cdif(ccom(cep, cep), cep))))"],"bodyPretty":["⊢ Trans =(𝕌 \\ ran(((∈ ∘ ∈)\\ ∈)))"],"proof":[],"comment":"Define the class of all transitive sets. (Contributed by Scott Fenton, 31-Mar-2012.)","parent":[],"children":["eltrans"]}

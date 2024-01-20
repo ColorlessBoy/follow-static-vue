@@ -1,0 +1,1 @@
+{"bIdx":20506,"bType":"axiom","type":"","name":"diff.cmgp.c","params":"class c0","body":["|- diffcc(cmgp, c0)"],"bodyPretty":["⊢ d(mulGrp, c0)"],"proof":[],"comment":"","parent":[],"children":[]}

@@ -1,0 +1,1 @@
+{"bIdx":22105,"bType":"axiom","type":"","name":"diff.czn.w","params":"wff w0","body":["|- diffcw(czn, w0)"],"bodyPretty":["⊢ d(Z/nZ, w0)"],"proof":[],"comment":"","parent":[],"children":[]}

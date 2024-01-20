@@ -1,0 +1,1 @@
+{"bIdx":20930,"bType":"axiom","type":"","name":"diff.csr.w","params":"wff w0","body":["|- diffcw(csr, w0)"],"bodyPretty":["⊢ d(*Ring, w0)"],"proof":[],"comment":"","parent":[],"children":[]}

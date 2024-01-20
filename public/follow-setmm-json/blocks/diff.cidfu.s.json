@@ -1,0 +1,1 @@
+{"bIdx":18264,"bType":"axiom","type":"","name":"diff.cidfu.s","params":"setvar s0","body":["|- diffsc(s0, cidfu)"],"bodyPretty":["⊢ d(s0, idFunc)"],"proof":[],"comment":"","parent":[],"children":[]}

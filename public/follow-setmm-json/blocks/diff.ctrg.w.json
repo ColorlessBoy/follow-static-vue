@@ -1,0 +1,1 @@
+{"bIdx":24457,"bType":"axiom","type":"","name":"diff.ctrg.w","params":"wff w0","body":["|- diffcw(ctrg, w0)"],"bodyPretty":["⊢ d(TopRing, w0)"],"proof":[],"comment":"","parent":[],"children":[]}

@@ -1,0 +1,1 @@
+{"bIdx":19119,"bType":"axiom","type":"","name":"diff.cdir.c","params":"class c0","body":["|- diffcc(cdir, c0)"],"bodyPretty":["⊢ d(DirRel, c0)"],"proof":[],"comment":"","parent":[],"children":[]}

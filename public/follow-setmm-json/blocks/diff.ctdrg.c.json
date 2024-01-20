@@ -1,0 +1,1 @@
+{"bIdx":24460,"bType":"axiom","type":"","name":"diff.ctdrg.c","params":"class c0","body":["|- diffcc(ctdrg, c0)"],"bodyPretty":["⊢ d(TopDRing, c0)"],"proof":[],"comment":"","parent":[],"children":[]}

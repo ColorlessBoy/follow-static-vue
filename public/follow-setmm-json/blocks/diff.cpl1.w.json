@@ -1,0 +1,1 @@
+{"bIdx":21747,"bType":"axiom","type":"","name":"diff.cpl1.w","params":"wff w0","body":["|- diffcw(cpl1, w0)"],"bodyPretty":["⊢ d(Poly1, w0)"],"proof":[],"comment":"","parent":[],"children":[]}

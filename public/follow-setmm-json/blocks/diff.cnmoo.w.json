@@ -1,0 +1,1 @@
+{"bIdx":30827,"bType":"axiom","type":"","name":"diff.cnmoo.w","params":"wff w0","body":["|- diffcw(cnmoo, w0)"],"bodyPretty":["⊢ d(normOpOLD, w0)"],"proof":[],"comment":"","parent":[],"children":[]}

@@ -1,0 +1,1 @@
+{"bIdx":37034,"bType":"prop","type":"wff","name":"wnnf","params":"setvar s0, wff w0","body":["F/(s0, w0)"],"bodyPretty":[],"proof":[],"comment":"Syntax for the nonfreeness quantifier.","parent":[],"children":[]}

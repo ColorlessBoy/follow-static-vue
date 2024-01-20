@@ -1,0 +1,1 @@
+{"bIdx":3409,"bType":"prop","type":"wff","name":"wrex","params":"setvar s0, class c0, wff w0","body":["∃(s0 ∈ c0, w0)"],"bodyPretty":[],"proof":[],"comment":"Extend wff notation to include restricted existential quantification.","parent":[],"children":[]}

@@ -1,0 +1,1 @@
+{"bIdx":38528,"bType":"axiom","type":"","name":"diff.weldisj.s","params":"setvar sBase, class c0","body":["|- diffsw(sBase, weldisj(c0))","-| diffsc(sBase, c0)"],"bodyPretty":["⊢ d(sBase, ElDisj(c0))","⊣ d(sBase, c0)"],"proof":[],"comment":"","parent":[],"children":[]}

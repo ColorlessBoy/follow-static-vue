@@ -1,0 +1,1 @@
+{"bIdx":47824,"bType":"const","type":"class","name":"clinc","params":"","body":["linC"],"bodyPretty":[],"proof":[],"comment":"Extend class notation with the operation constructing a linear combination (of vectors from a left module).","parent":[],"children":[]}

@@ -1,0 +1,1 @@
+{"bIdx":26675,"bType":"axiom","type":"","name":"diff.cdgr.s","params":"setvar s0","body":["|- diffsc(s0, cdgr)"],"bodyPretty":["⊢ d(s0, deg)"],"proof":[],"comment":"","parent":[],"children":[]}

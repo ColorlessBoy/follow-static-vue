@@ -1,0 +1,1 @@
+{"bIdx":22914,"bType":"axiom","type":"","name":"diff.cdecpmat.w","params":"wff w0","body":["|- diffcw(cdecpmat, w0)"],"bodyPretty":["⊢ d(decompPMat, w0)"],"proof":[],"comment":"","parent":[],"children":[]}

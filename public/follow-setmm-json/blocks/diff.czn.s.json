@@ -1,0 +1,1 @@
+{"bIdx":22103,"bType":"axiom","type":"","name":"diff.czn.s","params":"setvar s0","body":["|- diffsc(s0, czn)"],"bodyPretty":["⊢ d(s0, Z/nZ)"],"proof":[],"comment":"","parent":[],"children":[]}

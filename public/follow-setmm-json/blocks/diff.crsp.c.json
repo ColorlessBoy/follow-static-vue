@@ -1,0 +1,1 @@
+{"bIdx":21296,"bType":"axiom","type":"","name":"diff.crsp.c","params":"class c0","body":["|- diffcc(crsp, c0)"],"bodyPretty":["⊢ d(RSpan, c0)"],"proof":[],"comment":"","parent":[],"children":[]}

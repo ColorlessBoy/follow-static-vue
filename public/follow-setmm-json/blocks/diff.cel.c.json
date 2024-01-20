@@ -1,0 +1,1 @@
+{"bIdx":31194,"bType":"axiom","type":"","name":"diff.cel.c","params":"class c0","body":["|- diffcc(cel, c0)"],"bodyPretty":["⊢ d(eigval, c0)"],"proof":[],"comment":"","parent":[],"children":[]}

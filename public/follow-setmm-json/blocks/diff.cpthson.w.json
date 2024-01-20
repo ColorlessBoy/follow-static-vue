@@ -1,0 +1,1 @@
+{"bIdx":29635,"bType":"axiom","type":"","name":"diff.cpthson.w","params":"wff w0","body":["|- diffcw(cpthson, w0)"],"bodyPretty":["⊢ d(PathsOn, w0)"],"proof":[],"comment":"","parent":[],"children":[]}

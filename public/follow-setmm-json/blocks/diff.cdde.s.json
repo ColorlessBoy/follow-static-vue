@@ -1,0 +1,1 @@
+{"bIdx":33907,"bType":"axiom","type":"","name":"diff.cdde.s","params":"setvar s0","body":["|- diffsc(s0, cdde)"],"bodyPretty":["⊢ d(s0, Ddelta)"],"proof":[],"comment":"","parent":[],"children":[]}

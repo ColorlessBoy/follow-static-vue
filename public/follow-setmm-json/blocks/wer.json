@@ -1,0 +1,1 @@
+{"bIdx":8653,"bType":"prop","type":"wff","name":"wer","params":"class c0, class c1","body":["c0[Er]c1"],"bodyPretty":[],"proof":[],"comment":"Extend the definition of a wff to include the equivalence predicate.","parent":[],"children":[]}

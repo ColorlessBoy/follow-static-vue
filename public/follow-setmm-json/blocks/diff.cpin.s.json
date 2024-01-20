@@ -1,0 +1,1 @@
+{"bIdx":25398,"bType":"axiom","type":"","name":"diff.cpin.s","params":"setvar s0","body":["|- diffsc(s0, cpin)"],"bodyPretty":["⊢ d(s0, piN)"],"proof":[],"comment":"","parent":[],"children":[]}

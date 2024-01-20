@@ -1,0 +1,1 @@
+{"bIdx":33679,"bType":"prop","type":"class","name":"cesum","params":"setvar s0, class c0, class c1","body":["sum*(s0 ∈ c0, c1)"],"bodyPretty":[],"proof":[],"comment":"Extend class notation to include infinite summations.","parent":[],"children":[]}

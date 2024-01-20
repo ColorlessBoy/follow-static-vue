@@ -1,0 +1,1 @@
+{"bIdx":28944,"bType":"axiom","type":"","name":"diff.cumgr.w","params":"wff w0","body":["|- diffcw(cumgr, w0)"],"bodyPretty":["⊢ d(UMGraph, w0)"],"proof":[],"comment":"","parent":[],"children":[]}

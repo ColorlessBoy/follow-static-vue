@@ -1,0 +1,1 @@
+{"bIdx":25461,"bType":"axiom","type":"","name":"diff.cclm.w","params":"wff w0","body":["|- diffcw(cclm, w0)"],"bodyPretty":["⊢ d(CMod, w0)"],"proof":[],"comment":"","parent":[],"children":[]}

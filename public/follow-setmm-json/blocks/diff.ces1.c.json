@@ -1,0 +1,1 @@
+{"bIdx":21886,"bType":"axiom","type":"","name":"diff.ces1.c","params":"class c0","body":["|- diffcc(ces1, c0)"],"bodyPretty":["⊢ d(evalSub1, c0)"],"proof":[],"comment":"","parent":[],"children":[]}

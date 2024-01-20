@@ -1,0 +1,1 @@
+{"bIdx":28913,"bType":"axiom","type":"","name":"diff.cushgr.c","params":"class c0","body":["|- diffcc(cushgr, c0)"],"bodyPretty":["⊢ d(USHGraph, c0)"],"proof":[],"comment":"","parent":[],"children":[]}

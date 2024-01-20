@@ -1,0 +1,1 @@
+{"bIdx":16325,"bType":"axiom","type":"","name":"diff.ceu.s","params":"setvar s0","body":["|- diffsc(s0, ceu)"],"bodyPretty":["⊢ d(s0, e)"],"proof":[],"comment":"","parent":[],"children":[]}

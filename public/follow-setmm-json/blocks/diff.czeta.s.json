@@ -1,0 +1,1 @@
+{"bIdx":27527,"bType":"axiom","type":"","name":"diff.czeta.s","params":"setvar s0","body":["|- diffsc(s0, czeta)"],"bodyPretty":["⊢ d(s0, ζ)"],"proof":[],"comment":"","parent":[],"children":[]}

@@ -1,0 +1,1 @@
+{"bIdx":47406,"bType":"axiom","type":"","name":"diff.ccomlaw.w","params":"wff w0","body":["|- diffcw(ccomlaw, w0)"],"bodyPretty":["⊢ d(comLaw, w0)"],"proof":[],"comment":"","parent":[],"children":[]}

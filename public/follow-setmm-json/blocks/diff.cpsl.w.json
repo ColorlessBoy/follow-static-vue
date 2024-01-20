@@ -1,0 +1,1 @@
+{"bIdx":35452,"bType":"axiom","type":"","name":"diff.cpsl.w","params":"wff w0","body":["|- diffcw(cpsl, w0)"],"bodyPretty":["⊢ d(polySplitLim, w0)"],"proof":[],"comment":"","parent":[],"children":[]}

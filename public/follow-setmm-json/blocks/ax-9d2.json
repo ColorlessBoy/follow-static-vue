@@ -1,0 +1,1 @@
+{"bIdx":34845,"bType":"axiom","type":"","name":"ax-9d2","params":"setvar s0, setvar s1","body":["|- wn(wal(s0, wn(wceq(cv(s0), cv(s1)))))","-| diffss(s0, s1)"],"bodyPretty":["⊢ ¬ ∀(s0, ¬ s0 = s1)","⊣ d(s0, s1)"],"proof":[],"comment":"Distinct variable version of ~ ax-6 , distinct variables case. (Contributed by Mario Carneiro, 14-Aug-2015.)","parent":[],"children":[""]}

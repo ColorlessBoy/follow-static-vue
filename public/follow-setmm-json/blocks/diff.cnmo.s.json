@@ -1,0 +1,1 @@
+{"bIdx":25068,"bType":"axiom","type":"","name":"diff.cnmo.s","params":"setvar s0","body":["|- diffsc(s0, cnmo)"],"bodyPretty":["⊢ d(s0, normOp)"],"proof":[],"comment":"","parent":[],"children":[]}

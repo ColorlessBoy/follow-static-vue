@@ -1,0 +1,1 @@
+{"bIdx":48045,"bType":"axiom","type":"","name":"diff.cdig.w","params":"wff w0","body":["|- diffcw(cdig, w0)"],"bodyPretty":["⊢ d(digit, w0)"],"proof":[],"comment":"","parent":[],"children":[]}

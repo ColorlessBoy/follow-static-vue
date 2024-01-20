@@ -1,0 +1,1 @@
+{"bIdx":4455,"bType":"prop","type":"class","name":"csymdif","params":"class c0, class c1","body":["(c0 ∆ c1)"],"bodyPretty":[],"proof":[],"comment":"Declare the syntax for symmetric difference.","parent":[],"children":[]}

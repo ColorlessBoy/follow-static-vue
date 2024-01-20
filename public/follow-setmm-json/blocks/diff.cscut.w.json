@@ -1,0 +1,1 @@
+{"bIdx":35871,"bType":"axiom","type":"","name":"diff.cscut.w","params":"wff w0","body":["|- diffcw(cscut, w0)"],"bodyPretty":["⊢ d(|s, w0)"],"proof":[],"comment":"","parent":[],"children":[]}

@@ -1,0 +1,1 @@
+{"bIdx":36566,"bType":"prop","type":"class","name":"cgcdOLD","params":"class c0, class c1","body":["gcdOLD(c0, c1)"],"bodyPretty":[],"proof":[],"comment":"Extend class notation to include the gdc function. (New usage is discouraged.)","parent":[],"children":[]}

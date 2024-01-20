@@ -1,0 +1,1 @@
+{"bIdx":31141,"bType":"axiom","type":"","name":"diff.clo.s","params":"setvar s0","body":["|- diffsc(s0, clo)"],"bodyPretty":["⊢ d(s0, LinOp)"],"proof":[],"comment":"","parent":[],"children":[]}

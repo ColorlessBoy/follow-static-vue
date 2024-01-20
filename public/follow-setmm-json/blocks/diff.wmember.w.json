@@ -1,0 +1,1 @@
+{"bIdx":38498,"bType":"axiom","type":"","name":"diff.wmember.w","params":"wff wBase, class c0","body":["|- diffww(wBase, wmember(c0))","-| diffcw(c0, wBase)"],"bodyPretty":["⊢ d(wBase, MembEr(c0))","⊣ d(c0, wBase)"],"proof":[],"comment":"","parent":[],"children":[]}

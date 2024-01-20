@@ -1,0 +1,1 @@
+{"bIdx":18031,"bType":"axiom","type":"","name":"diff.ccat.w","params":"wff w0","body":["|- diffcw(ccat, w0)"],"bodyPretty":["⊢ d(Cat, w0)"],"proof":[],"comment":"","parent":[],"children":[]}

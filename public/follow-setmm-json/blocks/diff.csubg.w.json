@@ -1,0 +1,1 @@
+{"bIdx":19520,"bType":"axiom","type":"","name":"diff.csubg.w","params":"wff w0","body":["|- diffcw(csubg, w0)"],"bodyPretty":["⊢ d(SubGrp, w0)"],"proof":[],"comment":"","parent":[],"children":[]}

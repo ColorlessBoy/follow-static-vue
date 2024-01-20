@@ -1,0 +1,1 @@
+{"bIdx":37396,"bType":"axiom","type":"","name":"df-bj-nnbar","params":"","body":["|- wceq(cnnbar, cun(cn0, csn(cpinfty)))"],"bodyPretty":["⊢ NNbar =(ℕ0 ⋃ { pinfty })"],"proof":[],"comment":"Definition of the extended natural numbers. (Contributed by BJ, 28-Jul-2023.)","parent":[],"children":[""]}

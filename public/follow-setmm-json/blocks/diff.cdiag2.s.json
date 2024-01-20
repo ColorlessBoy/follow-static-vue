@@ -1,0 +1,1 @@
+{"bIdx":37261,"bType":"axiom","type":"","name":"diff.cdiag2.s","params":"setvar s0","body":["|- diffsc(s0, cdiag2)"],"bodyPretty":["⊢ d(s0, Diag)"],"proof":[],"comment":"","parent":[],"children":[]}

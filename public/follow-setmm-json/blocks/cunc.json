@@ -1,0 +1,1 @@
+{"bIdx":8261,"bType":"prop","type":"class","name":"cunc","params":"class c0","body":["uncurry(c0)"],"bodyPretty":[],"proof":[],"comment":"Extend class notation to include the uncurrying function.","parent":[],"children":[]}

@@ -1,0 +1,1 @@
+{"bIdx":15724,"bType":"axiom","type":"","name":"diff.cli.c","params":"class c0","body":["|- diffcc(cli, c0)"],"bodyPretty":["⊢ d(~~>, c0)"],"proof":[],"comment":"","parent":[],"children":[]}

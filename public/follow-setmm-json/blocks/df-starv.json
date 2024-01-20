@@ -1,0 +1,1 @@
+{"bIdx":17617,"bType":"axiom","type":"","name":"df-starv","params":"","body":["|- wceq(cstv, cslot(nat4))"],"bodyPretty":["⊢ *r = Slot(4)"],"proof":[],"comment":"Define the involution function of a *-ring. (Contributed by NM, 4-Sep-2011.) (Revised by Mario Carneiro, 14-Aug-2015.)","parent":[],"children":["starvndx","starvid","ressstarv"]}

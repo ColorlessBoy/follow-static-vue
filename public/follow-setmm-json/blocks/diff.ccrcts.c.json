@@ -1,0 +1,1 @@
+{"bIdx":29713,"bType":"axiom","type":"","name":"diff.ccrcts.c","params":"class c0","body":["|- diffcc(ccrcts, c0)"],"bodyPretty":["⊢ d(Circuits, c0)"],"proof":[],"comment":"","parent":[],"children":[]}

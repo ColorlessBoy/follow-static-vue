@@ -1,0 +1,1 @@
+{"bIdx":31044,"bType":"const","type":"class","name":"cno","params":"","body":["normh"],"bodyPretty":[],"proof":[],"comment":"Extend class notation with the norm function in Hilbert space. In the literature, the norm of ` A ` is usually written \"|| ` A ` ||\", but we use function notation to take advantage of our existing theorems about functions.","parent":[],"children":[]}

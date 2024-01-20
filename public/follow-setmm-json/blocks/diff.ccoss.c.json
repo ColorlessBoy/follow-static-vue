@@ -1,0 +1,1 @@
+{"bIdx":38385,"bType":"axiom","type":"","name":"diff.ccoss.c","params":"class cBase, class c0","body":["|- diffcc(cBase, ccoss(c0))","-| diffcc(cBase, c0)"],"bodyPretty":["⊢ d(cBase,, ~(c0))","⊣ d(cBase, c0)"],"proof":[],"comment":"","parent":[],"children":[]}

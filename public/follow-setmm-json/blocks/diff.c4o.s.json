@@ -1,0 +1,1 @@
+{"bIdx":8457,"bType":"axiom","type":"","name":"diff.c4o.s","params":"setvar s0","body":["|- diffsc(s0, c4o)"],"bodyPretty":["⊢ d(s0, 4o)"],"proof":[],"comment":"","parent":[],"children":[]}

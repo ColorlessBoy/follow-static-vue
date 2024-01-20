@@ -1,0 +1,1 @@
+{"bIdx":15195,"bType":"axiom","type":"","name":"diff.crtcl.s","params":"setvar s0","body":["|- diffsc(s0, crtcl)"],"bodyPretty":["⊢ d(s0, t*)"],"proof":[],"comment":"","parent":[],"children":[]}

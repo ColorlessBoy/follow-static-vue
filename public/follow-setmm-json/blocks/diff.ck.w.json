@@ -1,0 +1,1 @@
+{"bIdx":31183,"bType":"axiom","type":"","name":"diff.ck.w","params":"wff w0","body":["|- diffcw(ck, w0)"],"bodyPretty":["⊢ d(ketbra, w0)"],"proof":[],"comment":"","parent":[],"children":[]}

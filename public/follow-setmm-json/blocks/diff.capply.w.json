@@ -1,0 +1,1 @@
+{"bIdx":35988,"bType":"axiom","type":"","name":"diff.capply.w","params":"wff w0","body":["|- diffcw(capply, w0)"],"bodyPretty":["⊢ d(Apply, w0)"],"proof":[],"comment":"","parent":[],"children":[]}

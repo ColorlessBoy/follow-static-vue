@@ -1,0 +1,1 @@
+{"bIdx":1816,"bType":"axiom","type":"","name":"diff.wtru.w","params":"wff w0","body":["|- diffww(wtru, w0)"],"bodyPretty":["⊢ d(T, w0)"],"proof":[],"comment":"","parent":[],"children":[]}

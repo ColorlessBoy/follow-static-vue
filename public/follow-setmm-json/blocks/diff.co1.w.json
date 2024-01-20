@@ -1,0 +1,1 @@
+{"bIdx":15733,"bType":"axiom","type":"","name":"diff.co1.w","params":"wff w0","body":["|- diffcw(co1, w0)"],"bodyPretty":["⊢ d(O(1), w0)"],"proof":[],"comment":"","parent":[],"children":[]}

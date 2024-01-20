@@ -1,0 +1,1 @@
+{"bIdx":47402,"bType":"axiom","type":"","name":"diff.casslaw.w","params":"wff w0","body":["|- diffcw(casslaw, w0)"],"bodyPretty":["⊢ d(assLaw, w0)"],"proof":[],"comment":"","parent":[],"children":[]}

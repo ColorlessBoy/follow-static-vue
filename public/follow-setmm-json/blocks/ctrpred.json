@@ -1,0 +1,1 @@
+{"bIdx":35659,"bType":"prop","type":"class","name":"ctrpred","params":"class c0, class c1, class c2","body":["TrPred(c0, c1, c2)"],"bodyPretty":[],"proof":[],"comment":"Define the transitive predecessor class as a class.","parent":[],"children":[]}

@@ -1,0 +1,1 @@
+{"bIdx":30638,"bType":"const","type":"class","name":"cpv","params":"","body":["+v"],"bodyPretty":[],"proof":[],"comment":"Extend class notation with vector addition in a normed complex vector space. In the literature, the subscript \"v\" is omitted, but we need it to avoid ambiguity with complex number addition ` + ` ~ caddc .","parent":[],"children":[]}

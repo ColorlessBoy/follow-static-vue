@@ -1,0 +1,1 @@
+{"bIdx":24571,"bType":"axiom","type":"","name":"diff.cuss.s","params":"setvar s0","body":["|- diffsc(s0, cuss)"],"bodyPretty":["⊢ d(s0, UnifSt)"],"proof":[],"comment":"","parent":[],"children":[]}

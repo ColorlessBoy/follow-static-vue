@@ -1,0 +1,1 @@
+{"bIdx":17937,"bType":"axiom","type":"","name":"diff.cmre.w","params":"wff w0","body":["|- diffcw(cmre, w0)"],"bodyPretty":["⊢ d(Moore, w0)"],"proof":[],"comment":"","parent":[],"children":[]}

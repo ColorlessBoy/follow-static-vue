@@ -1,0 +1,1 @@
+{"bIdx":35944,"bType":"axiom","type":"","name":"diff.cbigcup.w","params":"wff w0","body":["|- diffcw(cbigcup, w0)"],"bodyPretty":["⊢ d(Bigcup, w0)"],"proof":[],"comment":"","parent":[],"children":[]}

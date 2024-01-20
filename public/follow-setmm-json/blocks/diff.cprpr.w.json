@@ -1,0 +1,1 @@
+{"bIdx":46943,"bType":"axiom","type":"","name":"diff.cprpr.w","params":"wff w0","body":["|- diffcw(cprpr, w0)"],"bodyPretty":["⊢ d(PrPairs, w0)"],"proof":[],"comment":"","parent":[],"children":[]}

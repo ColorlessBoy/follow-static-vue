@@ -1,0 +1,1 @@
+{"bIdx":30637,"bType":"axiom","type":"","name":"diff.cnv.w","params":"wff w0","body":["|- diffcw(cnv, w0)"],"bodyPretty":["⊢ d(NrmCVec, w0)"],"proof":[],"comment":"","parent":[],"children":[]}

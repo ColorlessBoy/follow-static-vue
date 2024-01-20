@@ -1,0 +1,1 @@
+{"bIdx":35982,"bType":"axiom","type":"","name":"diff.crange.s","params":"setvar s0","body":["|- diffsc(s0, crange)"],"bodyPretty":["⊢ d(s0, Range)"],"proof":[],"comment":"","parent":[],"children":[]}

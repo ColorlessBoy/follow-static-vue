@@ -1,0 +1,1 @@
+{"bIdx":36006,"bType":"axiom","type":"","name":"diff.cfullfn.s","params":"setvar sBase, class c0","body":["|- diffsc(sBase, cfullfn(c0))","-| diffsc(sBase, c0)"],"bodyPretty":["⊢ d(sBase, FullFun(c0))","⊣ d(sBase, c0)"],"proof":[],"comment":"","parent":[],"children":[]}

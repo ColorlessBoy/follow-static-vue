@@ -1,0 +1,1 @@
+{"bIdx":10758,"bType":"axiom","type":"","name":"diff.ctskm.w","params":"wff w0","body":["|- diffcw(ctskm, w0)"],"bodyPretty":["⊢ d(tarskiMap, w0)"],"proof":[],"comment":"","parent":[],"children":[]}

@@ -1,0 +1,1 @@
+{"bIdx":20763,"bType":"axiom","type":"","name":"diff.crpm.w","params":"wff w0","body":["|- diffcw(crpm, w0)"],"bodyPretty":["⊢ d(RPrime, w0)"],"proof":[],"comment":"","parent":[],"children":[]}

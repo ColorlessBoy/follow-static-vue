@@ -1,0 +1,1 @@
+{"bIdx":8474,"bType":"axiom","type":"","name":"df-3o","params":"","body":["|- wceq(c3o, csuc(c2o))"],"bodyPretty":["⊢ 3o = suc(2o)"],"proof":[],"comment":"Define the ordinal number 3. (Contributed by Mario Carneiro, 14-Jul-2013.)","parent":[],"children":["3on","o2p2e4","3onn","en3","hash3","finxp3o","df3o2","df3o3","clsk1independent"]}

@@ -1,0 +1,1 @@
+{"bIdx":35395,"bType":"axiom","type":"","name":"diff.cusyn.s","params":"setvar s0","body":["|- diffsc(s0, cusyn)"],"bodyPretty":["⊢ d(s0, mUSyn)"],"proof":[],"comment":"","parent":[],"children":[]}

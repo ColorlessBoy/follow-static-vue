@@ -1,0 +1,1 @@
+{"bIdx":20202,"bType":"axiom","type":"","name":"df-abl","params":"","body":["|- wceq(cabl, cin(cgrp, ccmn))"],"bodyPretty":["⊢ Abel =(Grp ⋂ CMnd)"],"proof":[],"comment":"Define class of all Abelian groups. (Contributed by NM, 17-Oct-2011.) (Revised by Mario Carneiro, 6-Jan-2015.)","parent":[],"children":["isabl","bj-ablssgrp","bj-ablsscmn"]}

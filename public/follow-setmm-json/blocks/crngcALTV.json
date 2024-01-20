@@ -1,0 +1,1 @@
+{"bIdx":47576,"bType":"const","type":"class","name":"crngcALTV","params":"","body":["RngCatALTV"],"bodyPretty":[],"proof":[],"comment":"Extend class notation to include the category Rng. (New usage is discouraged.)","parent":[],"children":[]}

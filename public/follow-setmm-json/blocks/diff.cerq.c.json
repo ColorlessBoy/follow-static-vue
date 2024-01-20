@@ -1,0 +1,1 @@
+{"bIdx":10807,"bType":"axiom","type":"","name":"diff.cerq.c","params":"class c0","body":["|- diffcc(cerq, c0)"],"bodyPretty":["⊢ d(/ℚ, c0)"],"proof":[],"comment":"","parent":[],"children":[]}

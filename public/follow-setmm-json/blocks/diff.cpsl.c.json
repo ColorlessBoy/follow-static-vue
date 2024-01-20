@@ -1,0 +1,1 @@
+{"bIdx":35451,"bType":"axiom","type":"","name":"diff.cpsl.c","params":"class c0","body":["|- diffcc(cpsl, c0)"],"bodyPretty":["⊢ d(polySplitLim, c0)"],"proof":[],"comment":"","parent":[],"children":[]}

@@ -1,0 +1,1 @@
+{"bIdx":18414,"bType":"axiom","type":"","name":"diff.ctermo.w","params":"wff w0","body":["|- diffcw(ctermo, w0)"],"bodyPretty":["⊢ d(TermO, w0)"],"proof":[],"comment":"","parent":[],"children":[]}

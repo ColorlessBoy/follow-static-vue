@@ -1,0 +1,1 @@
+{"bIdx":44134,"bType":"prop","type":"wff","name":"wvhc2","params":"wff w0, wff w1","body":["(w0, w1)"],"bodyPretty":[],"proof":[],"comment":"Syntax for a 2-element virtual hypotheses collection. (Contributed by Alan Sare, 23-Apr-2015.) (New usage is discouraged.)","parent":[],"children":[]}

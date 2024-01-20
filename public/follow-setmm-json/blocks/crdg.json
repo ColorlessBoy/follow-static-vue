@@ -1,0 +1,1 @@
+{"bIdx":8390,"bType":"prop","type":"class","name":"crdg","params":"class c0, class c1","body":["rec(c0, c1)"],"bodyPretty":[],"proof":[],"comment":"Extend class notation with the recursive definition generator, with characteristic function ` F ` and initial value ` I ` .","parent":[],"children":[]}

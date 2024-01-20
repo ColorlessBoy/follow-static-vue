@@ -1,0 +1,1 @@
+{"bIdx":3070,"bType":"axiom","type":"","name":"diff.cab.w","params":"wff wBase, setvar s0, wff w0","body":["|- diffcw(cab(s0, w0), wBase)","-| diffsw(s0, wBase)","-| diffww(wBase, w0)"],"bodyPretty":["⊢ d({ s0 | w0 }, wBase)","⊣ d(s0, wBase)","⊣ d(wBase, w0)"],"proof":[],"comment":"","parent":[],"children":[]}

@@ -1,0 +1,1 @@
+{"bIdx":35228,"bType":"axiom","type":"","name":"df-msta","params":"setvar s0","body":["|- wceq(cmsta, cmpt(s0, universe, crn(cfv(cmsr, cv(s0)))))"],"bodyPretty":["⊢ mStat =(s0 ∈ 𝕌 ↦ ran((mStRed ` s0)))"],"proof":[],"comment":"Define the set of all statements. (Contributed by Mario Carneiro, 14-Jul-2016.)","parent":[],"children":["mstaval"]}

@@ -1,0 +1,1 @@
+{"bIdx":23520,"bType":"axiom","type":"","name":"diff.cnrm.s","params":"setvar s0","body":["|- diffsc(s0, cnrm)"],"bodyPretty":["⊢ d(s0, Nrm)"],"proof":[],"comment":"","parent":[],"children":[]}

@@ -1,0 +1,1 @@
+{"bIdx":17836,"bType":"axiom","type":"","name":"diff.cordt.w","params":"wff w0","body":["|- diffcw(cordt, w0)"],"bodyPretty":["⊢ d(ordTop, w0)"],"proof":[],"comment":"","parent":[],"children":[]}

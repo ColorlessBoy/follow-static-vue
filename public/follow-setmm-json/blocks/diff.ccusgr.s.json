@@ -1,0 +1,1 @@
+{"bIdx":29292,"bType":"axiom","type":"","name":"diff.ccusgr.s","params":"setvar s0","body":["|- diffsc(s0, ccusgr)"],"bodyPretty":["⊢ d(s0, ComplUSGraph)"],"proof":[],"comment":"","parent":[],"children":[]}

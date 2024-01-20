@@ -1,0 +1,1 @@
+{"bIdx":66,"bType":"prop","type":"wff","name":"diffss","params":"setvar s0, setvar s1","body":["d(s0, s1)"],"bodyPretty":[],"proof":[],"comment":"","parent":[],"children":[]}

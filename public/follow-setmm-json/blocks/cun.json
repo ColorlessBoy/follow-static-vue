@@ -1,0 +1,1 @@
+{"bIdx":4166,"bType":"prop","type":"class","name":"cun","params":"class c0, class c1","body":["(c0 ⋃ c1)"],"bodyPretty":[],"proof":[],"comment":"Extend class notation to include union of two classes (read: \" ` A ` union ` B ` \").","parent":[],"children":[]}

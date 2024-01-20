@@ -1,0 +1,1 @@
+{"bIdx":26664,"bType":"axiom","type":"","name":"diff.cply.c","params":"class c0","body":["|- diffcc(cply, c0)"],"bodyPretty":["⊢ d(Poly, c0)"],"proof":[],"comment":"","parent":[],"children":[]}

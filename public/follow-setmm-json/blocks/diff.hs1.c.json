@@ -1,0 +1,1 @@
+{"bIdx":145,"bType":"axiom","type":"","name":"diff.hs1.c","params":"class c0","body":["|- diffsc(hs1, c0)"],"bodyPretty":["⊢ d(hs1, c0)"],"proof":[],"comment":"","parent":[],"children":[]}

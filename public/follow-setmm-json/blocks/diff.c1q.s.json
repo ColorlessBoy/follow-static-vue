@@ -1,0 +1,1 @@
+{"bIdx":10802,"bType":"axiom","type":"","name":"diff.c1q.s","params":"setvar s0","body":["|- diffsc(s0, c1q)"],"bodyPretty":["⊢ d(s0, 1)"],"proof":[],"comment":"","parent":[],"children":[]}

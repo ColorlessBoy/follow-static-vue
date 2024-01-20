@@ -1,0 +1,1 @@
+{"bIdx":20896,"bType":"axiom","type":"","name":"diff.cabv.w","params":"wff w0","body":["|- diffcw(cabv, w0)"],"bodyPretty":["⊢ d(AbsVal, w0)"],"proof":[],"comment":"","parent":[],"children":[]}

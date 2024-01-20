@@ -1,0 +1,1 @@
+{"bIdx":25396,"bType":"axiom","type":"","name":"diff.cpi1.w","params":"wff w0","body":["|- diffcw(cpi1, w0)"],"bodyPretty":["⊢ d(pi1, w0)"],"proof":[],"comment":"","parent":[],"children":[]}

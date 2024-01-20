@@ -1,0 +1,1 @@
+{"bIdx":38056,"bType":"axiom","type":"","name":"diff.crngo.w","params":"wff w0","body":["|- diffcw(crngo, w0)"],"bodyPretty":["⊢ d(RingOps, w0)"],"proof":[],"comment":"","parent":[],"children":[]}

@@ -1,0 +1,1 @@
+{"bIdx":17935,"bType":"axiom","type":"","name":"diff.cmre.s","params":"setvar s0","body":["|- diffsc(s0, cmre)"],"bodyPretty":["⊢ d(s0, Moore)"],"proof":[],"comment":"","parent":[],"children":[]}

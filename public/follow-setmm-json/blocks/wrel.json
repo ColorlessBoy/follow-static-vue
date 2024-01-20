@@ -1,0 +1,1 @@
+{"bIdx":5858,"bType":"prop","type":"wff","name":"wrel","params":"class c0","body":["Rel(c0)"],"bodyPretty":[],"proof":[],"comment":"Extend the definition of a wff to include the relation predicate. Read: \" ` A ` is a relation\".","parent":[],"children":[]}

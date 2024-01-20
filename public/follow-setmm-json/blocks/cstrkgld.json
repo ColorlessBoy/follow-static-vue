@@ -1,0 +1,1 @@
+{"bIdx":28204,"bType":"const","type":"class","name":"cstrkgld","params":"","body":["TarskiGDim>="],"bodyPretty":[],"proof":[],"comment":"Extends class notation with the relation for geometries fulfilling the lower dimension axioms.","parent":[],"children":[]}

@@ -1,0 +1,1 @@
+{"bIdx":21436,"bType":"axiom","type":"","name":"df-pid","params":"","body":["|- wceq(cpid, cin(cidom, clpir))"],"bodyPretty":["⊢ PID =(IDomn ⋂ LPIR)"],"proof":[],"comment":"A _principal ideal domain_ is an integral domain satisfying the left principal ideal property. (Contributed by Stefan O'Rear, 29-Mar-2015.)","parent":[],"children":["ply1pid"]}

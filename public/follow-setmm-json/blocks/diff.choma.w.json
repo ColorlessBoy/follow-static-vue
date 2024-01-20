@@ -1,0 +1,1 @@
+{"bIdx":18463,"bType":"axiom","type":"","name":"diff.choma.w","params":"wff w0","body":["|- diffcw(choma, w0)"],"bodyPretty":["⊢ d(HomA, w0)"],"proof":[],"comment":"","parent":[],"children":[]}

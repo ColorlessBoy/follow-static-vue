@@ -1,0 +1,1 @@
+{"bIdx":5179,"bType":"axiom","type":"","name":"diff.ciun.s","params":"setvar sBase, setvar s0, class c0, class c1","body":["|- diffsc(sBase, ciun(s0, c0, c1))","-| diffss(sBase, s0)","-| diffsc(sBase, c0)","-| diffsc(sBase, c1)"],"bodyPretty":["⊢ d(sBase, ⋃(s0 ∈ c0, c1))","⊣ d(sBase, s0)","⊣ d(sBase, c0)","⊣ d(sBase, c1)"],"proof":[],"comment":"","parent":[],"children":[]}

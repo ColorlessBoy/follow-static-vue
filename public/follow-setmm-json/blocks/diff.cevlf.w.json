@@ -1,0 +1,1 @@
+{"bIdx":18669,"bType":"axiom","type":"","name":"diff.cevlf.w","params":"wff w0","body":["|- diffcw(cevlf, w0)"],"bodyPretty":["⊢ d(evalF, w0)"],"proof":[],"comment":"","parent":[],"children":[]}

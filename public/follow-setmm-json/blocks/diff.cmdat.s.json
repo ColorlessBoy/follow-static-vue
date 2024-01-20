@@ -1,0 +1,1 @@
+{"bIdx":22717,"bType":"axiom","type":"","name":"diff.cmdat.s","params":"setvar s0","body":["|- diffsc(s0, cmdat)"],"bodyPretty":["⊢ d(s0, maDet)"],"proof":[],"comment":"","parent":[],"children":[]}

@@ -1,0 +1,1 @@
+{"bIdx":41048,"bType":"axiom","type":"","name":"diff.cedring.w","params":"wff w0","body":["|- diffcw(cedring, w0)"],"bodyPretty":["⊢ d(EDRing, w0)"],"proof":[],"comment":"","parent":[],"children":[]}

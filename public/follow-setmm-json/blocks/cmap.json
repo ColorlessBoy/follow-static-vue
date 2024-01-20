@@ -1,0 +1,1 @@
+{"bIdx":8782,"bType":"const","type":"class","name":"cmap","params":"","body":["↦"],"bodyPretty":[],"proof":[],"comment":"Extend the definition of a class to include the mapping operation. (Read for ` A ^m B ` , \"the set of all functions that map from ` B ` to ` A ` .)","parent":[],"children":[]}

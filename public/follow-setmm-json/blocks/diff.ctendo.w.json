@@ -1,0 +1,1 @@
+{"bIdx":41044,"bType":"axiom","type":"","name":"diff.ctendo.w","params":"wff w0","body":["|- diffcw(ctendo, w0)"],"bodyPretty":["⊢ d(TEndo, w0)"],"proof":[],"comment":"","parent":[],"children":[]}

@@ -1,0 +1,1 @@
+{"bIdx":26877,"bType":"axiom","type":"","name":"diff.culm.s","params":"setvar s0","body":["|- diffsc(s0, culm)"],"bodyPretty":["⊢ d(s0, ~~>u)"],"proof":[],"comment":"","parent":[],"children":[]}

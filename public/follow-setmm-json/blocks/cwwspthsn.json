@@ -1,0 +1,1 @@
+{"bIdx":29767,"bType":"const","type":"class","name":"cwwspthsn","params":"","body":["WSPathsN"],"bodyPretty":[],"proof":[],"comment":"Extend class notation with simple paths (in a graph) of a fixed length as word over the set of vertices.","parent":[],"children":[]}

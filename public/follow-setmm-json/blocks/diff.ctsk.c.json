@@ -1,0 +1,1 @@
+{"bIdx":10662,"bType":"axiom","type":"","name":"diff.ctsk.c","params":"class c0","body":["|- diffcc(ctsk, c0)"],"bodyPretty":["⊢ d(Tarski, c0)"],"proof":[],"comment":"","parent":[],"children":[]}

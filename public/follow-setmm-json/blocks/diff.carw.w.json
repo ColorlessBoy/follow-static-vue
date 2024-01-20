@@ -1,0 +1,1 @@
+{"bIdx":18459,"bType":"axiom","type":"","name":"diff.carw.w","params":"wff w0","body":["|- diffcw(carw, w0)"],"bodyPretty":["⊢ d(Arrow, w0)"],"proof":[],"comment":"","parent":[],"children":[]}

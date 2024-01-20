@@ -1,0 +1,1 @@
+{"bIdx":35204,"bType":"axiom","type":"","name":"diff.cmcls.w","params":"wff w0","body":["|- diffcw(cmcls, w0)"],"bodyPretty":["⊢ d(mCls, w0)"],"proof":[],"comment":"","parent":[],"children":[]}

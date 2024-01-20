@@ -1,0 +1,1 @@
+{"bIdx":30640,"bType":"axiom","type":"","name":"diff.cpv.c","params":"class c0","body":["|- diffcc(cpv, c0)"],"bodyPretty":["⊢ d(+v, c0)"],"proof":[],"comment":"","parent":[],"children":[]}

@@ -1,0 +1,1 @@
+{"bIdx":35976,"bType":"axiom","type":"","name":"diff.cimg.w","params":"wff w0","body":["|- diffcw(cimg, w0)"],"bodyPretty":["⊢ d(Img, w0)"],"proof":[],"comment":"","parent":[],"children":[]}

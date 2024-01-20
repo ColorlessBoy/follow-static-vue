@@ -1,0 +1,1 @@
+{"bIdx":35447,"bType":"axiom","type":"","name":"diff.csf.c","params":"class c0","body":["|- diffcc(csf, c0)"],"bodyPretty":["⊢ d(splitFld, c0)"],"proof":[],"comment":"","parent":[],"children":[]}

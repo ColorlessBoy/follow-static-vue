@@ -1,0 +1,1 @@
+{"bIdx":33242,"bType":"axiom","type":"","name":"df-ofld","params":"","body":["|- wceq(cofld, cin(cfield, corng))"],"bodyPretty":["⊢ oField =(Field ⋂ oRing)"],"proof":[],"comment":"Define class of all ordered fields. An ordered field is a field with a total ordering compatible with its operations. (Contributed by Thierry Arnoux, 18-Jan-2018.)","parent":[],"children":["isofld"]}

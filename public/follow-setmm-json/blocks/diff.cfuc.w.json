@@ -1,0 +1,1 @@
+{"bIdx":18371,"bType":"axiom","type":"","name":"diff.cfuc.w","params":"wff w0","body":["|- diffcw(cfuc, w0)"],"bodyPretty":["⊢ d(FuncCat, w0)"],"proof":[],"comment":"","parent":[],"children":[]}

@@ -1,0 +1,1 @@
+{"bIdx":33270,"bType":"axiom","type":"","name":"diff.cresv.c","params":"class c0","body":["|- diffcc(cresv, c0)"],"bodyPretty":["⊢ d(|`v, c0)"],"proof":[],"comment":"","parent":[],"children":[]}

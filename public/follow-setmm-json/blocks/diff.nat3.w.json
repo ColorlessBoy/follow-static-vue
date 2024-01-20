@@ -1,0 +1,1 @@
+{"bIdx":12338,"bType":"axiom","type":"","name":"diff.nat3.w","params":"wff w0","body":["|- diffcw(nat3, w0)"],"bodyPretty":["⊢ d(3, w0)"],"proof":[],"comment":"","parent":[],"children":[]}

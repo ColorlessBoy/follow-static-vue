@@ -1,0 +1,1 @@
+{"bIdx":31181,"bType":"axiom","type":"","name":"diff.ck.s","params":"setvar s0","body":["|- diffsc(s0, ck)"],"bodyPretty":["⊢ d(s0, ketbra)"],"proof":[],"comment":"","parent":[],"children":[]}

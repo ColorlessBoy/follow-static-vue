@@ -1,0 +1,1 @@
+{"bIdx":47073,"bType":"axiom","type":"","name":"df-even","params":"setvar s0","body":["|- wceq(ceven, crab(s0, cz, wcel(co(cv(s0), cdiv, nat2), cz)))"],"bodyPretty":["⊢ Even = { s0 ∈ ℤ |(s0[÷]2)∈ ℤ }"],"proof":[],"comment":"Define the set of even numbers. (Contributed by AV, 14-Jun-2020.)","parent":[],"children":["iseven","dfeven4","dfeven3"]}

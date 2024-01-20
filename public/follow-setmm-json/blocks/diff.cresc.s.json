@@ -1,0 +1,1 @@
+{"bIdx":18208,"bType":"axiom","type":"","name":"diff.cresc.s","params":"setvar s0","body":["|- diffsc(s0, cresc)"],"bodyPretty":["⊢ d(s0, |`cat)"],"proof":[],"comment":"","parent":[],"children":[]}

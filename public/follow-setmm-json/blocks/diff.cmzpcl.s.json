@@ -1,0 +1,1 @@
+{"bIdx":42473,"bType":"axiom","type":"","name":"diff.cmzpcl.s","params":"setvar s0","body":["|- diffsc(s0, cmzpcl)"],"bodyPretty":["⊢ d(s0, mzPolyCld)"],"proof":[],"comment":"","parent":[],"children":[]}

@@ -1,0 +1,1 @@
+{"bIdx":21184,"bType":"axiom","type":"","name":"diff.clbs.c","params":"class c0","body":["|- diffcc(clbs, c0)"],"bodyPretty":["⊢ d(LBasis, c0)"],"proof":[],"comment":"","parent":[],"children":[]}

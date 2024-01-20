@@ -1,0 +1,1 @@
+{"bIdx":35396,"bType":"axiom","type":"","name":"diff.cusyn.c","params":"class c0","body":["|- diffcc(cusyn, c0)"],"bodyPretty":["⊢ d(mUSyn, c0)"],"proof":[],"comment":"","parent":[],"children":[]}

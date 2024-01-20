@@ -1,0 +1,1 @@
+{"bIdx":7433,"bType":"axiom","type":"","name":"diff.crio.s","params":"setvar sBase, setvar s0, class c0, wff w0","body":["|- diffsc(sBase, crio(s0, c0, w0))","-| diffss(sBase, s0)","-| diffsc(sBase, c0)","-| diffsw(sBase, w0)"],"bodyPretty":["⊢ d(sBase, iota(s0 ∈ c0, w0))","⊣ d(sBase, s0)","⊣ d(sBase, c0)","⊣ d(sBase, w0)"],"proof":[],"comment":"","parent":[],"children":[]}

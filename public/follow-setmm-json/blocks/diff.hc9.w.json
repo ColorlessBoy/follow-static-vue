@@ -1,0 +1,1 @@
+{"bIdx":233,"bType":"axiom","type":"","name":"diff.hc9.w","params":"wff w0","body":["|- diffcw(hc9, w0)"],"bodyPretty":["⊢ d(hc9, w0)"],"proof":[],"comment":"","parent":[],"children":[]}

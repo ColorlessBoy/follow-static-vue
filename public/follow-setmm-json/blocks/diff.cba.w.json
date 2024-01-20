@@ -1,0 +1,1 @@
+{"bIdx":30645,"bType":"axiom","type":"","name":"diff.cba.w","params":"wff w0","body":["|- diffcw(cba, w0)"],"bodyPretty":["⊢ d(BaseSet, w0)"],"proof":[],"comment":"","parent":[],"children":[]}

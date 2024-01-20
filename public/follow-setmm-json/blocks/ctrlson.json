@@ -1,0 +1,1 @@
+{"bIdx":29599,"bType":"const","type":"class","name":"ctrlson","params":"","body":["TrailsOn"],"bodyPretty":[],"proof":[],"comment":"Extend class notation with trails between two vertices (within a graph).","parent":[],"children":[]}

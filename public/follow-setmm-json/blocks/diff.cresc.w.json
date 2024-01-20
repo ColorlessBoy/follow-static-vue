@@ -1,0 +1,1 @@
+{"bIdx":18210,"bType":"axiom","type":"","name":"diff.cresc.w","params":"wff w0","body":["|- diffcw(cresc, w0)"],"bodyPretty":["⊢ d(|`cat, w0)"],"proof":[],"comment":"","parent":[],"children":[]}

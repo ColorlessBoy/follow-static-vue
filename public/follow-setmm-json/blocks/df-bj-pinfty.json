@@ -1,0 +1,1 @@
+{"bIdx":37316,"bType":"axiom","type":"","name":"df-bj-pinfty","params":"","body":["|- wceq(cpinfty, cfv(cinftyexpi, nat0))"],"bodyPretty":["⊢ pinfty =(inftyexpi ` 0)"],"proof":[],"comment":"Definition of \"plus infinity\". (Contributed by BJ, 27-Jun-2019.)","parent":[],"children":["bj-pinftyccb","bj-pinftynrr","bj-pinftynminfty"]}

@@ -1,0 +1,1 @@
+{"bIdx":9752,"bType":"axiom","type":"","name":"diff.cdju.s","params":"setvar sBase, class c0, class c1","body":["|- diffsc(sBase, cdju(c0, c1))","-| diffsc(sBase, c0)","-| diffsc(sBase, c1)"],"bodyPretty":["⊢ d(sBase,(c0 ⊔ c1))","⊣ d(sBase, c0)","⊣ d(sBase, c1)"],"proof":[],"comment":"","parent":[],"children":[]}

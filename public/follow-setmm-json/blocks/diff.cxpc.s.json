@@ -1,0 +1,1 @@
+{"bIdx":18614,"bType":"axiom","type":"","name":"diff.cxpc.s","params":"setvar s0","body":["|- diffsc(s0, cxpc)"],"bodyPretty":["⊢ d(s0, ×)"],"proof":[],"comment":"","parent":[],"children":[]}

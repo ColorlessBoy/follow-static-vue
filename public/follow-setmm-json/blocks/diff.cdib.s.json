@@ -1,0 +1,1 @@
+{"bIdx":41452,"bType":"axiom","type":"","name":"diff.cdib.s","params":"setvar s0","body":["|- diffsc(s0, cdib)"],"bodyPretty":["⊢ d(s0, DIsoB)"],"proof":[],"comment":"","parent":[],"children":[]}

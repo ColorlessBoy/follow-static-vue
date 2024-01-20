@@ -1,0 +1,1 @@
+{"bIdx":39735,"bType":"axiom","type":"","name":"diff.cpointsN.c","params":"class c0","body":["|- diffcc(cpointsN, c0)"],"bodyPretty":["⊢ d(Points, c0)"],"proof":[],"comment":"","parent":[],"children":[]}

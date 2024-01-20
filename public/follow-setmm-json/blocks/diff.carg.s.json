@@ -1,0 +1,1 @@
+{"bIdx":37364,"bType":"axiom","type":"","name":"diff.carg.s","params":"setvar s0","body":["|- diffsc(s0, carg)"],"bodyPretty":["⊢ d(s0, Arg)"],"proof":[],"comment":"","parent":[],"children":[]}

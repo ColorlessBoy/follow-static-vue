@@ -1,0 +1,1 @@
+{"bIdx":48220,"bType":"const","type":"class","name":"cge-real","params":"","body":["≥"],"bodyPretty":[],"proof":[],"comment":"Extend wff notation to include the 'greater than or equal to' relation, see ~ df-gte .","parent":[],"children":[]}

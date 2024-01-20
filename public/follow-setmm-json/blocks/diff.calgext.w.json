@@ -1,0 +1,1 @@
+{"bIdx":33365,"bType":"axiom","type":"","name":"diff.calgext.w","params":"wff w0","body":["|- diffcw(calgext, w0)"],"bodyPretty":["⊢ d(/AlgExt, w0)"],"proof":[],"comment":"","parent":[],"children":[]}

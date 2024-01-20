@@ -1,0 +1,1 @@
+{"bIdx":31158,"bType":"axiom","type":"","name":"diff.cnmf.c","params":"class c0","body":["|- diffcc(cnmf, c0)"],"bodyPretty":["⊢ d(normfn, c0)"],"proof":[],"comment":"","parent":[],"children":[]}

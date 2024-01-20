@@ -1,0 +1,1 @@
+{"bIdx":38523,"bType":"const","type":"class","name":"celdisjs","params":"","body":["ElDisjs"],"bodyPretty":[],"proof":[],"comment":"Extend the definition of a class to include the disjoint elements class, i.e., the disjoint elementhood relations class.","parent":[],"children":[]}

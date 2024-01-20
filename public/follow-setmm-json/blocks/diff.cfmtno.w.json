@@ -1,0 +1,1 @@
+{"bIdx":46963,"bType":"axiom","type":"","name":"diff.cfmtno.w","params":"wff w0","body":["|- diffcw(cfmtno, w0)"],"bodyPretty":["⊢ d(FermatNo, w0)"],"proof":[],"comment":"","parent":[],"children":[]}

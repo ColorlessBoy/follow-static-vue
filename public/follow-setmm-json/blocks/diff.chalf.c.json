@@ -1,0 +1,1 @@
+{"bIdx":37286,"bType":"axiom","type":"","name":"diff.chalf.c","params":"class c0","body":["|- diffcc(chalf, c0)"],"bodyPretty":["⊢ d(1/2, c0)"],"proof":[],"comment":"","parent":[],"children":[]}

@@ -1,0 +1,1 @@
+{"bIdx":27504,"bType":"axiom","type":"","name":"diff.cem.c","params":"class c0","body":["|- diffcc(cem, c0)"],"bodyPretty":["⊢ d(γ, c0)"],"proof":[],"comment":"","parent":[],"children":[]}

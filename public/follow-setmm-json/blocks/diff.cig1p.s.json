@@ -1,0 +1,1 @@
+{"bIdx":26609,"bType":"axiom","type":"","name":"diff.cig1p.s","params":"setvar s0","body":["|- diffsc(s0, cig1p)"],"bodyPretty":["⊢ d(s0, idlGen1p)"],"proof":[],"comment":"","parent":[],"children":[]}

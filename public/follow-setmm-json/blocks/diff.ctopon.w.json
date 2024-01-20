@@ -1,0 +1,1 @@
+{"bIdx":23074,"bType":"axiom","type":"","name":"diff.ctopon.w","params":"wff w0","body":["|- diffcw(ctopon, w0)"],"bodyPretty":["⊢ d(TopOn, w0)"],"proof":[],"comment":"","parent":[],"children":[]}

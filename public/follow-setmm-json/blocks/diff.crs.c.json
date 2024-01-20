@@ -1,0 +1,1 @@
+{"bIdx":20771,"bType":"axiom","type":"","name":"diff.crs.c","params":"class c0","body":["|- diffcc(crs, c0)"],"bodyPretty":["⊢ d(RingIso, c0)"],"proof":[],"comment":"","parent":[],"children":[]}

@@ -1,0 +1,1 @@
+{"bIdx":37376,"bType":"axiom","type":"","name":"diff.cinvc.w","params":"wff w0","body":["|- diffcw(cinvc, w0)"],"bodyPretty":["⊢ d(invc, w0)"],"proof":[],"comment":"","parent":[],"children":[]}

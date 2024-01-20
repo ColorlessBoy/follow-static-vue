@@ -1,0 +1,1 @@
+{"bIdx":30591,"bType":"axiom","type":"","name":"diff.cablo.w","params":"wff w0","body":["|- diffcw(cablo, w0)"],"bodyPretty":["⊢ d(AbelOp, w0)"],"proof":[],"comment":"","parent":[],"children":[]}

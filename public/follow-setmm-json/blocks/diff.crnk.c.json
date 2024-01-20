@@ -1,0 +1,1 @@
+{"bIdx":9615,"bType":"axiom","type":"","name":"diff.crnk.c","params":"class c0","body":["|- diffcc(crnk, c0)"],"bodyPretty":["⊢ d(rank, c0)"],"proof":[],"comment":"","parent":[],"children":[]}

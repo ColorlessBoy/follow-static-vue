@@ -1,0 +1,1 @@
+{"bIdx":23748,"bType":"axiom","type":"","name":"diff.clocfin.c","params":"class c0","body":["|- diffcc(clocfin, c0)"],"bodyPretty":["⊢ d(LocFin, c0)"],"proof":[],"comment":"","parent":[],"children":[]}

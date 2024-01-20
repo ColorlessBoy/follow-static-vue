@@ -1,0 +1,1 @@
+{"bIdx":42933,"bType":"axiom","type":"","name":"diff.cmnc.w","params":"wff w0","body":["|- diffcw(cmnc, w0)"],"bodyPretty":["⊢ d(Monic, w0)"],"proof":[],"comment":"","parent":[],"children":[]}

@@ -1,0 +1,1 @@
+{"bIdx":27261,"bType":"axiom","type":"","name":"diff.clogb.c","params":"class c0","body":["|- diffcc(clogb, c0)"],"bodyPretty":["⊢ d(logb, c0)"],"proof":[],"comment":"","parent":[],"children":[]}

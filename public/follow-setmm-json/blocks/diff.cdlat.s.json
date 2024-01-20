@@ -1,0 +1,1 @@
+{"bIdx":19072,"bType":"axiom","type":"","name":"diff.cdlat.s","params":"setvar s0","body":["|- diffsc(s0, cdlat)"],"bodyPretty":["⊢ d(s0, DLat)"],"proof":[],"comment":"","parent":[],"children":[]}

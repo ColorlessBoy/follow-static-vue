@@ -1,0 +1,1 @@
+{"bIdx":38526,"bType":"axiom","type":"","name":"diff.celdisjs.w","params":"wff w0","body":["|- diffcw(celdisjs, w0)"],"bodyPretty":["⊢ d(ElDisjs, w0)"],"proof":[],"comment":"","parent":[],"children":[]}

@@ -1,0 +1,1 @@
+{"bIdx":17601,"bType":"axiom","type":"","name":"diff.cds.c","params":"class c0","body":["|- diffcc(cds, c0)"],"bodyPretty":["⊢ d(dist, c0)"],"proof":[],"comment":"","parent":[],"children":[]}

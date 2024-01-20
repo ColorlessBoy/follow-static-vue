@@ -1,0 +1,1 @@
+{"bIdx":21216,"bType":"axiom","type":"","name":"diff.clvec.w","params":"wff w0","body":["|- diffcw(clvec, w0)"],"bodyPretty":["⊢ d(LVec, w0)"],"proof":[],"comment":"","parent":[],"children":[]}

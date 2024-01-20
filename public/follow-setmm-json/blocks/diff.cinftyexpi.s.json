@@ -1,0 +1,1 @@
+{"bIdx":37291,"bType":"axiom","type":"","name":"diff.cinftyexpi.s","params":"setvar s0","body":["|- diffsc(s0, cinftyexpi)"],"bodyPretty":["⊢ d(s0, inftyexpi)"],"proof":[],"comment":"","parent":[],"children":[]}

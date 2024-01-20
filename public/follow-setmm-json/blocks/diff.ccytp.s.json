@@ -1,0 +1,1 @@
+{"bIdx":43034,"bType":"axiom","type":"","name":"diff.ccytp.s","params":"setvar s0","body":["|- diffsc(s0, ccytp)"],"bodyPretty":["⊢ d(s0, CytP)"],"proof":[],"comment":"","parent":[],"children":[]}

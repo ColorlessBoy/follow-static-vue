@@ -1,0 +1,1 @@
+{"bIdx":3421,"bType":"prop","type":"class","name":"crab","params":"setvar s0, class c0, wff w0","body":["{ s0 ∈ c0 | w0 }"],"bodyPretty":[],"proof":[],"comment":"Extend class notation to include the restricted class abstraction (class builder).","parent":[],"children":[]}

@@ -1,0 +1,1 @@
+{"bIdx":4536,"bType":"axiom","type":"","name":"diff.emptycls.w","params":"wff w0","body":["|- diffcw(emptycls, w0)"],"bodyPretty":["⊢ d(∅, w0)"],"proof":[],"comment":"","parent":[],"children":[]}

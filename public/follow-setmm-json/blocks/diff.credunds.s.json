@@ -1,0 +1,1 @@
+{"bIdx":38464,"bType":"axiom","type":"","name":"diff.credunds.s","params":"setvar s0","body":["|- diffsc(s0, credunds)"],"bodyPretty":["⊢ d(s0, Redunds)"],"proof":[],"comment":"","parent":[],"children":[]}

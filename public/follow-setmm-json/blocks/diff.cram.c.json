@@ -1,0 +1,1 @@
+{"bIdx":17311,"bType":"axiom","type":"","name":"diff.cram.c","params":"class c0","body":["|- diffcc(cram, c0)"],"bodyPretty":["⊢ d(Ramsey, c0)"],"proof":[],"comment":"","parent":[],"children":[]}

@@ -1,0 +1,1 @@
+{"bIdx":41301,"bType":"axiom","type":"","name":"diff.cdveca.s","params":"setvar s0","body":["|- diffsc(s0, cdveca)"],"bodyPretty":["⊢ d(s0, DVecA)"],"proof":[],"comment":"","parent":[],"children":[]}

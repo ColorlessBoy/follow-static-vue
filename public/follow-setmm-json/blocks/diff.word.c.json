@@ -1,0 +1,1 @@
+{"bIdx":6487,"bType":"axiom","type":"","name":"diff.word.c","params":"class cBase, class c0","body":["|- diffcw(cBase, word(c0))","-| diffcc(cBase, c0)"],"bodyPretty":["⊢ d(cBase, Ord(c0))","⊣ d(cBase, c0)"],"proof":[],"comment":"","parent":[],"children":[]}

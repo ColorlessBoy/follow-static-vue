@@ -1,0 +1,1 @@
+{"bIdx":5787,"bType":"prop","type":"wff","name":"wwe","params":"class c0, class c1","body":["c0 ≤ c1"],"bodyPretty":[],"proof":[],"comment":"Extend wff notation to include the well-ordering predicate. Read: \" ` R ` well-orders ` A ` \".","parent":[],"children":[]}

@@ -1,0 +1,1 @@
+{"bIdx":16261,"bType":"axiom","type":"","name":"diff.crisefac.w","params":"wff w0","body":["|- diffcw(crisefac, w0)"],"bodyPretty":["⊢ d(RiseFac, w0)"],"proof":[],"comment":"","parent":[],"children":[]}

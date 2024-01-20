@@ -1,0 +1,1 @@
+{"bIdx":35929,"bType":"prop","type":"class","name":"cpprod","params":"class c0, class c1","body":["pprod(c0, c1)"],"bodyPretty":[],"proof":[],"comment":"Declare the syntax for the parallel product.","parent":[],"children":[]}

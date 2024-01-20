@@ -1,0 +1,1 @@
+{"bIdx":22662,"bType":"axiom","type":"","name":"diff.cmvmul.c","params":"class c0","body":["|- diffcc(cmvmul, c0)"],"bodyPretty":["⊢ d(maVecMul, c0)"],"proof":[],"comment":"","parent":[],"children":[]}

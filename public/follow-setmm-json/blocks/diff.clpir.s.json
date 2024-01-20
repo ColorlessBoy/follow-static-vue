@@ -1,0 +1,1 @@
+{"bIdx":21375,"bType":"axiom","type":"","name":"diff.clpir.s","params":"setvar s0","body":["|- diffsc(s0, clpir)"],"bodyPretty":["⊢ d(s0, LPIR)"],"proof":[],"comment":"","parent":[],"children":[]}

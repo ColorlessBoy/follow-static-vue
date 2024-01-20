@@ -1,0 +1,1 @@
+{"bIdx":36207,"bType":"axiom","type":"","name":"diff.ctransport.c","params":"class c0","body":["|- diffcc(ctransport, c0)"],"bodyPretty":["⊢ d(TransportTo, c0)"],"proof":[],"comment":"","parent":[],"children":[]}

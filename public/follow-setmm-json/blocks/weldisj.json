@@ -1,0 +1,1 @@
+{"bIdx":38527,"bType":"prop","type":"wff","name":"weldisj","params":"class c0","body":["ElDisj(c0)"],"bodyPretty":[],"proof":[],"comment":"Extend the definition of a wff to include the disjoint elementhood predicate, i.e., the disjoint elementhood relation predicate. (Read: the elements of ` A ` are disjoint.)","parent":[],"children":[]}

@@ -1,0 +1,1 @@
+{"bIdx":37285,"bType":"axiom","type":"","name":"diff.chalf.s","params":"setvar s0","body":["|- diffsc(s0, chalf)"],"bodyPretty":["⊢ d(s0, 1/2)"],"proof":[],"comment":"","parent":[],"children":[]}

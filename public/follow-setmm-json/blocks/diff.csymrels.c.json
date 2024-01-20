@@ -1,0 +1,1 @@
+{"bIdx":38429,"bType":"axiom","type":"","name":"diff.csymrels.c","params":"class c0","body":["|- diffcc(csymrels, c0)"],"bodyPretty":["⊢ d(SymRels, c0)"],"proof":[],"comment":"","parent":[],"children":[]}

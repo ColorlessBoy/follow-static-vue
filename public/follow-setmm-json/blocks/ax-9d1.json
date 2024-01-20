@@ -1,0 +1,1 @@
+{"bIdx":34844,"bType":"axiom","type":"","name":"ax-9d1","params":"setvar s0","body":["|- wn(wal(s0, wn(wceq(cv(s0), cv(s0)))))"],"bodyPretty":["⊢ ¬ ∀(s0, ¬ s0 = s0)"],"proof":[],"comment":"Distinct variable version of ~ ax-6 , equal variables case. (Contributed by Mario Carneiro, 14-Aug-2015.)","parent":[],"children":[""]}

@@ -1,0 +1,1 @@
+{"bIdx":36340,"bType":"axiom","type":"","name":"diff.clines2.s","params":"setvar s0","body":["|- diffsc(s0, clines2)"],"bodyPretty":["⊢ d(s0, LinesEE)"],"proof":[],"comment":"","parent":[],"children":[]}

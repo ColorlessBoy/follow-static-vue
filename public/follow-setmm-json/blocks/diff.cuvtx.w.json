@@ -1,0 +1,1 @@
+{"bIdx":29263,"bType":"axiom","type":"","name":"diff.cuvtx.w","params":"wff w0","body":["|- diffcw(cuvtx, w0)"],"bodyPretty":["⊢ d(UnivVtx, w0)"],"proof":[],"comment":"","parent":[],"children":[]}

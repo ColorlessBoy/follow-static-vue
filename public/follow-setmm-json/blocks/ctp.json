@@ -1,0 +1,1 @@
+{"bIdx":4814,"bType":"prop","type":"class","name":"ctp","params":"class c0, class c1, class c2","body":["{ c0, c1, c2 }"],"bodyPretty":[],"proof":[],"comment":"Extend class notation to include unordered triplet.","parent":[],"children":[]}

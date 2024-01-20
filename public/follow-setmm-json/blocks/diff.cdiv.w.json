@@ -1,0 +1,1 @@
+{"bIdx":11930,"bType":"axiom","type":"","name":"diff.cdiv.w","params":"wff w0","body":["|- diffcw(cdiv, w0)"],"bodyPretty":["⊢ d(÷, w0)"],"proof":[],"comment":"","parent":[],"children":[]}

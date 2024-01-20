@@ -1,0 +1,1 @@
+{"bIdx":15468,"bType":"const","type":"class","name":"cabs","params":"","body":["abs"],"bodyPretty":[],"proof":[],"comment":"Extend class notation to include a function for the absolute value (modulus) of a complex number.","parent":[],"children":[]}

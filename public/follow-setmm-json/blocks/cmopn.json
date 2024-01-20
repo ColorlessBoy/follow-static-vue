@@ -1,0 +1,1 @@
+{"bIdx":21966,"bType":"const","type":"class","name":"cmopn","params":"","body":["MetOpen"],"bodyPretty":[],"proof":[],"comment":"Extend class notation with a function mapping each metric space to the family of its open sets.","parent":[],"children":[]}

@@ -1,0 +1,1 @@
+{"bIdx":18131,"bType":"axiom","type":"","name":"diff.csect.w","params":"wff w0","body":["|- diffcw(csect, w0)"],"bodyPretty":["⊢ d(Sect, w0)"],"proof":[],"comment":"","parent":[],"children":[]}

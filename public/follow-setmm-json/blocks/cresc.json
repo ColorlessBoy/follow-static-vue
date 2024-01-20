@@ -1,0 +1,1 @@
+{"bIdx":18207,"bType":"const","type":"class","name":"cresc","params":"","body":["|`cat"],"bodyPretty":[],"proof":[],"comment":"Extend class notation to include category restriction (which is like structure restriction but also allows limiting the collection of morphisms).","parent":[],"children":[]}

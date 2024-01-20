@@ -1,0 +1,1 @@
+{"bIdx":38422,"bType":"axiom","type":"","name":"diff.wcnvrefrel.w","params":"wff wBase, class c0","body":["|- diffww(wBase, wcnvrefrel(c0))","-| diffcw(c0, wBase)"],"bodyPretty":["⊢ d(wBase, CnvRefRel(c0))","⊣ d(c0, wBase)"],"proof":[],"comment":"","parent":[],"children":[]}

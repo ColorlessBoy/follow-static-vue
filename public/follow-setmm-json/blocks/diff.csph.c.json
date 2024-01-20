@@ -1,0 +1,1 @@
+{"bIdx":48110,"bType":"axiom","type":"","name":"diff.csph.c","params":"class c0","body":["|- diffcc(csph, c0)"],"bodyPretty":["⊢ d(Sphere, c0)"],"proof":[],"comment":"","parent":[],"children":[]}

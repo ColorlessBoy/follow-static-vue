@@ -1,0 +1,1 @@
+{"bIdx":21756,"bType":"axiom","type":"","name":"df-psr1","params":"setvar s0","body":["|- wceq(cps1, cmpt(s0, universe, cfv(co(c1o, copws, cv(s0)), emptycls)))"],"bodyPretty":["⊢ PwSer1 =(s0 ∈ 𝕌 ↦((1o[ordPwSer]s0)` ∅))"],"proof":[],"comment":"Define the algebra of univariate power series. (Contributed by Mario Carneiro, 29-Dec-2014.)","parent":[],"children":["psr1val"]}

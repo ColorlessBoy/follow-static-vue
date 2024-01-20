@@ -1,0 +1,1 @@
+{"bIdx":22843,"bType":"const","type":"class","name":"ccpmat","params":"","body":["ConstPolyMat"],"bodyPretty":[],"proof":[],"comment":"Extend class notation with the set of all constant polynomial matrices.","parent":[],"children":[]}

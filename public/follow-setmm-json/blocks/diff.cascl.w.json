@@ -1,0 +1,1 @@
+{"bIdx":21470,"bType":"axiom","type":"","name":"diff.cascl.w","params":"wff w0","body":["|- diffcw(cascl, w0)"],"bodyPretty":["⊢ d(algSc, w0)"],"proof":[],"comment":"","parent":[],"children":[]}

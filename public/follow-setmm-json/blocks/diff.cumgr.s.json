@@ -1,0 +1,1 @@
+{"bIdx":28942,"bType":"axiom","type":"","name":"diff.cumgr.s","params":"setvar s0","body":["|- diffsc(s0, cumgr)"],"bodyPretty":["⊢ d(s0, UMGraph)"],"proof":[],"comment":"","parent":[],"children":[]}

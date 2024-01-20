@@ -1,0 +1,1 @@
+{"bIdx":36039,"bType":"axiom","type":"","name":"df-succf","params":"","body":["|- wceq(csuccf, ccom(ccup, ctxp(cid, csingle)))"],"bodyPretty":["⊢ Succ =(Cup ∘(=(×)Singleton))"],"proof":[],"comment":"Define the successor function. See ~ brsuccf for its value. (Contributed by Scott Fenton, 14-Apr-2014.)","parent":[],"children":["brsuccf"]}

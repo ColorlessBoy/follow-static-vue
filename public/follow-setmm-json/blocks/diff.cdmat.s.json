@@ -1,0 +1,1 @@
+{"bIdx":22603,"bType":"axiom","type":"","name":"diff.cdmat.s","params":"setvar s0","body":["|- diffsc(s0, cdmat)"],"bodyPretty":["⊢ d(s0, DMat)"],"proof":[],"comment":"","parent":[],"children":[]}

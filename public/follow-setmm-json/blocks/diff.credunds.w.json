@@ -1,0 +1,1 @@
+{"bIdx":38466,"bType":"axiom","type":"","name":"diff.credunds.w","params":"wff w0","body":["|- diffcw(credunds, w0)"],"bodyPretty":["⊢ d(Redunds, w0)"],"proof":[],"comment":"","parent":[],"children":[]}

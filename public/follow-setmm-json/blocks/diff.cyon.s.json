@@ -1,0 +1,1 @@
+{"bIdx":18722,"bType":"axiom","type":"","name":"diff.cyon.s","params":"setvar s0","body":["|- diffsc(s0, cyon)"],"bodyPretty":["⊢ d(s0, Yon)"],"proof":[],"comment":"","parent":[],"children":[]}

@@ -1,0 +1,1 @@
+{"bIdx":22095,"bType":"axiom","type":"","name":"diff.czlm.s","params":"setvar s0","body":["|- diffsc(s0, czlm)"],"bodyPretty":["⊢ d(s0, ZMod)"],"proof":[],"comment":"","parent":[],"children":[]}

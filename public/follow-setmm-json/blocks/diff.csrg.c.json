@@ -1,0 +1,1 @@
+{"bIdx":20528,"bType":"axiom","type":"","name":"diff.csrg.c","params":"class c0","body":["|- diffcc(csrg, c0)"],"bodyPretty":["⊢ d(SRing, c0)"],"proof":[],"comment":"","parent":[],"children":[]}

@@ -1,0 +1,1 @@
+{"bIdx":29633,"bType":"axiom","type":"","name":"diff.cpthson.s","params":"setvar s0","body":["|- diffsc(s0, cpthson)"],"bodyPretty":["⊢ d(s0, PathsOn)"],"proof":[],"comment":"","parent":[],"children":[]}

@@ -1,0 +1,1 @@
+{"bIdx":22094,"bType":"const","type":"class","name":"czlm","params":"","body":["ZMod"],"bodyPretty":[],"proof":[],"comment":"Augment an abelian group with vector space operations to turn it into a ` ZZ ` -module.","parent":[],"children":[]}

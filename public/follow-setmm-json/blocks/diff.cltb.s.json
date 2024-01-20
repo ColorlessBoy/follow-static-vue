@@ -1,0 +1,1 @@
+{"bIdx":21523,"bType":"axiom","type":"","name":"diff.cltb.s","params":"setvar s0","body":["|- diffsc(s0, cltb)"],"bodyPretty":["⊢ d(s0, <bag)"],"proof":[],"comment":"","parent":[],"children":[]}

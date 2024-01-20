@@ -1,0 +1,1 @@
+{"bIdx":47828,"bType":"const","type":"class","name":"clinco","params":"","body":["LinCo"],"bodyPretty":[],"proof":[],"comment":"Extend class notation with the operation constructing a set of linear combinations (of vectors from a left module) with finite support.","parent":[],"children":[]}

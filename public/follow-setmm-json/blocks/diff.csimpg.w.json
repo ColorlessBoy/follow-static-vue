@@ -1,0 +1,1 @@
+{"bIdx":43799,"bType":"axiom","type":"","name":"diff.csimpg.w","params":"wff w0","body":["|- diffcw(csimpg, w0)"],"bodyPretty":["⊢ d(SimpGrp, w0)"],"proof":[],"comment":"","parent":[],"children":[]}

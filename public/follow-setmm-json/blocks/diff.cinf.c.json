@@ -1,0 +1,1 @@
+{"bIdx":9308,"bType":"axiom","type":"","name":"diff.cinf.c","params":"class cBase, class c0, class c1, class c2","body":["|- diffcc(cBase, cinf(c0, c1, c2))","-| diffcc(cBase, c0)","-| diffcc(cBase, c1)","-| diffcc(cBase, c2)"],"bodyPretty":["⊢ d(cBase, inf(c0, c1, c2))","⊣ d(cBase, c0)","⊣ d(cBase, c1)","⊣ d(cBase, c2)"],"proof":[],"comment":"","parent":[],"children":[]}

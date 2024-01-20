@@ -1,0 +1,1 @@
+{"bIdx":1832,"bType":"axiom","type":"","name":"df-fal","params":"","body":["|- wb(wfal, wn(wtru))"],"bodyPretty":["⊢ (F ↔ ¬ T)"],"proof":[],"comment":"Definition of the truth value \"false\", or \"falsum\", denoted by ` F. ` . See also ~ df-tru . (Contributed by Anthony Hart, 22-Oct-2010.)","parent":[],"children":["fal","nottru"]}

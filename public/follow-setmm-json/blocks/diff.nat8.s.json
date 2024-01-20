@@ -1,0 +1,1 @@
+{"bIdx":12356,"bType":"axiom","type":"","name":"diff.nat8.s","params":"setvar s0","body":["|- diffsc(s0, nat8)"],"bodyPretty":["⊢ d(s0, 8)"],"proof":[],"comment":"","parent":[],"children":[]}

@@ -1,0 +1,1 @@
+{"bIdx":30643,"bType":"axiom","type":"","name":"diff.cba.s","params":"setvar s0","body":["|- diffsc(s0, cba)"],"bodyPretty":["⊢ d(s0, BaseSet)"],"proof":[],"comment":"","parent":[],"children":[]}

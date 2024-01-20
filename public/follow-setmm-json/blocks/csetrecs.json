@@ -1,0 +1,1 @@
+{"bIdx":48181,"bType":"prop","type":"class","name":"csetrecs","params":"class c0","body":["setrecs(c0)"],"bodyPretty":[],"proof":[],"comment":"Extend class notation to include a set defined by transfinite recursion.","parent":[],"children":[]}

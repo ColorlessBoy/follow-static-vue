@@ -1,0 +1,1 @@
+{"bIdx":30266,"bType":"axiom","type":"","name":"diff.cfrgr.c","params":"class c0","body":["|- diffcc(cfrgr, c0)"],"bodyPretty":["⊢ d(FriendGraph, c0)"],"proof":[],"comment":"","parent":[],"children":[]}

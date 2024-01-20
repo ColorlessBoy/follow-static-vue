@@ -1,0 +1,1 @@
+{"bIdx":47074,"bType":"axiom","type":"","name":"df-odd","params":"setvar s0","body":["|- wceq(codd, crab(s0, cz, wcel(co(co(cv(s0), caddc, nat1), cdiv, nat2), cz)))"],"bodyPretty":["⊢ Odd = { s0 ∈ ℤ |((s0[+]1)[÷]2)∈ ℤ }"],"proof":[],"comment":"Define the set of odd numbers. (Contributed by AV, 14-Jun-2020.)","parent":[],"children":["isodd"]}

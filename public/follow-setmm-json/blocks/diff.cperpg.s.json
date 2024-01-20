@@ -1,0 +1,1 @@
+{"bIdx":28496,"bType":"axiom","type":"","name":"diff.cperpg.s","params":"setvar s0","body":["|- diffsc(s0, cperpg)"],"bodyPretty":["⊢ d(s0, perpG)"],"proof":[],"comment":"","parent":[],"children":[]}

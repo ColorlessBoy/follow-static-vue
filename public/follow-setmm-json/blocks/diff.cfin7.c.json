@@ -1,0 +1,1 @@
+{"bIdx":10180,"bType":"axiom","type":"","name":"diff.cfin7.c","params":"class c0","body":["|- diffcc(cfin7, c0)"],"bodyPretty":["⊢ d(Fin7, c0)"],"proof":[],"comment":"","parent":[],"children":[]}

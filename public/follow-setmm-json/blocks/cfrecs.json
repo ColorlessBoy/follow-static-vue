@@ -1,0 +1,1 @@
+{"bIdx":35727,"bType":"prop","type":"class","name":"cfrecs","params":"class c0, class c1, class c2","body":["frecs(c0, c1, c2)"],"bodyPretty":[],"proof":[],"comment":"Declare the syntax for the founded recursion generator. See ~ df-frecs .","parent":[],"children":[]}

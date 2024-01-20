@@ -1,0 +1,1 @@
+{"bIdx":20286,"bType":"axiom","type":"","name":"diff.ccyg.s","params":"setvar s0","body":["|- diffsc(s0, ccyg)"],"bodyPretty":["⊢ d(s0, CycGrp)"],"proof":[],"comment":"","parent":[],"children":[]}

@@ -1,0 +1,1 @@
+{"bIdx":8841,"bType":"prop","type":"class","name":"cixp","params":"setvar s0, class c0, class c1","body":["×(s0 ∈ c0, c1)"],"bodyPretty":[],"proof":[],"comment":"Extend class notation to include infinite Cartesian products.","parent":[],"children":[]}

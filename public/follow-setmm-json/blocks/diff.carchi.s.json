@@ -1,0 +1,1 @@
+{"bIdx":33159,"bType":"axiom","type":"","name":"diff.carchi.s","params":"setvar s0","body":["|- diffsc(s0, carchi)"],"bodyPretty":["⊢ d(s0, Archi)"],"proof":[],"comment":"","parent":[],"children":[]}

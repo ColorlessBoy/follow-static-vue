@@ -1,0 +1,1 @@
+{"bIdx":38500,"bType":"axiom","type":"","name":"diff.cfunss.s","params":"setvar s0","body":["|- diffsc(s0, cfunss)"],"bodyPretty":["⊢ d(s0, Funss)"],"proof":[],"comment":"","parent":[],"children":[]}

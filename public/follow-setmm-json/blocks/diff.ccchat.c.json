@@ -1,0 +1,1 @@
+{"bIdx":37339,"bType":"axiom","type":"","name":"diff.ccchat.c","params":"class c0","body":["|- diffcc(ccchat, c0)"],"bodyPretty":["⊢ d(CChat, c0)"],"proof":[],"comment":"","parent":[],"children":[]}

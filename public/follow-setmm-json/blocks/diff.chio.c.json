@@ -1,0 +1,1 @@
+{"bIdx":31130,"bType":"axiom","type":"","name":"diff.chio.c","params":"class c0","body":["|- diffcc(chio, c0)"],"bodyPretty":["⊢ d(Iop, c0)"],"proof":[],"comment":"","parent":[],"children":[]}

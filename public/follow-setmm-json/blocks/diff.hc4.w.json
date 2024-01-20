@@ -1,0 +1,1 @@
+{"bIdx":218,"bType":"axiom","type":"","name":"diff.hc4.w","params":"wff w0","body":["|- diffcw(hc4, w0)"],"bodyPretty":["⊢ d(hc4, w0)"],"proof":[],"comment":"","parent":[],"children":[]}

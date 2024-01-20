@@ -1,0 +1,1 @@
+{"bIdx":5726,"bType":"axiom","type":"","name":"diff.cep.w","params":"wff w0","body":["|- diffcw(cep, w0)"],"bodyPretty":["⊢ d(∈, w0)"],"proof":[],"comment":"","parent":[],"children":[]}

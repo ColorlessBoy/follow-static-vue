@@ -1,0 +1,1 @@
+{"bIdx":30841,"bType":"axiom","type":"","name":"diff.caj.s","params":"setvar s0","body":["|- diffsc(s0, caj)"],"bodyPretty":["⊢ d(s0, adj)"],"proof":[],"comment":"","parent":[],"children":[]}

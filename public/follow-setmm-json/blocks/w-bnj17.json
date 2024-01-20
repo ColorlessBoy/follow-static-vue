@@ -1,0 +1,1 @@
+{"bIdx":34438,"bType":"prop","type":"wff","name":"w-bnj17","params":"wff w0, wff w1, wff w2, wff w3","body":["(w0 ∧ w1 ∧ w2 ∧ w3)"],"bodyPretty":[],"proof":[],"comment":"Extend wff notation with the 4-way conjunction. (New usage is discouraged.)","parent":[],"children":[]}

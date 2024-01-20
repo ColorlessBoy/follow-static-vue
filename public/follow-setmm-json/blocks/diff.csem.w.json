@@ -1,0 +1,1 @@
+{"bIdx":38013,"bType":"axiom","type":"","name":"diff.csem.w","params":"wff w0","body":["|- diffcw(csem, w0)"],"bodyPretty":["⊢ d(SemiGrp, w0)"],"proof":[],"comment":"","parent":[],"children":[]}

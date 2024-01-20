@@ -1,0 +1,1 @@
+{"bIdx":33430,"bType":"axiom","type":"","name":"diff.clmat.c","params":"class c0","body":["|- diffcc(clmat, c0)"],"bodyPretty":["⊢ d(litMat, c0)"],"proof":[],"comment":"","parent":[],"children":[]}

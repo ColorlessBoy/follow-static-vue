@@ -1,0 +1,1 @@
+{"bIdx":14435,"bType":"axiom","type":"","name":"diff.chash.w","params":"wff w0","body":["|- diffcw(chash, w0)"],"bodyPretty":["⊢ d(#, w0)"],"proof":[],"comment":"","parent":[],"children":[]}

@@ -1,0 +1,1 @@
+{"bIdx":21469,"bType":"axiom","type":"","name":"diff.cascl.c","params":"class c0","body":["|- diffcc(cascl, c0)"],"bodyPretty":["⊢ d(algSc, c0)"],"proof":[],"comment":"","parent":[],"children":[]}

@@ -1,0 +1,1 @@
+{"bIdx":38039,"bType":"const","type":"class","name":"cghomOLD","params":"","body":["GrpOpHom"],"bodyPretty":[],"proof":[],"comment":"Obsolete version of ~ cghm as of 15-Mar-2020. Extend class notation to include the class of group homomorphisms. (New usage is discouraged.)","parent":[],"children":[]}

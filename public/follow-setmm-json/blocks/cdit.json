@@ -1,0 +1,1 @@
+{"bIdx":26296,"bType":"prop","type":"class","name":"cdit","params":"setvar s0, class c0, class c1, class c2","body":["S_[c0 → c1](c2, s0)"],"bodyPretty":[],"proof":[],"comment":"Extend class notation with the directed integral.","parent":[],"children":[]}

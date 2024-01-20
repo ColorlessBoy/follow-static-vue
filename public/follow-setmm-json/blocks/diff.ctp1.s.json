@@ -1,0 +1,1 @@
+{"bIdx":21753,"bType":"axiom","type":"","name":"diff.ctp1.s","params":"setvar s0","body":["|- diffsc(s0, ctp1)"],"bodyPretty":["⊢ d(s0, toPoly1)"],"proof":[],"comment":"","parent":[],"children":[]}

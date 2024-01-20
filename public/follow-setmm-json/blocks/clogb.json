@@ -1,0 +1,1 @@
+{"bIdx":27259,"bType":"const","type":"class","name":"clogb","params":"","body":["logb"],"bodyPretty":[],"proof":[],"comment":"Extend class notation to include the logarithm generalized to an arbitrary base.","parent":[],"children":[]}

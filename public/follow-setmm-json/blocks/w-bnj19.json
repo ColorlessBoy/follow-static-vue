@@ -1,0 +1,1 @@
+{"bIdx":34463,"bType":"prop","type":"wff","name":"w-bnj19","params":"class c0, class c1, class c2","body":["_TrFo(c0, c1, c2)"],"bodyPretty":[],"proof":[],"comment":"Extend wff notation with the following predicate: ` B ` is transitive for ` A ` and ` R ` . (New usage is discouraged.)","parent":[],"children":[]}

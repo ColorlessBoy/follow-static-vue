@@ -1,0 +1,1 @@
+{"bIdx":22708,"bType":"axiom","type":"","name":"diff.csubma.w","params":"wff w0","body":["|- diffcw(csubma, w0)"],"bodyPretty":["⊢ d(subMat, w0)"],"proof":[],"comment":"","parent":[],"children":[]}

@@ -1,0 +1,1 @@
+{"bIdx":20851,"bType":"const","type":"class","name":"crgspn","params":"","body":["RingSpan"],"bodyPretty":[],"proof":[],"comment":"Extend class notation with span of a set of elements over a ring.","parent":[],"children":[]}

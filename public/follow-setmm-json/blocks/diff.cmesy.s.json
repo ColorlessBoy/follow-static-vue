@@ -1,0 +1,1 @@
+{"bIdx":35335,"bType":"axiom","type":"","name":"diff.cmesy.s","params":"setvar s0","body":["|- diffsc(s0, cmesy)"],"bodyPretty":["⊢ d(s0, mESyn)"],"proof":[],"comment":"","parent":[],"children":[]}

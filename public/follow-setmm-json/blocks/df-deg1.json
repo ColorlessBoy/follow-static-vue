@@ -1,0 +1,1 @@
+{"bIdx":26523,"bType":"axiom","type":"","name":"df-deg1","params":"setvar s0","body":["|- wceq(cdg1, cmpt(s0, universe, co(c1o, cmdg, cv(s0))))"],"bodyPretty":["⊢ deg1 =(s0 ∈ 𝕌 ↦(1o[mDeg]s0))"],"proof":[],"comment":"Define the degree of a univariate polynomial. (Contributed by Stefan O'Rear, 23-Mar-2015.)","parent":[],"children":["deg1fval"]}

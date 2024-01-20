@@ -1,0 +1,1 @@
+{"bIdx":41427,"bType":"axiom","type":"","name":"diff.cocaN.s","params":"setvar s0","body":["|- diffsc(s0, cocaN)"],"bodyPretty":["⊢ d(s0, ocA)"],"proof":[],"comment":"","parent":[],"children":[]}

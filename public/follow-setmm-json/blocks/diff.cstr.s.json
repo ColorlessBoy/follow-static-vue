@@ -1,0 +1,1 @@
+{"bIdx":17460,"bType":"axiom","type":"","name":"diff.cstr.s","params":"setvar s0","body":["|- diffsc(s0, cstr)"],"bodyPretty":["⊢ d(s0, Struct)"],"proof":[],"comment":"","parent":[],"children":[]}

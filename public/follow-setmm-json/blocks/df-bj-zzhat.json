@@ -1,0 +1,1 @@
+{"bIdx":37406,"bType":"axiom","type":"","name":"df-bj-zzhat","params":"","body":["|- wceq(czzhat, cun(cz, csn(cinfty)))"],"bodyPretty":["⊢ ZZhat =(ℤ ⋃ { infty })"],"proof":[],"comment":"Definition of the one-point-compactified. (Contributed by BJ, 28-Jul-2023.)","parent":[],"children":[""]}

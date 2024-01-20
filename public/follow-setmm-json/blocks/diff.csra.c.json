@@ -1,0 +1,1 @@
+{"bIdx":21284,"bType":"axiom","type":"","name":"diff.csra.c","params":"class c0","body":["|- diffcc(csra, c0)"],"bodyPretty":["⊢ d(subringAlg, c0)"],"proof":[],"comment":"","parent":[],"children":[]}

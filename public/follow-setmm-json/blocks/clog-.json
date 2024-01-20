@@ -1,0 +1,1 @@
+{"bIdx":48289,"bType":"const","type":"class","name":"clog-","params":"","body":["log_"],"bodyPretty":[],"proof":[],"comment":"Extend class notation to include the logarithm generalized to an arbitrary base.","parent":[],"children":[]}

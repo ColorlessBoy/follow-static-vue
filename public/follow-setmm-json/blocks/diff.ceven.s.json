@@ -1,0 +1,1 @@
+{"bIdx":47066,"bType":"axiom","type":"","name":"diff.ceven.s","params":"setvar s0","body":["|- diffsc(s0, ceven)"],"bodyPretty":["⊢ d(s0, Even)"],"proof":[],"comment":"","parent":[],"children":[]}

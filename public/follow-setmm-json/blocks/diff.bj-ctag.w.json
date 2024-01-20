@@ -1,0 +1,1 @@
+{"bIdx":37077,"bType":"axiom","type":"","name":"diff.bj-ctag.w","params":"wff wBase, class c0","body":["|- diffcw(bj-ctag(c0), wBase)","-| diffcw(c0, wBase)"],"bodyPretty":["⊢ d(tag(c0), wBase)","⊣ d(c0, wBase)"],"proof":[],"comment":"","parent":[],"children":[]}

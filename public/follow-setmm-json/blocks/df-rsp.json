@@ -1,0 +1,1 @@
+{"bIdx":21301,"bType":"axiom","type":"","name":"df-rsp","params":"","body":["|- wceq(crsp, ccom(clspn, crglmod))"],"bodyPretty":["⊢ RSpan =(LSpan ∘ ringLMod)"],"proof":[],"comment":"Define the linear span function in a ring (Ideal generator). (Contributed by Stefan O'Rear, 4-Apr-2015.)","parent":[],"children":["rspval"]}

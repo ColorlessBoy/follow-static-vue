@@ -1,0 +1,1 @@
+{"bIdx":33466,"bType":"axiom","type":"","name":"diff.ccref.w","params":"wff wBase, class c0","body":["|- diffcw(ccref(c0), wBase)","-| diffcw(c0, wBase)"],"bodyPretty":["⊢ d(CovHasRef(c0), wBase)","⊣ d(c0, wBase)"],"proof":[],"comment":"","parent":[],"children":[]}

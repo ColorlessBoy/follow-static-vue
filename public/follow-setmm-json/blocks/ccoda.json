@@ -1,0 +1,1 @@
+{"bIdx":18452,"bType":"const","type":"class","name":"ccoda","params":"","body":["codA"],"bodyPretty":[],"proof":[],"comment":"Extend class notation to include the codomain extractor for an arrow.","parent":[],"children":[]}

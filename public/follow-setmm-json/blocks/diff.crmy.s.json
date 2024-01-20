@@ -1,0 +1,1 @@
+{"bIdx":42681,"bType":"axiom","type":"","name":"diff.crmy.s","params":"setvar s0","body":["|- diffsc(s0, crmy)"],"bodyPretty":["⊢ d(s0, rmY)"],"proof":[],"comment":"","parent":[],"children":[]}

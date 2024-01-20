@@ -1,0 +1,1 @@
+{"bIdx":18041,"bType":"axiom","type":"","name":"diff.ccomf.s","params":"setvar s0","body":["|- diffsc(s0, ccomf)"],"bodyPretty":["⊢ d(s0, comf)"],"proof":[],"comment":"","parent":[],"children":[]}

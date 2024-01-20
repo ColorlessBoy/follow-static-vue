@@ -1,0 +1,1 @@
+{"bIdx":17767,"bType":"axiom","type":"","name":"diff.cgsu.s","params":"setvar s0","body":["|- diffsc(s0, cgsu)"],"bodyPretty":["⊢ d(s0, gsum)"],"proof":[],"comment":"","parent":[],"children":[]}

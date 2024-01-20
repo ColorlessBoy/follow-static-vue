@@ -1,0 +1,1 @@
+{"bIdx":16535,"bType":"axiom","type":"","name":"diff.cdvds.s","params":"setvar s0","body":["|- diffsc(s0, cdvds)"],"bodyPretty":["⊢ d(s0, ||)"],"proof":[],"comment":"","parent":[],"children":[]}

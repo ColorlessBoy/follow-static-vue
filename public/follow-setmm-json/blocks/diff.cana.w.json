@@ -1,0 +1,1 @@
+{"bIdx":26854,"bType":"axiom","type":"","name":"diff.cana.w","params":"wff w0","body":["|- diffcw(cana, w0)"],"bodyPretty":["⊢ d(Ana, w0)"],"proof":[],"comment":"","parent":[],"children":[]}

@@ -1,0 +1,1 @@
+{"bIdx":6619,"bType":"prop","type":"class","name":"cio","params":"setvar s0, wff w0","body":["iota(s0, w0)"],"bodyPretty":[],"proof":[],"comment":"Extend class notation with Russell's definition description binder (inverted iota).","parent":[],"children":[]}

@@ -1,0 +1,1 @@
+{"bIdx":28498,"bType":"axiom","type":"","name":"diff.cperpg.w","params":"wff w0","body":["|- diffcw(cperpg, w0)"],"bodyPretty":["⊢ d(perpG, w0)"],"proof":[],"comment":"","parent":[],"children":[]}

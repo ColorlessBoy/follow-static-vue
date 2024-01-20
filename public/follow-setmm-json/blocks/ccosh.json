@@ -1,0 +1,1 @@
+{"bIdx":48240,"bType":"const","type":"class","name":"ccosh","params":"","body":["cosh"],"bodyPretty":[],"proof":[],"comment":"Extend class notation to include the hyperbolic cosine function. see ~ df-cosh .","parent":[],"children":[]}

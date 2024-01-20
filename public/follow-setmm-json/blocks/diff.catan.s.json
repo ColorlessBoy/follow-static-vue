@@ -1,0 +1,1 @@
+{"bIdx":27369,"bType":"axiom","type":"","name":"diff.catan.s","params":"setvar s0","body":["|- diffsc(s0, catan)"],"bodyPretty":["⊢ d(s0, arctan)"],"proof":[],"comment":"","parent":[],"children":[]}

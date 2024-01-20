@@ -1,0 +1,1 @@
+{"bIdx":35423,"bType":"axiom","type":"","name":"diff.citr.c","params":"class c0","body":["|- diffcc(citr, c0)"],"bodyPretty":["⊢ d(IntgRing, c0)"],"proof":[],"comment":"","parent":[],"children":[]}

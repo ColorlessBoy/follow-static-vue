@@ -1,0 +1,1 @@
+{"bIdx":6678,"bType":"prop","type":"class","name":"cfv","params":"class c0, class c1","body":["(c0 ` c1)"],"bodyPretty":[],"proof":[],"comment":"Extend the definition of a class to include the value of a function. Read: \"the value of ` F ` at ` A ` \", or \" ` F ` of ` A ` \".","parent":[],"children":[]}

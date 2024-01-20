@@ -1,0 +1,1 @@
+{"bIdx":33660,"bType":"axiom","type":"","name":"diff.cind.s","params":"setvar s0","body":["|- diffsc(s0, cind)"],"bodyPretty":["⊢ d(s0, _Ind)"],"proof":[],"comment":"","parent":[],"children":[]}

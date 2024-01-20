@@ -1,0 +1,1 @@
+{"bIdx":35344,"bType":"axiom","type":"","name":"diff.cmtree.c","params":"class c0","body":["|- diffcc(cmtree, c0)"],"bodyPretty":["⊢ d(mTree, c0)"],"proof":[],"comment":"","parent":[],"children":[]}

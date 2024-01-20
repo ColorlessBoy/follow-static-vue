@@ -1,0 +1,1 @@
+{"bIdx":19123,"bType":"axiom","type":"","name":"diff.ctail.c","params":"class c0","body":["|- diffcc(ctail, c0)"],"bodyPretty":["⊢ d(tail, c0)"],"proof":[],"comment":"","parent":[],"children":[]}

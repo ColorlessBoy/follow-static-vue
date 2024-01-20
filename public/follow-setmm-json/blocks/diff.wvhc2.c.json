@@ -1,0 +1,1 @@
+{"bIdx":44136,"bType":"axiom","type":"","name":"diff.wvhc2.c","params":"class cBase, wff w0, wff w1","body":["|- diffcw(cBase, wvhc2(w0, w1))","-| diffcw(cBase, w0)","-| diffcw(cBase, w1)"],"bodyPretty":["⊢ d(cBase,(w0, w1))","⊣ d(cBase, w0)","⊣ d(cBase, w1)"],"proof":[],"comment":"","parent":[],"children":[]}

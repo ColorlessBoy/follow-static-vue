@@ -1,0 +1,1 @@
+{"bIdx":35325,"bType":"axiom","type":"","name":"diff.cmsa.w","params":"wff w0","body":["|- diffcw(cmsa, w0)"],"bodyPretty":["⊢ d(mSA, w0)"],"proof":[],"comment":"","parent":[],"children":[]}

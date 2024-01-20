@@ -1,0 +1,1 @@
+{"bIdx":24214,"bType":"axiom","type":"","name":"diff.cflf.s","params":"setvar s0","body":["|- diffsc(s0, cflf)"],"bodyPretty":["⊢ d(s0, fLimf)"],"proof":[],"comment":"","parent":[],"children":[]}

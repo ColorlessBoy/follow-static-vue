@@ -1,0 +1,1 @@
+{"bIdx":1780,"bType":"prop","type":"wff","name":"wxo","params":"wff w0, wff w1","body":["(w0 ⊻ w1)"],"bodyPretty":[],"proof":[],"comment":"Extend wff definition to include exclusive disjunction (\"xor\").","parent":[],"children":[]}

@@ -1,0 +1,1 @@
+{"bIdx":24206,"bType":"axiom","type":"","name":"diff.cfm.s","params":"setvar s0","body":["|- diffsc(s0, cfm)"],"bodyPretty":["⊢ d(s0, FilMap)"],"proof":[],"comment":"","parent":[],"children":[]}

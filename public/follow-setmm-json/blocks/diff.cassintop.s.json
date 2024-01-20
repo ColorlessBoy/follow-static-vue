@@ -1,0 +1,1 @@
+{"bIdx":47426,"bType":"axiom","type":"","name":"diff.cassintop.s","params":"setvar s0","body":["|- diffsc(s0, cassintop)"],"bodyPretty":["⊢ d(s0, assIntOp)"],"proof":[],"comment":"","parent":[],"children":[]}

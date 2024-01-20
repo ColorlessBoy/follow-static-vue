@@ -1,0 +1,1 @@
+{"bIdx":21465,"bType":"axiom","type":"","name":"diff.casp.c","params":"class c0","body":["|- diffcc(casp, c0)"],"bodyPretty":["⊢ d(AlgSpan, c0)"],"proof":[],"comment":"","parent":[],"children":[]}

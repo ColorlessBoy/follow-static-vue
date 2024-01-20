@@ -1,0 +1,1 @@
+{"bIdx":30184,"bType":"axiom","type":"","name":"diff.cconngr.s","params":"setvar s0","body":["|- diffsc(s0, cconngr)"],"bodyPretty":["⊢ d(s0, ConnGraph)"],"proof":[],"comment":"","parent":[],"children":[]}

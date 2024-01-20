@@ -1,0 +1,1 @@
+{"bIdx":36156,"bType":"axiom","type":"","name":"diff.cofs.s","params":"setvar s0","body":["|- diffsc(s0, cofs)"],"bodyPretty":["⊢ d(s0, OuterFiveSeg)"],"proof":[],"comment":"","parent":[],"children":[]}

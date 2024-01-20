@@ -1,0 +1,1 @@
+{"bIdx":25386,"bType":"axiom","type":"","name":"diff.comi.s","params":"setvar s0","body":["|- diffsc(s0, comi)"],"bodyPretty":["⊢ d(s0, Om1)"],"proof":[],"comment":"","parent":[],"children":[]}

@@ -1,0 +1,1 @@
+{"bIdx":29600,"bType":"axiom","type":"","name":"diff.ctrlson.s","params":"setvar s0","body":["|- diffsc(s0, ctrlson)"],"bodyPretty":["⊢ d(s0, TrailsOn)"],"proof":[],"comment":"","parent":[],"children":[]}

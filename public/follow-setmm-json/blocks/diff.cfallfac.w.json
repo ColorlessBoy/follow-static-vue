@@ -1,0 +1,1 @@
+{"bIdx":16257,"bType":"axiom","type":"","name":"diff.cfallfac.w","params":"wff w0","body":["|- diffcw(cfallfac, w0)"],"bodyPretty":["⊢ d(FallFac, w0)"],"proof":[],"comment":"","parent":[],"children":[]}

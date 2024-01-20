@@ -1,0 +1,1 @@
+{"bIdx":21957,"bType":"axiom","type":"","name":"diff.cbl.w","params":"wff w0","body":["|- diffcw(cbl, w0)"],"bodyPretty":["⊢ d(ball, w0)"],"proof":[],"comment":"","parent":[],"children":[]}

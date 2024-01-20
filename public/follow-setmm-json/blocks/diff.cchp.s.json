@@ -1,0 +1,1 @@
+{"bIdx":27625,"bType":"axiom","type":"","name":"diff.cchp.s","params":"setvar s0","body":["|- diffsc(s0, cchp)"],"bodyPretty":["⊢ d(s0, ψ)"],"proof":[],"comment":"","parent":[],"children":[]}

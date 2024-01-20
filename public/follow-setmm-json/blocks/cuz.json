@@ -1,0 +1,1 @@
+{"bIdx":12930,"bType":"const","type":"class","name":"cuz","params":"","body":["ℤ≥"],"bodyPretty":[],"proof":[],"comment":"Extend class notation with the upper integer function. Read \" ` ZZ>= `` M ` \" as \"the set of integers greater than or equal to ` M ` \".","parent":[],"children":[]}

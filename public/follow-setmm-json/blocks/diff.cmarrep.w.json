@@ -1,0 +1,1 @@
+{"bIdx":22682,"bType":"axiom","type":"","name":"diff.cmarrep.w","params":"wff w0","body":["|- diffcw(cmarrep, w0)"],"bodyPretty":["⊢ d(matRRep, w0)"],"proof":[],"comment":"","parent":[],"children":[]}

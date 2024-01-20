@@ -1,0 +1,1 @@
+{"bIdx":42414,"bType":"axiom","type":"","name":"diff.cprjsp.w","params":"wff w0","body":["|- diffcw(cprjsp, w0)"],"bodyPretty":["⊢ d(PrjSp, w0)"],"proof":[],"comment":"","parent":[],"children":[]}

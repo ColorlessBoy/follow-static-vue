@@ -1,0 +1,1 @@
+{"bIdx":26679,"bType":"axiom","type":"","name":"df-idp","params":"","body":["|- wceq(cidp, cres(cid, cc))"],"bodyPretty":["⊢ Xp =(= |` ℂ)"],"proof":[],"comment":"Define the identity polynomial. (Contributed by Mario Carneiro, 17-Jul-2014.)","parent":[],"children":["plyid","coeidp","dgrid","plyremlem","qaa","taylply2","ftalem7","rngunsnply"]}

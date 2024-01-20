@@ -1,0 +1,1 @@
+{"bIdx":37264,"bType":"axiom","type":"","name":"df-bj-diag","params":"setvar s0","body":["|- wceq(cdiag2, cmpt(s0, universe, cin(cid, cxp(cv(s0), cv(s0)))))"],"bodyPretty":["⊢ Diag =(s0 ∈ 𝕌 ↦(= ⋂(s0 × s0)))"],"proof":[],"comment":"Define the diagonal of the Cartesian square of a set. (Contributed by BJ, 22-Jun-2019.)","parent":[],"children":["bj-diagval"]}

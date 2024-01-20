@@ -1,0 +1,1 @@
+{"bIdx":18410,"bType":"axiom","type":"","name":"diff.cinito.w","params":"wff w0","body":["|- diffcw(cinito, w0)"],"bodyPretty":["⊢ d(InitO, w0)"],"proof":[],"comment":"","parent":[],"children":[]}

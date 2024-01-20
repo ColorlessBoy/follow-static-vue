@@ -1,0 +1,1 @@
+{"bIdx":48256,"bType":"const","type":"class","name":"csec","params":"","body":["sec"],"bodyPretty":[],"proof":[],"comment":"Extend class notation to include the secant function, see ~ df-sec .","parent":[],"children":[]}

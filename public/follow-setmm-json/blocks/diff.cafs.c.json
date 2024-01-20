@@ -1,0 +1,1 @@
+{"bIdx":34418,"bType":"axiom","type":"","name":"diff.cafs.c","params":"class c0","body":["|- diffcc(cafs, c0)"],"bodyPretty":["⊢ d(AFS, c0)"],"proof":[],"comment":"","parent":[],"children":[]}

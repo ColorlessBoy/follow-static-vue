@@ -1,0 +1,1 @@
+{"bIdx":35150,"bType":"axiom","type":"","name":"diff.cmtc.s","params":"setvar s0","body":["|- diffsc(s0, cmtc)"],"bodyPretty":["⊢ d(s0, mTC)"],"proof":[],"comment":"","parent":[],"children":[]}

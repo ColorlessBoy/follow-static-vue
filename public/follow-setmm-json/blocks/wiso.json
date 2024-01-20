@@ -1,0 +1,1 @@
+{"bIdx":6682,"bType":"prop","type":"wff","name":"wiso","params":"class c0, class c1, class c2, class c3, class c4","body":["(c0 ≅ c1, c2(c3, c4))"],"bodyPretty":[],"proof":[],"comment":"Extend the definition of a wff to include the isomorphism property. Read: \" ` H ` is an ` R ` , ` S ` isomorphism of ` A ` onto ` B ` \".","parent":[],"children":[]}

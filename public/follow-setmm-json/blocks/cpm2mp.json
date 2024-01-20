@@ -1,0 +1,1 @@
+{"bIdx":22944,"bType":"const","type":"class","name":"cpm2mp","params":"","body":["pMatToMatPoly"],"bodyPretty":[],"proof":[],"comment":"Extend class notation with the transformation of a polynomial matrix into a polynomial over matrices.","parent":[],"children":[]}

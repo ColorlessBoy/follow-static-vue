@@ -1,0 +1,1 @@
+{"bIdx":39725,"bType":"const","type":"class","name":"clvol","params":"","body":["LVols"],"bodyPretty":[],"proof":[],"comment":"Extend class notation with set of all 3-dimensional \"lattice volumes\" (lattice elements which cover a plane) in a Hilbert lattice.","parent":[],"children":[]}

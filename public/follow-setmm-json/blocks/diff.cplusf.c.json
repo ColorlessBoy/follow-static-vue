@@ -1,0 +1,1 @@
+{"bIdx":19136,"bType":"axiom","type":"","name":"diff.cplusf.c","params":"class c0","body":["|- diffcc(cplusf, c0)"],"bodyPretty":["⊢ d(+f, c0)"],"proof":[],"comment":"","parent":[],"children":[]}

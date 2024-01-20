@@ -1,0 +1,1 @@
+{"bIdx":47867,"bType":"axiom","type":"","name":"diff.clininds.s","params":"setvar s0","body":["|- diffsc(s0, clininds)"],"bodyPretty":["⊢ d(s0, linIndS)"],"proof":[],"comment":"","parent":[],"children":[]}

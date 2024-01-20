@@ -1,0 +1,1 @@
+{"bIdx":8321,"bType":"prop","type":"wff","name":"wsmo","params":"class c0","body":["Smo(c0)"],"bodyPretty":[],"proof":[],"comment":"Introduce the strictly monotone ordinal function. A strictly monotone function is one that is constantly increasing across the ordinals.","parent":[],"children":[]}

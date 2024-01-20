@@ -1,0 +1,1 @@
+{"bIdx":38164,"bType":"axiom","type":"","name":"diff.ccm2.s","params":"setvar s0","body":["|- diffsc(s0, ccm2)"],"bodyPretty":["⊢ d(s0, Com2)"],"proof":[],"comment":"","parent":[],"children":[]}

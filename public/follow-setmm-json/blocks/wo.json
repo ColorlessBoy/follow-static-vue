@@ -1,0 +1,1 @@
+{"bIdx":1110,"bType":"prop","type":"wff","name":"wo","params":"wff w0, wff w1","body":["(w0 ∨ w1)"],"bodyPretty":[],"proof":[],"comment":"Extend wff definition to include disjunction (\"or\").","parent":[],"children":[]}

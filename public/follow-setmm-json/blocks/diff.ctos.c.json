@@ -1,0 +1,1 @@
+{"bIdx":18894,"bType":"axiom","type":"","name":"diff.ctos.c","params":"class c0","body":["|- diffcc(ctos, c0)"],"bodyPretty":["⊢ d(Toset, c0)"],"proof":[],"comment":"","parent":[],"children":[]}

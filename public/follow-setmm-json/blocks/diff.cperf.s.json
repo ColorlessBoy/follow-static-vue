@@ -1,0 +1,1 @@
+{"bIdx":23321,"bType":"axiom","type":"","name":"diff.cperf.s","params":"setvar s0","body":["|- diffsc(s0, cperf)"],"bodyPretty":["⊢ d(s0, Perf)"],"proof":[],"comment":"","parent":[],"children":[]}

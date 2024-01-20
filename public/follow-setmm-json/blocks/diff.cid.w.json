@@ -1,0 +1,1 @@
+{"bIdx":5718,"bType":"axiom","type":"","name":"diff.cid.w","params":"wff w0","body":["|- diffcw(cid, w0)"],"bodyPretty":["⊢ d(=, w0)"],"proof":[],"comment":"","parent":[],"children":[]}

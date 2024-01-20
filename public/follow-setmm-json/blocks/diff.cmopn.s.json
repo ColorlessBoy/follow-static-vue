@@ -1,0 +1,1 @@
+{"bIdx":21967,"bType":"axiom","type":"","name":"diff.cmopn.s","params":"setvar s0","body":["|- diffsc(s0, cmopn)"],"bodyPretty":["⊢ d(s0, MetOpen)"],"proof":[],"comment":"","parent":[],"children":[]}

@@ -1,0 +1,1 @@
+{"bIdx":15325,"bType":"axiom","type":"","name":"diff.cre.w","params":"wff w0","body":["|- diffcw(cre, w0)"],"bodyPretty":["⊢ d(Re, w0)"],"proof":[],"comment":"","parent":[],"children":[]}

@@ -1,0 +1,1 @@
+{"bIdx":32006,"bType":"axiom","type":"","name":"df-h0op","params":"","body":["|- wceq(ch0o, cfv(cpjh, c0h))"],"bodyPretty":["⊢ 0hop =(projh ` 0H)"],"proof":[],"comment":"Define the Hilbert space zero operator. See ~ df0op2 for alternate definition. (Contributed by NM, 7-Feb-2006.) (New usage is discouraged.)","parent":[],"children":["ho0val","ho0f","pjbdlni"]}

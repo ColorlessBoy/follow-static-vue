@@ -1,0 +1,1 @@
+{"bIdx":14930,"bType":"axiom","type":"","name":"diff.creverse.c","params":"class c0","body":["|- diffcc(creverse, c0)"],"bodyPretty":["⊢ d(reverse, c0)"],"proof":[],"comment":"","parent":[],"children":[]}

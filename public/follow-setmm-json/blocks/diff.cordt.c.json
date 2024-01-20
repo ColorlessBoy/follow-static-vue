@@ -1,0 +1,1 @@
+{"bIdx":17835,"bType":"axiom","type":"","name":"diff.cordt.c","params":"class c0","body":["|- diffcc(cordt, c0)"],"bodyPretty":["⊢ d(ordTop, c0)"],"proof":[],"comment":"","parent":[],"children":[]}

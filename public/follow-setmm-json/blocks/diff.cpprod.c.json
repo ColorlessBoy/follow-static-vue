@@ -1,0 +1,1 @@
+{"bIdx":35931,"bType":"axiom","type":"","name":"diff.cpprod.c","params":"class cBase, class c0, class c1","body":["|- diffcc(cBase, cpprod(c0, c1))","-| diffcc(cBase, c0)","-| diffcc(cBase, c1)"],"bodyPretty":["⊢ d(cBase, pprod(c0, c1))","⊣ d(cBase, c0)","⊣ d(cBase, c1)"],"proof":[],"comment":"","parent":[],"children":[]}

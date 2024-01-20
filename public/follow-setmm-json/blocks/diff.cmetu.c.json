@@ -1,0 +1,1 @@
+{"bIdx":21972,"bType":"axiom","type":"","name":"diff.cmetu.c","params":"class c0","body":["|- diffcc(cmetu, c0)"],"bodyPretty":["⊢ d(metUnif, c0)"],"proof":[],"comment":"","parent":[],"children":[]}

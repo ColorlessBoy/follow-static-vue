@@ -1,0 +1,1 @@
+{"bIdx":37215,"bType":"prop","type":"class","name":"cmpt3","params":"setvar s0, setvar s1, setvar s2, class c0, class c1, class c2, class c3","body":["(s0 ∈ c0, s1 ∈ c1, s2 ∈ c2 ↦ c3)"],"bodyPretty":[],"proof":[],"comment":"Extend the definition of a class to include maps-to notation for functions with three arguments.","parent":[],"children":[]}

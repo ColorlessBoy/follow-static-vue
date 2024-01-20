@@ -1,0 +1,1 @@
+{"bIdx":30674,"bType":"axiom","type":"","name":"df-nmcv","params":"","body":["|- wceq(cnmcv, c2nd)"],"bodyPretty":["⊢ normCV = 2nd"],"proof":[],"comment":"Define the norm function in a normed complex vector space. (Contributed by NM, 25-Apr-2007.) (New usage is discouraged.)","parent":[],"children":["nmcvfval"]}

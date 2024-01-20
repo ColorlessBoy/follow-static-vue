@@ -1,0 +1,1 @@
+{"bIdx":35111,"bType":"axiom","type":"","name":"diff.cgzu.s","params":"setvar s0","body":["|- diffsc(s0, cgzu)"],"bodyPretty":["⊢ d(s0, AxUn)"],"proof":[],"comment":"","parent":[],"children":[]}

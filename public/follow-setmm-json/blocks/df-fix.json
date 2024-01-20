@@ -1,0 +1,1 @@
+{"bIdx":36026,"bType":"axiom","type":"","name":"df-fix","params":"class c0","body":["|- wceq(cfix(c0), cdm(cin(c0, cid)))"],"bodyPretty":["⊢ Fix(c0)= dom((c0 ⋂ =))"],"proof":[],"comment":"Define the class of all fixpoints of a relationship. (Contributed by Scott Fenton, 11-Apr-2012.)","parent":[],"children":["elfix","fixssdm","fixun"]}

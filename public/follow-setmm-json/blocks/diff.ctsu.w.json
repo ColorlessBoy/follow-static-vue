@@ -1,0 +1,1 @@
+{"bIdx":24424,"bType":"axiom","type":"","name":"diff.ctsu.w","params":"wff w0","body":["|- diffcw(ctsu, w0)"],"bodyPretty":["⊢ d(tsums, w0)"],"proof":[],"comment":"","parent":[],"children":[]}

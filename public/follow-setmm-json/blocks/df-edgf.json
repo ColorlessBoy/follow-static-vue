@@ -1,0 +1,1 @@
+{"bIdx":28832,"bType":"axiom","type":"","name":"df-edgf","params":"","body":["|- wceq(cedgf, cslot(cdc(nat1, nat8)))"],"bodyPretty":["⊢ .ef = Slot(cdc(1, 8))"],"proof":[],"comment":"Define the edge function (indexed edges) of a graph. (Contributed by AV, 18-Jan-2020.)","parent":[],"children":["edgfid","edgfndxnn","edgfndxid","baseltedgf","iedgval0"]}

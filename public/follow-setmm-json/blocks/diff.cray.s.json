@@ -1,0 +1,1 @@
+{"bIdx":36336,"bType":"axiom","type":"","name":"diff.cray.s","params":"setvar s0","body":["|- diffsc(s0, cray)"],"bodyPretty":["⊢ d(s0, Ray)"],"proof":[],"comment":"","parent":[],"children":[]}

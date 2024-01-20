@@ -1,0 +1,1 @@
+{"bIdx":8661,"bType":"prop","type":"class","name":"cqs","params":"class c0, class c1","body":["(c0 /. c1)"],"bodyPretty":[],"proof":[],"comment":"Extend the definition of a class to include quotient set.","parent":[],"children":[]}

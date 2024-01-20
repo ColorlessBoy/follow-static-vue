@@ -1,0 +1,1 @@
+{"bIdx":18465,"bType":"axiom","type":"","name":"df-coda","params":"","body":["|- wceq(ccoda, ccom(c2nd, c1st))"],"bodyPretty":["⊢ codA =(2nd ∘ 1st)"],"proof":[],"comment":"Definition of the codomain extractor for an arrow. (Contributed by FL, 26-Oct-2007.) (Revised by Mario Carneiro, 11-Jan-2017.)","parent":[],"children":["homacd","cdaf"]}

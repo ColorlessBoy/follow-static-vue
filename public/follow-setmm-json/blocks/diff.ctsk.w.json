@@ -1,0 +1,1 @@
+{"bIdx":10663,"bType":"axiom","type":"","name":"diff.ctsk.w","params":"wff w0","body":["|- diffcw(ctsk, w0)"],"bodyPretty":["⊢ d(Tarski, w0)"],"proof":[],"comment":"","parent":[],"children":[]}

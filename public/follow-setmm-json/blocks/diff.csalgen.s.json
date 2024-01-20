@@ -1,0 +1,1 @@
+{"bIdx":45895,"bType":"axiom","type":"","name":"diff.csalgen.s","params":"setvar s0","body":["|- diffsc(s0, csalgen)"],"bodyPretty":["⊢ d(s0, SalGen)"],"proof":[],"comment":"","parent":[],"children":[]}

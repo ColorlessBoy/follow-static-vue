@@ -1,0 +1,1 @@
+{"bIdx":23512,"bType":"axiom","type":"","name":"diff.cha.s","params":"setvar s0","body":["|- diffsc(s0, cha)"],"bodyPretty":["⊢ d(s0, Haus)"],"proof":[],"comment":"","parent":[],"children":[]}

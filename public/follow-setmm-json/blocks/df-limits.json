@@ -1,0 +1,1 @@
+{"bIdx":36027,"bType":"axiom","type":"","name":"df-limits","params":"","body":["|- wceq(climits, cdif(cin(con0, cfix(cbigcup)), csn(emptycls)))"],"bodyPretty":["⊢ Limits =((On ⋂ Fix(Bigcup))\\ { ∅ })"],"proof":[],"comment":"Define the class of all limit ordinals. (Contributed by Scott Fenton, 11-Apr-2012.)","parent":[],"children":["ellimits","limitssson"]}

@@ -1,0 +1,1 @@
+{"bIdx":18784,"bType":"axiom","type":"","name":"diff.cpo.w","params":"wff w0","body":["|- diffcw(cpo, w0)"],"bodyPretty":["⊢ d(Poset, w0)"],"proof":[],"comment":"","parent":[],"children":[]}

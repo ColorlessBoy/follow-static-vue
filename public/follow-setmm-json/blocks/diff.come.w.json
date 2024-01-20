@@ -1,0 +1,1 @@
+{"bIdx":46080,"bType":"axiom","type":"","name":"diff.come.w","params":"wff w0","body":["|- diffcw(come, w0)"],"bodyPretty":["⊢ d(OutMeas, w0)"],"proof":[],"comment":"","parent":[],"children":[]}

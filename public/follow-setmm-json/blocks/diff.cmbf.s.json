@@ -1,0 +1,1 @@
+{"bIdx":26050,"bType":"axiom","type":"","name":"diff.cmbf.s","params":"setvar s0","body":["|- diffsc(s0, cmbf)"],"bodyPretty":["⊢ d(s0, MblFn)"],"proof":[],"comment":"","parent":[],"children":[]}

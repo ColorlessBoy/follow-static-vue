@@ -1,0 +1,1 @@
+{"bIdx":4174,"bType":"prop","type":"wff","name":"wss","params":"class c0, class c1","body":["c0 ⊆ c1"],"bodyPretty":[],"proof":[],"comment":"Extend wff notation to include the subclass relation. This is read \" ` A ` is a subclass of ` B ` \" or \" ` B ` includes ` A ` \". When ` A ` exists as a set, it is also read \" ` A ` is a subset of ` B ` \".","parent":[],"children":[]}

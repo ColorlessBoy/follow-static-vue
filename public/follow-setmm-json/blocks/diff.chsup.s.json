@@ -1,0 +1,1 @@
+{"bIdx":31089,"bType":"axiom","type":"","name":"diff.chsup.s","params":"setvar s0","body":["|- diffsc(s0, chsup)"],"bodyPretty":["⊢ d(s0, \\/H)"],"proof":[],"comment":"","parent":[],"children":[]}

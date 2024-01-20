@@ -1,0 +1,1 @@
+{"bIdx":27622,"bType":"axiom","type":"","name":"diff.cvma.c","params":"class c0","body":["|- diffcc(cvma, c0)"],"bodyPretty":["⊢ d(Lam, c0)"],"proof":[],"comment":"","parent":[],"children":[]}

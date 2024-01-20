@@ -1,0 +1,1 @@
+{"bIdx":33652,"bType":"axiom","type":"","name":"diff.cmntop.c","params":"class c0","body":["|- diffcc(cmntop, c0)"],"bodyPretty":["⊢ d(ManTop, c0)"],"proof":[],"comment":"","parent":[],"children":[]}

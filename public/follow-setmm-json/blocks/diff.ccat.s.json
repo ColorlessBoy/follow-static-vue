@@ -1,0 +1,1 @@
+{"bIdx":18029,"bType":"axiom","type":"","name":"diff.ccat.s","params":"setvar s0","body":["|- diffsc(s0, ccat)"],"bodyPretty":["⊢ d(s0, Cat)"],"proof":[],"comment":"","parent":[],"children":[]}

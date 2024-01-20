@@ -1,0 +1,1 @@
+{"bIdx":47351,"bType":"const","type":"class","name":"csubmgm","params":"","body":["SubMgm"],"bodyPretty":[],"proof":[],"comment":"Class function taking a magma to its lattice of submagmas.","parent":[],"children":[]}

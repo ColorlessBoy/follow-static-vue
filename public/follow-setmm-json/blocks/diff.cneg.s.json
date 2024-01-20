@@ -1,0 +1,1 @@
+{"bIdx":11499,"bType":"axiom","type":"","name":"diff.cneg.s","params":"setvar sBase, class c0","body":["|- diffsc(sBase, cneg(c0))","-| diffsc(sBase, c0)"],"bodyPretty":["⊢ d(sBase, -u(c0))","⊣ d(sBase, c0)"],"proof":[],"comment":"","parent":[],"children":[]}

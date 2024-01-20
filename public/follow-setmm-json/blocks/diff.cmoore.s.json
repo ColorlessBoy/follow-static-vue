@@ -1,0 +1,1 @@
+{"bIdx":37197,"bType":"axiom","type":"","name":"diff.cmoore.s","params":"setvar s0","body":["|- diffsc(s0, cmoore)"],"bodyPretty":["⊢ d(s0, Moore_)"],"proof":[],"comment":"","parent":[],"children":[]}

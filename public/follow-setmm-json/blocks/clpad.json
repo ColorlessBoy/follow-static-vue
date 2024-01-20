@@ -1,0 +1,1 @@
+{"bIdx":34424,"bType":"const","type":"class","name":"clpad","params":"","body":["leftpad"],"bodyPretty":[],"proof":[],"comment":"Extend class notation with the ` leftpad ` function.","parent":[],"children":[]}

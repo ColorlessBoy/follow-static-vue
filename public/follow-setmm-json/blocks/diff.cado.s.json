@@ -1,0 +1,1 @@
+{"bIdx":31173,"bType":"axiom","type":"","name":"diff.cado.s","params":"setvar s0","body":["|- diffsc(s0, cado)"],"bodyPretty":["⊢ d(s0, adjh)"],"proof":[],"comment":"","parent":[],"children":[]}

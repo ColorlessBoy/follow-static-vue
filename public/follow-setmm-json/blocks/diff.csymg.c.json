@@ -1,0 +1,1 @@
+{"bIdx":19757,"bType":"axiom","type":"","name":"diff.csymg.c","params":"class c0","body":["|- diffcc(csymg, c0)"],"bodyPretty":["⊢ d(SymGrp, c0)"],"proof":[],"comment":"","parent":[],"children":[]}

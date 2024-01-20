@@ -1,0 +1,1 @@
+{"bIdx":470,"bType":"prop","type":"wff","name":"wb","params":"wff w0, wff w1","body":["(w0 ↔ w1)"],"bodyPretty":[],"proof":[],"comment":"Extend wff definition to include the biconditional connective.","parent":[],"children":[]}

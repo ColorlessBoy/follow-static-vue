@@ -1,0 +1,1 @@
+{"bIdx":18370,"bType":"axiom","type":"","name":"diff.cfuc.c","params":"class c0","body":["|- diffcc(cfuc, c0)"],"bodyPretty":["⊢ d(FuncCat, c0)"],"proof":[],"comment":"","parent":[],"children":[]}

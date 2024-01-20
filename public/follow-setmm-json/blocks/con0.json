@@ -1,0 +1,1 @@
+{"bIdx":6489,"bType":"const","type":"class","name":"con0","params":"","body":["On"],"bodyPretty":[],"proof":[],"comment":"Extend the definition of a class to include the class of all ordinal numbers. (The 0 in the name prevents creating a file called con.html, which causes problems in Windows.)","parent":[],"children":[]}

@@ -1,0 +1,1 @@
+{"bIdx":38471,"bType":"prop","type":"wff","name":"wredundp","params":"wff w0, wff w1, wff w2","body":["redund(w0, w1, w2)"],"bodyPretty":[],"proof":[],"comment":"Extend wff definition to include the redundancy operator for propositions.","parent":[],"children":[]}

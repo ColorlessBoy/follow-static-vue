@@ -1,0 +1,1 @@
+{"bIdx":44149,"bType":"axiom","type":"","name":"diff.wvhc3.s","params":"setvar sBase, wff w0, wff w1, wff w2","body":["|- diffsw(sBase, wvhc3(w0, w1, w2))","-| diffsw(sBase, w0)","-| diffsw(sBase, w1)","-| diffsw(sBase, w2)"],"bodyPretty":["⊢ d(sBase,(w0, w1, w2))","⊣ d(sBase, w0)","⊣ d(sBase, w1)","⊣ d(sBase, w2)"],"proof":[],"comment":"","parent":[],"children":[]}

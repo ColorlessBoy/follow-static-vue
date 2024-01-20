@@ -1,0 +1,1 @@
+{"bIdx":37014,"bType":"axiom","type":"","name":"diff.wrnf.c","params":"class cBase, setvar s0, class c0, wff w0","body":["|- diffcw(cBase, wrnf(s0, c0, w0))","-| diffsc(s0, cBase)","-| diffcc(cBase, c0)","-| diffcw(cBase, w0)"],"bodyPretty":["⊢ d(cBase, F/(s0 ∈ c0, w0))","⊣ d(s0, cBase)","⊣ d(cBase, c0)","⊣ d(cBase, w0)"],"proof":[],"comment":"","parent":[],"children":[]}

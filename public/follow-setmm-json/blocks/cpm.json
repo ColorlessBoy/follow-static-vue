@@ -1,0 +1,1 @@
+{"bIdx":8786,"bType":"const","type":"class","name":"cpm","params":"","body":["p↦"],"bodyPretty":[],"proof":[],"comment":"Extend the definition of a class to include the partial mapping operation. (Read for ` A ^pm B ` , \"the set of all partial functions that map from ` B ` to ` A ` .)","parent":[],"children":[]}

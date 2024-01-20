@@ -1,0 +1,1 @@
+{"bIdx":47813,"bType":"axiom","type":"","name":"diff.cdmatalt.w","params":"wff w0","body":["|- diffcw(cdmatalt, w0)"],"bodyPretty":["⊢ d(DMatALT, w0)"],"proof":[],"comment":"","parent":[],"children":[]}

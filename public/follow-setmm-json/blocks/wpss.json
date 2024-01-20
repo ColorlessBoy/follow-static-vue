@@ -1,0 +1,1 @@
+{"bIdx":4178,"bType":"prop","type":"wff","name":"wpss","params":"class c0, class c1","body":["c0 ⊊ c1"],"bodyPretty":[],"proof":[],"comment":"Extend wff notation with proper subclass relation.","parent":[],"children":[]}

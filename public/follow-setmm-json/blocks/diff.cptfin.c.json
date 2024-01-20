@@ -1,0 +1,1 @@
+{"bIdx":23744,"bType":"axiom","type":"","name":"diff.cptfin.c","params":"class c0","body":["|- diffcc(cptfin, c0)"],"bodyPretty":["⊢ d(PtFin, c0)"],"proof":[],"comment":"","parent":[],"children":[]}

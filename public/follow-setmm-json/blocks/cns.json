@@ -1,0 +1,1 @@
+{"bIdx":30646,"bType":"const","type":"class","name":"cns","params":"","body":[".sOLD"],"bodyPretty":[],"proof":[],"comment":"Extend class notation with scalar multiplication in a normed complex vector space. In the literature scalar multiplication is usually indicated by juxtaposition, but we need an explicit symbol to prevent ambiguity.","parent":[],"children":[]}

@@ -1,0 +1,1 @@
+{"bIdx":21462,"bType":"axiom","type":"","name":"diff.casa.w","params":"wff w0","body":["|- diffcw(casa, w0)"],"bodyPretty":["⊢ d(AssAlg, w0)"],"proof":[],"comment":"","parent":[],"children":[]}

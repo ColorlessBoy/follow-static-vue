@@ -1,0 +1,1 @@
+{"bIdx":18494,"bType":"axiom","type":"","name":"diff.cida.s","params":"setvar s0","body":["|- diffsc(s0, cida)"],"bodyPretty":["⊢ d(s0, IdA)"],"proof":[],"comment":"","parent":[],"children":[]}

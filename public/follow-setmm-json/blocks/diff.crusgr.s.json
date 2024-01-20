@@ -1,0 +1,1 @@
+{"bIdx":29447,"bType":"axiom","type":"","name":"diff.crusgr.s","params":"setvar s0","body":["|- diffsc(s0, crusgr)"],"bodyPretty":["⊢ d(s0, RegUSGraph)"],"proof":[],"comment":"","parent":[],"children":[]}

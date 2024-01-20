@@ -1,0 +1,1 @@
+{"bIdx":18038,"bType":"axiom","type":"","name":"diff.chomf.c","params":"class c0","body":["|- diffcc(chomf, c0)"],"bodyPretty":["⊢ d(Homf, c0)"],"proof":[],"comment":"","parent":[],"children":[]}

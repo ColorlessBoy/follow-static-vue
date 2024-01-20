@@ -1,0 +1,1 @@
+{"bIdx":39389,"bType":"axiom","type":"","name":"df-ol","params":"","body":["|- wceq(col, cin(clat, cops))"],"bodyPretty":["⊢ OL =(Lat ⋂ OP)"],"proof":[],"comment":"Define the class of ortholattices. Definition from [Kalmbach] p. 16. (Contributed by NM, 18-Sep-2011.)","parent":[],"children":["isolat"]}

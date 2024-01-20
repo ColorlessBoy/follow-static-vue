@@ -1,0 +1,1 @@
+{"bIdx":24630,"bType":"axiom","type":"","name":"diff.ccusp.s","params":"setvar s0","body":["|- diffsc(s0, ccusp)"],"bodyPretty":["⊢ d(s0, CUnifSp)"],"proof":[],"comment":"","parent":[],"children":[]}

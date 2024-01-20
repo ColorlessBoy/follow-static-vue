@@ -1,0 +1,1 @@
+{"bIdx":38176,"bType":"axiom","type":"","name":"diff.ccring.w","params":"wff w0","body":["|- diffcw(ccring, w0)"],"bodyPretty":["⊢ d(CRingOps, w0)"],"proof":[],"comment":"","parent":[],"children":[]}

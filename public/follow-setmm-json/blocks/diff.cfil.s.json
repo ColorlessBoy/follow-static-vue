@@ -1,0 +1,1 @@
+{"bIdx":24109,"bType":"axiom","type":"","name":"diff.cfil.s","params":"setvar s0","body":["|- diffsc(s0, cfil)"],"bodyPretty":["⊢ d(s0, Fil)"],"proof":[],"comment":"","parent":[],"children":[]}

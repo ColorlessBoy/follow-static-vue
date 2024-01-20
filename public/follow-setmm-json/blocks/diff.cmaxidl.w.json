@@ -1,0 +1,1 @@
+{"bIdx":38201,"bType":"axiom","type":"","name":"diff.cmaxidl.w","params":"wff w0","body":["|- diffcw(cmaxidl, w0)"],"bodyPretty":["⊢ d(MaxIdl, w0)"],"proof":[],"comment":"","parent":[],"children":[]}

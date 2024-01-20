@@ -1,0 +1,1 @@
+{"bIdx":18764,"bType":"axiom","type":"","name":"diff.cproset.w","params":"wff w0","body":["|- diffcw(cproset, w0)"],"bodyPretty":["⊢ d(Proset, w0)"],"proof":[],"comment":"","parent":[],"children":[]}

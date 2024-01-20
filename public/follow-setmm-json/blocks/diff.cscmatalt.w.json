@@ -1,0 +1,1 @@
+{"bIdx":47817,"bType":"axiom","type":"","name":"diff.cscmatalt.w","params":"wff w0","body":["|- diffcw(cscmatalt, w0)"],"bodyPretty":["⊢ d(ScMatALT, w0)"],"proof":[],"comment":"","parent":[],"children":[]}

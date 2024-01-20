@@ -1,0 +1,1 @@
+{"bIdx":9751,"bType":"prop","type":"class","name":"cdju","params":"class c0, class c1","body":["(c0 ⊔ c1)"],"bodyPretty":[],"proof":[],"comment":"Extend class notation to include disjoint union of two classes.","parent":[],"children":[]}

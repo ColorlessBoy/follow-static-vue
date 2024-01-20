@@ -1,0 +1,1 @@
+{"bIdx":24579,"bType":"axiom","type":"","name":"diff.ctus.s","params":"setvar s0","body":["|- diffsc(s0, ctus)"],"bodyPretty":["⊢ d(s0, toUnifSp)"],"proof":[],"comment":"","parent":[],"children":[]}

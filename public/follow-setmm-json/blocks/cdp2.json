@@ -1,0 +1,1 @@
+{"bIdx":32991,"bType":"prop","type":"class","name":"cdp2","params":"class c0, class c1","body":["_(c0, c1)"],"bodyPretty":[],"proof":[],"comment":"Constant used for decimal fraction constructor. See ~ df-dp2 .","parent":[],"children":[]}

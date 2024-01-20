@@ -1,0 +1,1 @@
+{"bIdx":16782,"bType":"const","type":"class","name":"cgcd","params":"","body":["gcd"],"bodyPretty":[],"proof":[],"comment":"Extend the definition of a class to include the greatest common divisor operator.","parent":[],"children":[]}

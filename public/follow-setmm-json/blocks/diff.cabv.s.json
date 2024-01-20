@@ -1,0 +1,1 @@
+{"bIdx":20894,"bType":"axiom","type":"","name":"diff.cabv.s","params":"setvar s0","body":["|- diffsc(s0, cabv)"],"bodyPretty":["⊢ d(s0, AbsVal)"],"proof":[],"comment":"","parent":[],"children":[]}

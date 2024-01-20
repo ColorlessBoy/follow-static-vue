@@ -1,0 +1,1 @@
+{"bIdx":8158,"bType":"axiom","type":"","name":"diff.csupp.w","params":"wff w0","body":["|- diffcw(csupp, w0)"],"bodyPretty":["⊢ d(supp, w0)"],"proof":[],"comment":"","parent":[],"children":[]}

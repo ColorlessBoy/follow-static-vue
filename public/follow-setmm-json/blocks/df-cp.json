@@ -1,0 +1,1 @@
+{"bIdx":35509,"bType":"axiom","type":"","name":"df-cp","params":"","body":["|- wceq(ccp, ccom(ccpms, cqpa))"],"bodyPretty":["⊢ Cp =(cplMetSp ∘ _Qp)"],"proof":[],"comment":"Define the metric completion of the algebraic completion of the ` p ` -adic rationals. (Contributed by Mario Carneiro, 2-Dec-2014.)","parent":[],"children":[""]}

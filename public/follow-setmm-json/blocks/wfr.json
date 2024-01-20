@@ -1,0 +1,1 @@
+{"bIdx":5779,"bType":"prop","type":"wff","name":"wfr","params":"class c0, class c1","body":["c0[Fr]c1"],"bodyPretty":[],"proof":[],"comment":"Extend wff notation to include the well-founded predicate. Read: \" ` R ` is a well-founded relation on ` A ` \".","parent":[],"children":[]}

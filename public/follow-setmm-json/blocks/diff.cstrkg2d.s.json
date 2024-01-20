@@ -1,0 +1,1 @@
+{"bIdx":34409,"bType":"axiom","type":"","name":"diff.cstrkg2d.s","params":"setvar s0","body":["|- diffsc(s0, cstrkg2d)"],"bodyPretty":["⊢ d(s0, TarskiG2D)"],"proof":[],"comment":"","parent":[],"children":[]}

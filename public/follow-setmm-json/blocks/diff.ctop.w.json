@@ -1,0 +1,1 @@
+{"bIdx":23054,"bType":"axiom","type":"","name":"diff.ctop.w","params":"wff w0","body":["|- diffcw(ctop, w0)"],"bodyPretty":["⊢ d(Top, w0)"],"proof":[],"comment":"","parent":[],"children":[]}

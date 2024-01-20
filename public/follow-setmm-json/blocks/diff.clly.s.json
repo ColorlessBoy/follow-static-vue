@@ -1,0 +1,1 @@
+{"bIdx":23695,"bType":"axiom","type":"","name":"diff.clly.s","params":"setvar sBase, class c0","body":["|- diffsc(sBase, clly(c0))","-| diffsc(sBase, c0)"],"bodyPretty":["⊢ d(sBase, Locally(c0))","⊣ d(sBase, c0)"],"proof":[],"comment":"","parent":[],"children":[]}

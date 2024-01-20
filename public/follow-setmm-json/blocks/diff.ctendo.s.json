@@ -1,0 +1,1 @@
+{"bIdx":41042,"bType":"axiom","type":"","name":"diff.ctendo.s","params":"setvar s0","body":["|- diffsc(s0, ctendo)"],"bodyPretty":["⊢ d(s0, TEndo)"],"proof":[],"comment":"","parent":[],"children":[]}

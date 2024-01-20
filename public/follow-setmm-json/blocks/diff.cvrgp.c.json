@@ -1,0 +1,1 @@
+{"bIdx":20118,"bType":"axiom","type":"","name":"diff.cvrgp.c","params":"class c0","body":["|- diffcc(cvrgp, c0)"],"bodyPretty":["⊢ d(varFGrp, c0)"],"proof":[],"comment":"","parent":[],"children":[]}

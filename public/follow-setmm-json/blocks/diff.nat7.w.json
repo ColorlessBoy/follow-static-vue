@@ -1,0 +1,1 @@
+{"bIdx":12354,"bType":"axiom","type":"","name":"diff.nat7.w","params":"wff w0","body":["|- diffcw(nat7, w0)"],"bodyPretty":["⊢ d(7, w0)"],"proof":[],"comment":"","parent":[],"children":[]}

@@ -1,0 +1,1 @@
+{"bIdx":8461,"bType":"axiom","type":"","name":"diff.coa.s","params":"setvar s0","body":["|- diffsc(s0, coa)"],"bodyPretty":["⊢ d(s0, +o)"],"proof":[],"comment":"","parent":[],"children":[]}

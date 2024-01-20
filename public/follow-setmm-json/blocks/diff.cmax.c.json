@@ -1,0 +1,1 @@
+{"bIdx":35155,"bType":"axiom","type":"","name":"diff.cmax.c","params":"class c0","body":["|- diffcc(cmax, c0)"],"bodyPretty":["⊢ d(mAx, c0)"],"proof":[],"comment":"","parent":[],"children":[]}

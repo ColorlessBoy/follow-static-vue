@@ -1,0 +1,1 @@
+{"bIdx":34085,"bType":"axiom","type":"","name":"diff.csseq.c","params":"class c0","body":["|- diffcc(csseq, c0)"],"bodyPretty":["⊢ d(seqstr, c0)"],"proof":[],"comment":"","parent":[],"children":[]}

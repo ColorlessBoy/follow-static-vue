@@ -1,0 +1,1 @@
+{"bIdx":48106,"bType":"axiom","type":"","name":"diff.cline.c","params":"class c0","body":["|- diffcc(cline, c0)"],"bodyPretty":["⊢ d(LineM, c0)"],"proof":[],"comment":"","parent":[],"children":[]}

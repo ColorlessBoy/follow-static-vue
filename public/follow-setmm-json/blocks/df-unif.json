@@ -1,0 +1,1 @@
+{"bIdx":17625,"bType":"axiom","type":"","name":"df-unif","params":"","body":["|- wceq(cunif, cslot(cdc(nat1, nat3)))"],"bodyPretty":["⊢ UnifSet = Slot(cdc(1, 3))"],"proof":[],"comment":"Define the uniform structure component of a uniform space. (Contributed by Mario Carneiro, 14-Aug-2015.)","parent":[],"children":["unifndx","unifid","ressunif","tuslem"]}

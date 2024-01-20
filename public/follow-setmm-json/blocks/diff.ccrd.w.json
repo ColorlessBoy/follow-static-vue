@@ -1,0 +1,1 @@
+{"bIdx":9799,"bType":"axiom","type":"","name":"diff.ccrd.w","params":"wff w0","body":["|- diffcw(ccrd, w0)"],"bodyPretty":["⊢ d(card, w0)"],"proof":[],"comment":"","parent":[],"children":[]}

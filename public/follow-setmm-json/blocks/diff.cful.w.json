@@ -1,0 +1,1 @@
+{"bIdx":18322,"bType":"axiom","type":"","name":"diff.cful.w","params":"wff w0","body":["|- diffcw(cful, w0)"],"bodyPretty":["⊢ d(Full, w0)"],"proof":[],"comment":"","parent":[],"children":[]}

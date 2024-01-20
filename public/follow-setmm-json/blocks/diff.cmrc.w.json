@@ -1,0 +1,1 @@
+{"bIdx":17941,"bType":"axiom","type":"","name":"diff.cmrc.w","params":"wff w0","body":["|- diffcw(cmrc, w0)"],"bodyPretty":["⊢ d(mrCls, w0)"],"proof":[],"comment":"","parent":[],"children":[]}

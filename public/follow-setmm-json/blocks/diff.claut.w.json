@@ -1,0 +1,1 @@
+{"bIdx":40250,"bType":"axiom","type":"","name":"diff.claut.w","params":"wff w0","body":["|- diffcw(claut, w0)"],"bodyPretty":["⊢ d(LAut, w0)"],"proof":[],"comment":"","parent":[],"children":[]}

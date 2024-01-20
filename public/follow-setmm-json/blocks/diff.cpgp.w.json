@@ -1,0 +1,1 @@
+{"bIdx":19926,"bType":"axiom","type":"","name":"diff.cpgp.w","params":"wff w0","body":["|- diffcw(cpgp, w0)"],"bodyPretty":["⊢ d(pGrp, w0)"],"proof":[],"comment":"","parent":[],"children":[]}

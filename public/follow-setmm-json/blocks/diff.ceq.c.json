@@ -1,0 +1,1 @@
+{"bIdx":10795,"bType":"axiom","type":"","name":"diff.ceq.c","params":"class c0","body":["|- diffcc(ceq, c0)"],"bodyPretty":["⊢ d(~, c0)"],"proof":[],"comment":"","parent":[],"children":[]}

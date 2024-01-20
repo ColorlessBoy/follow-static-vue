@@ -1,0 +1,1 @@
+{"bIdx":18724,"bType":"axiom","type":"","name":"diff.cyon.w","params":"wff w0","body":["|- diffcw(cyon, w0)"],"bodyPretty":["⊢ d(Yon, w0)"],"proof":[],"comment":"","parent":[],"children":[]}

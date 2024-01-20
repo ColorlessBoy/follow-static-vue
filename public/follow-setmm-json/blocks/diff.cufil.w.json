@@ -1,0 +1,1 @@
+{"bIdx":24168,"bType":"axiom","type":"","name":"diff.cufil.w","params":"wff w0","body":["|- diffcw(cufil, w0)"],"bodyPretty":["⊢ d(UFil, w0)"],"proof":[],"comment":"","parent":[],"children":[]}

@@ -1,0 +1,1 @@
+{"bIdx":29444,"bType":"axiom","type":"","name":"diff.crgr.c","params":"class c0","body":["|- diffcc(crgr, c0)"],"bodyPretty":["⊢ d(RegGraph, c0)"],"proof":[],"comment":"","parent":[],"children":[]}

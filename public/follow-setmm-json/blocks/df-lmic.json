@@ -1,0 +1,1 @@
+{"bIdx":21132,"bType":"axiom","type":"","name":"df-lmic","params":"","body":["|- wceq(clmic, cima(ccnv(clmim), cdif(universe, c1o)))"],"bodyPretty":["⊢ ~=m =(`' LMIso \"(𝕌 \\ 1o))"],"proof":[],"comment":"Two modules are said to be isomorphic iff they are connected by at least one isomorphism. (Contributed by Stefan O'Rear, 25-Jan-2015.)","parent":[],"children":["brlmic"]}

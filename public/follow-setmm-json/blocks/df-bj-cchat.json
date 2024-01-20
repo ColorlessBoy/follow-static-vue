@@ -1,0 +1,1 @@
+{"bIdx":37341,"bType":"axiom","type":"","name":"df-bj-cchat","params":"","body":["|- wceq(ccchat, cun(cc, csn(cinfty)))"],"bodyPretty":["⊢ CChat =(ℂ ⋃ { infty })"],"proof":[],"comment":"Define the complex projective line, or Riemann sphere. (Contributed by BJ, 27-Jun-2019.)","parent":[],"children":["bj-rrhatsscchat"]}

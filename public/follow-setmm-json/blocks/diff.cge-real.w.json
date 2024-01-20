@@ -1,0 +1,1 @@
+{"bIdx":48223,"bType":"axiom","type":"","name":"diff.cge-real.w","params":"wff w0","body":["|- diffcw(cge-real, w0)"],"bodyPretty":["⊢ d(≥, w0)"],"proof":[],"comment":"","parent":[],"children":[]}

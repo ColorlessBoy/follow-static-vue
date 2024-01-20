@@ -1,0 +1,1 @@
+{"bIdx":5389,"bType":"axiom","type":"","name":"diff.copab.w","params":"wff wBase, setvar s0, setvar s1, wff w0","body":["|- diffcw(copab(s0, s1, w0), wBase)","-| diffsw(s0, wBase)","-| diffsw(s1, wBase)","-| diffww(wBase, w0)"],"bodyPretty":["⊢ d({ < s0, s1 > | w0 }, wBase)","⊣ d(s0, wBase)","⊣ d(s1, wBase)","⊣ d(wBase, w0)"],"proof":[],"comment":"","parent":[],"children":[]}

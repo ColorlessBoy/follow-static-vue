@@ -1,0 +1,1 @@
+{"bIdx":5386,"bType":"prop","type":"class","name":"copab","params":"setvar s0, setvar s1, wff w0","body":["{ < s0, s1 > | w0 }"],"bodyPretty":[],"proof":[],"comment":"Extend class notation to include ordered-pair class abstraction (class builder).","parent":[],"children":[]}

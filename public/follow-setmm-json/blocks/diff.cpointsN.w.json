@@ -1,0 +1,1 @@
+{"bIdx":39736,"bType":"axiom","type":"","name":"diff.cpointsN.w","params":"wff w0","body":["|- diffcw(cpointsN, w0)"],"bodyPretty":["⊢ d(Points, w0)"],"proof":[],"comment":"","parent":[],"children":[]}

@@ -1,0 +1,1 @@
+{"bIdx":28319,"bType":"axiom","type":"","name":"diff.cismt.c","params":"class c0","body":["|- diffcc(cismt, c0)"],"bodyPretty":["⊢ d(Ismt, c0)"],"proof":[],"comment":"","parent":[],"children":[]}

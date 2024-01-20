@@ -1,0 +1,1 @@
+{"bIdx":47404,"bType":"axiom","type":"","name":"diff.ccomlaw.s","params":"setvar s0","body":["|- diffsc(s0, ccomlaw)"],"bodyPretty":["⊢ d(s0, comLaw)"],"proof":[],"comment":"","parent":[],"children":[]}

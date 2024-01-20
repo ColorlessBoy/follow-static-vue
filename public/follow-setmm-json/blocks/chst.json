@@ -1,0 +1,1 @@
+{"bIdx":31204,"bType":"const","type":"class","name":"chst","params":"","body":["CHStates"],"bodyPretty":[],"proof":[],"comment":"Extend class notation with set of Hilbert-space-valued states on a Hilbert lattice.","parent":[],"children":[]}

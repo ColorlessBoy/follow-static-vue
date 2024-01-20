@@ -1,0 +1,1 @@
+{"bIdx":35186,"bType":"axiom","type":"","name":"diff.cmpst.s","params":"setvar s0","body":["|- diffsc(s0, cmpst)"],"bodyPretty":["⊢ d(s0, mPreSt)"],"proof":[],"comment":"","parent":[],"children":[]}

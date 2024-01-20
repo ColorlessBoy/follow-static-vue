@@ -1,0 +1,1 @@
+{"bIdx":23277,"bType":"axiom","type":"","name":"diff.cnei.s","params":"setvar s0","body":["|- diffsc(s0, cnei)"],"bodyPretty":["⊢ d(s0, nei)"],"proof":[],"comment":"","parent":[],"children":[]}

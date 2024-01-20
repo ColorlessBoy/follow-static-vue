@@ -1,0 +1,1 @@
+{"bIdx":45945,"bType":"axiom","type":"","name":"diff.csumge0.s","params":"setvar s0","body":["|- diffsc(s0, csumge0)"],"bodyPretty":["⊢ d(s0, sum^)"],"proof":[],"comment":"","parent":[],"children":[]}

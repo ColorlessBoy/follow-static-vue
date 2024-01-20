@@ -1,0 +1,1 @@
+{"bIdx":46576,"bType":"axiom","type":"","name":"diff.caiota.c","params":"class cBase, setvar s0, wff w0","body":["|- diffcc(cBase, caiota(s0, w0))","-| diffsc(s0, cBase)","-| diffcw(cBase, w0)"],"bodyPretty":["⊢ d(cBase, iota'(s0, w0))","⊣ d(s0, cBase)","⊣ d(cBase, w0)"],"proof":[],"comment":"","parent":[],"children":[]}

@@ -1,0 +1,1 @@
+{"bIdx":42951,"bType":"axiom","type":"","name":"diff.cmpaa.c","params":"class c0","body":["|- diffcc(cmpaa, c0)"],"bodyPretty":["⊢ d(minPolyAA, c0)"],"proof":[],"comment":"","parent":[],"children":[]}

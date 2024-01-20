@@ -1,0 +1,1 @@
+{"bIdx":35361,"bType":"axiom","type":"","name":"df-msyn","params":"","body":["|- wceq(cmsy, cslot(nat6))"],"bodyPretty":["⊢ mSyn = Slot(6)"],"proof":[],"comment":"Define the syntax typecode function. (Contributed by Mario Carneiro, 14-Jul-2016.)","parent":[],"children":[""]}

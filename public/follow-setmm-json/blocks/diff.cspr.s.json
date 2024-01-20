@@ -1,0 +1,1 @@
+{"bIdx":46903,"bType":"axiom","type":"","name":"diff.cspr.s","params":"setvar s0","body":["|- diffsc(s0, cspr)"],"bodyPretty":["⊢ d(s0, Pairs)"],"proof":[],"comment":"","parent":[],"children":[]}

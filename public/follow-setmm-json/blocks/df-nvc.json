@@ -1,0 +1,1 @@
+{"bIdx":24950,"bType":"axiom","type":"","name":"df-nvc","params":"","body":["|- wceq(cnvc, cin(cnlm, clvec))"],"bodyPretty":["⊢ NrmVec =(NrmMod ⋂ LVec)"],"proof":[],"comment":"A normed vector space is a normed module which is also a vector space. (Contributed by Mario Carneiro, 4-Oct-2015.)","parent":[],"children":["isnvc"]}

@@ -1,0 +1,1 @@
+{"bIdx":9227,"bType":"axiom","type":"","name":"diff.cfsupp.c","params":"class c0","body":["|- diffcc(cfsupp, c0)"],"bodyPretty":["⊢ d(finSupp, c0)"],"proof":[],"comment":"","parent":[],"children":[]}

@@ -1,0 +1,1 @@
+{"bIdx":29351,"bType":"axiom","type":"","name":"diff.cvtxdg.c","params":"class c0","body":["|- diffcc(cvtxdg, c0)"],"bodyPretty":["⊢ d(VtxDeg, c0)"],"proof":[],"comment":"","parent":[],"children":[]}

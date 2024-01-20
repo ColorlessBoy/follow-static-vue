@@ -1,0 +1,1 @@
+{"bIdx":42451,"bType":"axiom","type":"","name":"diff.cnacs.s","params":"setvar s0","body":["|- diffsc(s0, cnacs)"],"bodyPretty":["⊢ d(s0, NoeACS)"],"proof":[],"comment":"","parent":[],"children":[]}

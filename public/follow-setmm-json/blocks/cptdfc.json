@@ -1,0 +1,1 @@
+{"bIdx":43997,"bType":"prop","type":"class","name":"cptdfc","params":"class c0, class c1","body":["PtDf(c0, c1)"],"bodyPretty":[],"proof":[],"comment":"` PtDf ` is a predicate that is crucial for the definition of lines as well as proving a number of important theorems.","parent":[],"children":[]}

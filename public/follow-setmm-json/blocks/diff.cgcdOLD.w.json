@@ -1,0 +1,1 @@
+{"bIdx":36569,"bType":"axiom","type":"","name":"diff.cgcdOLD.w","params":"wff wBase, class c0, class c1","body":["|- diffcw(cgcdOLD(c0, c1), wBase)","-| diffcw(c0, wBase)","-| diffcw(c1, wBase)"],"bodyPretty":["⊢ d(gcdOLD(c0, c1), wBase)","⊣ d(c0, wBase)","⊣ d(c1, wBase)"],"proof":[],"comment":"","parent":[],"children":[]}

@@ -1,0 +1,1 @@
+{"bIdx":42617,"bType":"axiom","type":"","name":"df-squarenn","params":"setvar s0","body":["|- wceq(csquarenn, crab(s0, cn, wcel(cfv(csqrt, cv(s0)), cq)))"],"bodyPretty":["⊢ []NN = { s0 ∈ ℕ |(sqrt ` s0)∈ ℚ }"],"proof":[],"comment":"Define the set of square positive integers. (Contributed by Stefan O'Rear, 18-Sep-2014.)","parent":[],"children":["pellqrex","rmspecnonsq"]}

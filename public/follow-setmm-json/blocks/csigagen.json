@@ -1,0 +1,1 @@
+{"bIdx":33800,"bType":"const","type":"class","name":"csigagen","params":"","body":["sigaGen"],"bodyPretty":[],"proof":[],"comment":"Extend class notation to include the sigma-algebra generator.","parent":[],"children":[]}

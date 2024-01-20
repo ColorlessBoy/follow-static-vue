@@ -1,0 +1,1 @@
+{"bIdx":6498,"bType":"axiom","type":"","name":"diff.csuc.s","params":"setvar sBase, class c0","body":["|- diffsc(sBase, csuc(c0))","-| diffsc(sBase, c0)"],"bodyPretty":["⊢ d(sBase, suc(c0))","⊣ d(sBase, c0)"],"proof":[],"comment":"","parent":[],"children":[]}

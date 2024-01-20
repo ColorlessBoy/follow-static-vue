@@ -1,0 +1,1 @@
+{"bIdx":31073,"bType":"axiom","type":"","name":"diff.cort.s","params":"setvar s0","body":["|- diffsc(s0, cort)"],"bodyPretty":["⊢ d(s0, _|_)"],"proof":[],"comment":"","parent":[],"children":[]}

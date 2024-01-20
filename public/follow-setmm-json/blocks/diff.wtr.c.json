@@ -1,0 +1,1 @@
+{"bIdx":5433,"bType":"axiom","type":"","name":"diff.wtr.c","params":"class cBase, class c0","body":["|- diffcw(cBase, wtr(c0))","-| diffcc(cBase, c0)"],"bodyPretty":["⊢ d(cBase, Tr(c0))","⊣ d(cBase, c0)"],"proof":[],"comment":"","parent":[],"children":[]}

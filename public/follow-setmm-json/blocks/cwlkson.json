@@ -1,0 +1,1 @@
+{"bIdx":29496,"bType":"const","type":"class","name":"cwlkson","params":"","body":["WalksOn"],"bodyPretty":[],"proof":[],"comment":"Extend class notation with walks between two vertices (within a graph).","parent":[],"children":[]}

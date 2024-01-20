@@ -1,0 +1,1 @@
+{"bIdx":37401,"bType":"axiom","type":"","name":"df-bj-zzbar","params":"","body":["|- wceq(czzbar, cun(cz, cpr(cminfty, cpinfty)))"],"bodyPretty":["⊢ ZZbar =(ℤ ⋃ { minfty, pinfty })"],"proof":[],"comment":"Definition of the extended integers. (Contributed by BJ, 28-Jul-2023.)","parent":[],"children":[""]}

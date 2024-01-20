@@ -1,0 +1,1 @@
+{"bIdx":33361,"bType":"axiom","type":"","name":"diff.cfinext.w","params":"wff w0","body":["|- diffcw(cfinext, w0)"],"bodyPretty":["⊢ d(/FinExt, w0)"],"proof":[],"comment":"","parent":[],"children":[]}

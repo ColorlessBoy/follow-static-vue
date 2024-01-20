@@ -1,0 +1,1 @@
+{"bIdx":18674,"bType":"const","type":"class","name":"cuncf","params":"","body":["uncurryF"],"bodyPretty":[],"proof":[],"comment":"Extend class notation with the uncurrying of a functor.","parent":[],"children":[]}

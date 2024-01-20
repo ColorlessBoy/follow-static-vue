@@ -1,0 +1,1 @@
+{"bIdx":36030,"bType":"axiom","type":"","name":"df-singles","params":"","body":["|- wceq(csingles, crn(csingle))"],"bodyPretty":["⊢ Singletons = ran(Singleton)"],"proof":[],"comment":"Define the class of all singletons. See ~ elsingles for membership. (Contributed by Scott Fenton, 19-Feb-2013.)","parent":[],"children":["elsingles"]}

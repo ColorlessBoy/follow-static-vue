@@ -1,0 +1,1 @@
+{"bIdx":14931,"bType":"axiom","type":"","name":"diff.creverse.w","params":"wff w0","body":["|- diffcw(creverse, w0)"],"bodyPretty":["⊢ d(reverse, w0)"],"proof":[],"comment":"","parent":[],"children":[]}

@@ -1,0 +1,1 @@
+{"bIdx":23317,"bType":"axiom","type":"","name":"diff.clp.s","params":"setvar s0","body":["|- diffsc(s0, clp)"],"bodyPretty":["⊢ d(s0, limPt)"],"proof":[],"comment":"","parent":[],"children":[]}

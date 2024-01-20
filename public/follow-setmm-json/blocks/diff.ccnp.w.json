@@ -1,0 +1,1 @@
+{"bIdx":23419,"bType":"axiom","type":"","name":"diff.ccnp.w","params":"wff w0","body":["|- diffcw(ccnp, w0)"],"bodyPretty":["⊢ d(CnP, w0)"],"proof":[],"comment":"","parent":[],"children":[]}

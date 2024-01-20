@@ -1,0 +1,1 @@
+{"bIdx":47195,"bType":"const","type":"class","name":"cgbe","params":"","body":["GoldbachEven"],"bodyPretty":[],"proof":[],"comment":"Extend the definition of a class to include the set of even numbers which have a Goldbach partition.","parent":[],"children":[]}

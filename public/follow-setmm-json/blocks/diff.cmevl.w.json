@@ -1,0 +1,1 @@
+{"bIdx":35389,"bType":"axiom","type":"","name":"diff.cmevl.w","params":"wff w0","body":["|- diffcw(cmevl, w0)"],"bodyPretty":["⊢ d(mEval, w0)"],"proof":[],"comment":"","parent":[],"children":[]}

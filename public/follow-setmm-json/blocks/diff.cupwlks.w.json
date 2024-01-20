@@ -1,0 +1,1 @@
+{"bIdx":47311,"bType":"axiom","type":"","name":"diff.cupwlks.w","params":"wff w0","body":["|- diffcw(cupwlks, w0)"],"bodyPretty":["⊢ d(UPWalks, w0)"],"proof":[],"comment":"","parent":[],"children":[]}

@@ -1,0 +1,1 @@
+{"bIdx":33767,"bType":"axiom","type":"","name":"diff.csiga.s","params":"setvar s0","body":["|- diffsc(s0, csiga)"],"bodyPretty":["⊢ d(s0, sigAlgebra)"],"proof":[],"comment":"","parent":[],"children":[]}

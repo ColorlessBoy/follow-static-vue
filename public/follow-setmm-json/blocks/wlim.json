@@ -1,0 +1,1 @@
+{"bIdx":6493,"bType":"prop","type":"wff","name":"wlim","params":"class c0","body":["Lim(c0)"],"bodyPretty":[],"proof":[],"comment":"Extend the definition of a wff to include the limit ordinal predicate.","parent":[],"children":[]}

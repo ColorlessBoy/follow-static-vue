@@ -1,0 +1,1 @@
+{"bIdx":17480,"bType":"axiom","type":"","name":"diff.cress.s","params":"setvar s0","body":["|- diffsc(s0, cress)"],"bodyPretty":["⊢ d(s0, |`s)"],"proof":[],"comment":"","parent":[],"children":[]}

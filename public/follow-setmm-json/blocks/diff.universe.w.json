@@ -1,0 +1,1 @@
+{"bIdx":3746,"bType":"axiom","type":"","name":"diff.universe.w","params":"wff w0","body":["|- diffcw(universe, w0)"],"bodyPretty":["⊢ d(𝕌, w0)"],"proof":[],"comment":"","parent":[],"children":[]}

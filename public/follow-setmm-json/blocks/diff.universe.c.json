@@ -1,0 +1,1 @@
+{"bIdx":3745,"bType":"axiom","type":"","name":"diff.universe.c","params":"class c0","body":["|- diffcc(universe, c0)"],"bodyPretty":["⊢ d(𝕌, c0)"],"proof":[],"comment":"","parent":[],"children":[]}

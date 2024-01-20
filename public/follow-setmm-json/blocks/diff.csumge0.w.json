@@ -1,0 +1,1 @@
+{"bIdx":45947,"bType":"axiom","type":"","name":"diff.csumge0.w","params":"wff w0","body":["|- diffcw(csumge0, w0)"],"bodyPretty":["⊢ d(sum^, w0)"],"proof":[],"comment":"","parent":[],"children":[]}

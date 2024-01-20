@@ -1,0 +1,1 @@
+{"bIdx":661,"bType":"prop","type":"wff","name":"wa","params":"wff w0, wff w1","body":["(w0 ∧ w1)"],"bodyPretty":[],"proof":[],"comment":"Extend wff definition to include conjunction (\"and\").","parent":[],"children":[]}

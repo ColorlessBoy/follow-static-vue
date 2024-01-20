@@ -1,0 +1,1 @@
+{"bIdx":34446,"bType":"axiom","type":"","name":"diff.c-bnj14.w","params":"wff wBase, class c0, class c1, class c2","body":["|- diffcw(c-bnj14(c0, c1, c2), wBase)","-| diffcw(c0, wBase)","-| diffcw(c1, wBase)","-| diffcw(c2, wBase)"],"bodyPretty":["⊢ d(_pred(c0, c1, c2), wBase)","⊣ d(c0, wBase)","⊣ d(c1, wBase)","⊣ d(c2, wBase)"],"proof":[],"comment":"","parent":[],"children":[]}

@@ -1,0 +1,1 @@
+{"bIdx":36034,"bType":"axiom","type":"","name":"df-domain","params":"","body":["|- wceq(cdomain, cimage(cres(c1st, cxp(universe, universe))))"],"bodyPretty":["⊢ Domain = Image((1st |`(𝕌 × 𝕌)))"],"proof":[],"comment":"Define the domain function. See ~ brdomain for its value. (Contributed by Scott Fenton, 11-Apr-2014.)","parent":[],"children":["brdomain"]}

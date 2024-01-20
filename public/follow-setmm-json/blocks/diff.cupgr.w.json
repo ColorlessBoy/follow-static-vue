@@ -1,0 +1,1 @@
+{"bIdx":28940,"bType":"axiom","type":"","name":"diff.cupgr.w","params":"wff w0","body":["|- diffcw(cupgr, w0)"],"bodyPretty":["⊢ d(UPGraph, w0)"],"proof":[],"comment":"","parent":[],"children":[]}

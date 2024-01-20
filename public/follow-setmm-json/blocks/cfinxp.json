@@ -1,0 +1,1 @@
+{"bIdx":37494,"bType":"prop","type":"class","name":"cfinxp","params":"class c0, class c1","body":["(c0 ^^ c1)"],"bodyPretty":[],"proof":[],"comment":"Extend the definition of a class to include Cartesian exponentiation.","parent":[],"children":[]}

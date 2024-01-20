@@ -1,0 +1,1 @@
+{"bIdx":34411,"bType":"axiom","type":"","name":"diff.cstrkg2d.w","params":"wff w0","body":["|- diffcw(cstrkg2d, w0)"],"bodyPretty":["⊢ d(TarskiG2D, w0)"],"proof":[],"comment":"","parent":[],"children":[]}

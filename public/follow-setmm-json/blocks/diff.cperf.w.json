@@ -1,0 +1,1 @@
+{"bIdx":23323,"bType":"axiom","type":"","name":"diff.cperf.w","params":"wff w0","body":["|- diffcw(cperf, w0)"],"bodyPretty":["⊢ d(Perf, w0)"],"proof":[],"comment":"","parent":[],"children":[]}

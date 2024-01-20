@@ -1,0 +1,1 @@
+{"bIdx":18499,"bType":"axiom","type":"","name":"diff.ccoa.c","params":"class c0","body":["|- diffcc(ccoa, c0)"],"bodyPretty":["⊢ d(compA, c0)"],"proof":[],"comment":"","parent":[],"children":[]}

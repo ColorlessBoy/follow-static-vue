@@ -1,0 +1,1 @@
+{"bIdx":17584,"bType":"axiom","type":"","name":"diff.cip.s","params":"setvar s0","body":["|- diffsc(s0, cip)"],"bodyPretty":["⊢ d(s0, ·)"],"proof":[],"comment":"","parent":[],"children":[]}

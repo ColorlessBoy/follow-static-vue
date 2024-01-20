@@ -1,0 +1,1 @@
+{"bIdx":38040,"bType":"axiom","type":"","name":"diff.cghomOLD.s","params":"setvar s0","body":["|- diffsc(s0, cghomOLD)"],"bodyPretty":["⊢ d(s0, GrpOpHom)"],"proof":[],"comment":"","parent":[],"children":[]}

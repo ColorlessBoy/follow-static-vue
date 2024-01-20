@@ -1,0 +1,1 @@
+{"bIdx":18783,"bType":"axiom","type":"","name":"diff.cpo.c","params":"class c0","body":["|- diffcc(cpo, c0)"],"bodyPretty":["⊢ d(Poset, c0)"],"proof":[],"comment":"","parent":[],"children":[]}

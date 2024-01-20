@@ -1,0 +1,1 @@
+{"bIdx":18790,"bType":"axiom","type":"","name":"diff.club.s","params":"setvar s0","body":["|- diffsc(s0, club)"],"bodyPretty":["⊢ d(s0, lub)"],"proof":[],"comment":"","parent":[],"children":[]}

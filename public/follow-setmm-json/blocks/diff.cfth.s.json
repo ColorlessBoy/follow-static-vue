@@ -1,0 +1,1 @@
+{"bIdx":18324,"bType":"axiom","type":"","name":"diff.cfth.s","params":"setvar s0","body":["|- diffsc(s0, cfth)"],"bodyPretty":["⊢ d(s0, Faith)"],"proof":[],"comment":"","parent":[],"children":[]}

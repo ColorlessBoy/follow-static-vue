@@ -1,0 +1,1 @@
+{"bIdx":8350,"bType":"axiom","type":"","name":"diff.crecs.s","params":"setvar sBase, class c0","body":["|- diffsc(sBase, crecs(c0))","-| diffsc(sBase, c0)"],"bodyPretty":["⊢ d(sBase, recs(c0))","⊣ d(sBase, c0)"],"proof":[],"comment":"","parent":[],"children":[]}

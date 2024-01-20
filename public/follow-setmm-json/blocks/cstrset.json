@@ -1,0 +1,1 @@
+{"bIdx":37250,"bType":"prop","type":"class","name":"cstrset","params":"class c0, class c1, class c2","body":["[c0 / c1]c2"],"bodyPretty":[],"proof":[],"comment":"Syntax for component-setting in extensible structures.","parent":[],"children":[]}

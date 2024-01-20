@@ -1,0 +1,1 @@
+{"bIdx":19698,"bType":"axiom","type":"","name":"diff.ccntz.s","params":"setvar s0","body":["|- diffsc(s0, ccntz)"],"bodyPretty":["⊢ d(s0, Cntz)"],"proof":[],"comment":"","parent":[],"children":[]}

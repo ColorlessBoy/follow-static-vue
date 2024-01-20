@@ -1,0 +1,1 @@
+{"bIdx":34142,"bType":"axiom","type":"","name":"diff.ccprob.s","params":"setvar s0","body":["|- diffsc(s0, ccprob)"],"bodyPretty":["⊢ d(s0, cprob)"],"proof":[],"comment":"","parent":[],"children":[]}

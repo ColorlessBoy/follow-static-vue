@@ -1,0 +1,1 @@
+{"bIdx":28910,"bType":"axiom","type":"","name":"diff.cuhgr.w","params":"wff w0","body":["|- diffcw(cuhgr, w0)"],"bodyPretty":["⊢ d(UHGraph, w0)"],"proof":[],"comment":"","parent":[],"children":[]}

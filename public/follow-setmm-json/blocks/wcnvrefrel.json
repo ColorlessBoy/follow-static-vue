@@ -1,0 +1,1 @@
+{"bIdx":38419,"bType":"prop","type":"wff","name":"wcnvrefrel","params":"class c0","body":["CnvRefRel(c0)"],"bodyPretty":[],"proof":[],"comment":"Extend the definition of a wff to include the converse reflexive relation predicate. (Read: ` R ` is a converse reflexive relation.)","parent":[],"children":[]}

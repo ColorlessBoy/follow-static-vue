@@ -1,0 +1,1 @@
+{"bIdx":35995,"bType":"axiom","type":"","name":"diff.ccap.c","params":"class c0","body":["|- diffcc(ccap, c0)"],"bodyPretty":["⊢ d(Cap, c0)"],"proof":[],"comment":"","parent":[],"children":[]}

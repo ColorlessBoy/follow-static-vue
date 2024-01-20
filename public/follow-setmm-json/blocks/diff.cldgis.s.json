@@ -1,0 +1,1 @@
+{"bIdx":42918,"bType":"axiom","type":"","name":"diff.cldgis.s","params":"setvar s0","body":["|- diffsc(s0, cldgis)"],"bodyPretty":["⊢ d(s0, ldgIdlSeq)"],"proof":[],"comment":"","parent":[],"children":[]}

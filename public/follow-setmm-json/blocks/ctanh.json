@@ -1,0 +1,1 @@
+{"bIdx":48244,"bType":"const","type":"class","name":"ctanh","params":"","body":["tanh"],"bodyPretty":[],"proof":[],"comment":"Extend class notation to include the hyperbolic tangent function, see ~ df-tanh .","parent":[],"children":[]}

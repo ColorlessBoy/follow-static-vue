@@ -1,0 +1,1 @@
+{"bIdx":35984,"bType":"axiom","type":"","name":"diff.crange.w","params":"wff w0","body":["|- diffcw(crange, w0)"],"bodyPretty":["⊢ d(Range, w0)"],"proof":[],"comment":"","parent":[],"children":[]}

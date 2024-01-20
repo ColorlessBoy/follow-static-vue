@@ -1,0 +1,1 @@
+{"bIdx":6670,"bType":"prop","type":"wff","name":"wfo","params":"class c0, class c1, class c2","body":["(c0 : c1 ↠ c2)"],"bodyPretty":[],"proof":[],"comment":"Extend the definition of a wff to include onto functions. (Read: ` F ` maps ` A ` onto ` B ` .) The notation (\"onto\" below the arrow) is from Definition 6.15(4) of [TakeutiZaring] p. 27.","parent":[],"children":[]}

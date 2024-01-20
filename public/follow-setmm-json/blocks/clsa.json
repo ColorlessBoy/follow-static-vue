@@ -1,0 +1,1 @@
+{"bIdx":39155,"bType":"const","type":"class","name":"clsa","params":"","body":["LSAtoms"],"bodyPretty":[],"proof":[],"comment":"Extend class notation with all 1-dim subspaces (atoms) of a left module or left vector space.","parent":[],"children":[]}

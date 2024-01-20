@@ -1,0 +1,1 @@
+{"bIdx":31047,"bType":"axiom","type":"","name":"diff.cno.w","params":"wff w0","body":["|- diffcw(cno, w0)"],"bodyPretty":["⊢ d(normh, w0)"],"proof":[],"comment":"","parent":[],"children":[]}

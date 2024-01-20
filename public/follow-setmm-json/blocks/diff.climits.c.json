@@ -1,0 +1,1 @@
+{"bIdx":35951,"bType":"axiom","type":"","name":"diff.climits.c","params":"class c0","body":["|- diffcc(climits, c0)"],"bodyPretty":["⊢ d(Limits, c0)"],"proof":[],"comment":"","parent":[],"children":[]}

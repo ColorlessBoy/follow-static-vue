@@ -1,0 +1,1 @@
+{"bIdx":9225,"bType":"const","type":"class","name":"cfsupp","params":"","body":["finSupp"],"bodyPretty":[],"proof":[],"comment":"Extend class definition to include the predicate to be a finitely supported function.","parent":[],"children":[]}

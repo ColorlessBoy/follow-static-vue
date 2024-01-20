@@ -1,0 +1,1 @@
+{"bIdx":40193,"bType":"axiom","type":"","name":"diff.cpscN.w","params":"wff w0","body":["|- diffcw(cpscN, w0)"],"bodyPretty":["⊢ d(PSubCl, w0)"],"proof":[],"comment":"","parent":[],"children":[]}

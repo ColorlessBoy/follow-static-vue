@@ -1,0 +1,1 @@
+{"bIdx":41049,"bType":"const","type":"class","name":"cedring-rN","params":"","body":["EDRingR"],"bodyPretty":[],"proof":[],"comment":"Extend class notation with division ring on trace-preserving endomorphisms, with multiplication reversed. TODO: remove ` EDRingR ` theorems if not used.","parent":[],"children":[]}

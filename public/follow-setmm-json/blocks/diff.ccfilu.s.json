@@ -1,0 +1,1 @@
+{"bIdx":24616,"bType":"axiom","type":"","name":"diff.ccfilu.s","params":"setvar s0","body":["|- diffsc(s0, ccfilu)"],"bodyPretty":["⊢ d(s0, CauFilU)"],"proof":[],"comment":"","parent":[],"children":[]}

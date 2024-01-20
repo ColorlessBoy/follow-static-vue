@@ -1,0 +1,1 @@
+{"bIdx":4012,"bType":"prop","type":"wff","name":"wsbc","params":"setvar s0, class c0, wff w0","body":["[c0 / s0]w0"],"bodyPretty":[],"proof":[],"comment":"Extend wff notation to include the proper substitution of a class for a set. Read this notation as \"the proper substitution of class ` A ` for setvar variable ` x ` in wff ` ph ` \".","parent":[],"children":[]}

@@ -1,0 +1,1 @@
+{"bIdx":9596,"bType":"axiom","type":"","name":"diff.ctc.w","params":"wff w0","body":["|- diffcw(ctc, w0)"],"bodyPretty":["⊢ d(TC, w0)"],"proof":[],"comment":"","parent":[],"children":[]}

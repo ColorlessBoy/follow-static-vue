@@ -1,0 +1,1 @@
+{"bIdx":15307,"bType":"axiom","type":"","name":"diff.csgn.c","params":"class c0","body":["|- diffcc(csgn, c0)"],"bodyPretty":["⊢ d(sgn, c0)"],"proof":[],"comment":"","parent":[],"children":[]}

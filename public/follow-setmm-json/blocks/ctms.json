@@ -1,0 +1,1 @@
+{"bIdx":24661,"bType":"const","type":"class","name":"ctms","params":"","body":["toMetSp"],"bodyPretty":[],"proof":[],"comment":"Extend class notation with the function mapping a metric to the metric space it defines.","parent":[],"children":[]}

@@ -1,0 +1,1 @@
+{"bIdx":22768,"bType":"axiom","type":"","name":"diff.cmadu.s","params":"setvar s0","body":["|- diffsc(s0, cmadu)"],"bodyPretty":["⊢ d(s0, maAdju)"],"proof":[],"comment":"","parent":[],"children":[]}

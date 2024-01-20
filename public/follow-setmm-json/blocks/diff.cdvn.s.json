@@ -1,0 +1,1 @@
+{"bIdx":26324,"bType":"axiom","type":"","name":"diff.cdvn.s","params":"setvar s0","body":["|- diffsc(s0, cdvn)"],"bodyPretty":["⊢ d(s0, Dn)"],"proof":[],"comment":"","parent":[],"children":[]}

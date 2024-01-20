@@ -1,0 +1,1 @@
+{"bIdx":30967,"bType":"axiom","type":"","name":"diff.ccbn.w","params":"wff w0","body":["|- diffcw(ccbn, w0)"],"bodyPretty":["⊢ d(CBan, w0)"],"proof":[],"comment":"","parent":[],"children":[]}

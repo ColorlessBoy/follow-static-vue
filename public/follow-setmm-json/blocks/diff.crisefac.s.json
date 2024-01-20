@@ -1,0 +1,1 @@
+{"bIdx":16259,"bType":"axiom","type":"","name":"diff.crisefac.s","params":"setvar s0","body":["|- diffsc(s0, crisefac)"],"bodyPretty":["⊢ d(s0, RiseFac)"],"proof":[],"comment":"","parent":[],"children":[]}

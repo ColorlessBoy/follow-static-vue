@@ -1,0 +1,1 @@
+{"bIdx":27466,"bType":"axiom","type":"","name":"diff.carea.w","params":"wff w0","body":["|- diffcw(carea, w0)"],"bodyPretty":["⊢ d(area, w0)"],"proof":[],"comment":"","parent":[],"children":[]}

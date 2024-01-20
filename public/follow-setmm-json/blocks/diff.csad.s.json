@@ -1,0 +1,1 @@
+{"bIdx":16703,"bType":"axiom","type":"","name":"diff.csad.s","params":"setvar s0","body":["|- diffsc(s0, csad)"],"bodyPretty":["⊢ d(s0, sadd)"],"proof":[],"comment":"","parent":[],"children":[]}

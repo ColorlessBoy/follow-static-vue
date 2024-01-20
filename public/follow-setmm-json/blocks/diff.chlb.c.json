@@ -1,0 +1,1 @@
+{"bIdx":35431,"bType":"axiom","type":"","name":"diff.chlb.c","params":"class c0","body":["|- diffcc(chlb, c0)"],"bodyPretty":["⊢ d(HomLimB, c0)"],"proof":[],"comment":"","parent":[],"children":[]}

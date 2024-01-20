@@ -1,0 +1,1 @@
+{"bIdx":38493,"bType":"axiom","type":"","name":"diff.cmembers.c","params":"class c0","body":["|- diffcc(cmembers, c0)"],"bodyPretty":["⊢ d(MembErs, c0)"],"proof":[],"comment":"","parent":[],"children":[]}

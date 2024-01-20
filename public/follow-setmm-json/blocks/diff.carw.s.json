@@ -1,0 +1,1 @@
+{"bIdx":18457,"bType":"axiom","type":"","name":"diff.carw.s","params":"setvar s0","body":["|- diffsc(s0, carw)"],"bodyPretty":["⊢ d(s0, Arrow)"],"proof":[],"comment":"","parent":[],"children":[]}

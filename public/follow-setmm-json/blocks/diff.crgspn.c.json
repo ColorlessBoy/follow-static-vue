@@ -1,0 +1,1 @@
+{"bIdx":20853,"bType":"axiom","type":"","name":"diff.crgspn.c","params":"class c0","body":["|- diffcc(crgspn, c0)"],"bodyPretty":["⊢ d(RingSpan, c0)"],"proof":[],"comment":"","parent":[],"children":[]}

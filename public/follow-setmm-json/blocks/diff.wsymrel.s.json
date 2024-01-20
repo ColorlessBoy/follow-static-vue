@@ -1,0 +1,1 @@
+{"bIdx":38432,"bType":"axiom","type":"","name":"diff.wsymrel.s","params":"setvar sBase, class c0","body":["|- diffsw(sBase, wsymrel(c0))","-| diffsc(sBase, c0)"],"bodyPretty":["⊢ d(sBase, SymRel(c0))","⊣ d(sBase, c0)"],"proof":[],"comment":"","parent":[],"children":[]}

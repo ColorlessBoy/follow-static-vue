@@ -1,0 +1,1 @@
+{"bIdx":30529,"bType":"const","type":"class","name":"cgn","params":"","body":["inv"],"bodyPretty":[],"proof":[],"comment":"Extend class notation with a function mapping a group operation to the inverse function for the group.","parent":[],"children":[]}

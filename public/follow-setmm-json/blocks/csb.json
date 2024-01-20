@@ -1,0 +1,1 @@
+{"bIdx":4119,"bType":"prop","type":"class","name":"csb","params":"setvar s0, class c0, class c1","body":["[c0 / s0]c1"],"bodyPretty":[],"proof":[],"comment":"Extend class notation to include the proper substitution of a class for a set into another class.","parent":[],"children":[]}

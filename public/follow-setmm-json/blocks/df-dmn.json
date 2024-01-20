@@ -1,0 +1,1 @@
+{"bIdx":38247,"bType":"axiom","type":"","name":"df-dmn","params":"","body":["|- wceq(cdmn, cin(cprrng, ccm2))"],"bodyPretty":["⊢ Dmn =(PrRing ⋂ Com2)"],"proof":[],"comment":"Define the class of (integral) domains. A domain is a commutative prime ring. (Contributed by Jeff Madsen, 10-Jun-2010.)","parent":[],"children":["isdmn"]}

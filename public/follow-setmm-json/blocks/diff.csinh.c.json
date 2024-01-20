@@ -1,0 +1,1 @@
+{"bIdx":48238,"bType":"axiom","type":"","name":"diff.csinh.c","params":"class c0","body":["|- diffcc(csinh, c0)"],"bodyPretty":["⊢ d(sinh, c0)"],"proof":[],"comment":"","parent":[],"children":[]}

@@ -1,0 +1,1 @@
+{"bIdx":2334,"bType":"prop","type":"wff","name":"wsb","params":"setvar s0, setvar s1, wff w0","body":["[s0 / s1]w0"],"bodyPretty":[],"proof":[],"comment":"Extend wff definition to include proper substitution (read \"the wff that results when ` y ` is properly substituted for ` x ` in wff ` ph ` \"). (Contributed by NM, 24-Jan-2006.)","parent":[],"children":[]}

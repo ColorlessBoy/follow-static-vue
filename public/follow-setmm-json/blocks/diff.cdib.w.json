@@ -1,0 +1,1 @@
+{"bIdx":41454,"bType":"axiom","type":"","name":"diff.cdib.w","params":"wff w0","body":["|- diffcw(cdib, w0)"],"bodyPretty":["⊢ d(DIsoB, w0)"],"proof":[],"comment":"","parent":[],"children":[]}

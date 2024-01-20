@@ -1,0 +1,1 @@
+{"bIdx":22946,"bType":"axiom","type":"","name":"diff.cpm2mp.c","params":"class c0","body":["|- diffcc(cpm2mp, c0)"],"bodyPretty":["⊢ d(pMatToMatPoly, c0)"],"proof":[],"comment":"","parent":[],"children":[]}

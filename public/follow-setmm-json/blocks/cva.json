@@ -1,0 +1,1 @@
+{"bIdx":31032,"bType":"const","type":"class","name":"cva","params":"","body":["+h"],"bodyPretty":[],"proof":[],"comment":"Extend class notation with vector addition in Hilbert space. In the literature, the subscript \"v\" is omitted, but we need it to avoid ambiguity with complex number addition ` + ` ~ caddc .","parent":[],"children":[]}

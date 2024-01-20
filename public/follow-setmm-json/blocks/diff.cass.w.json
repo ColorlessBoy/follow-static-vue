@@ -1,0 +1,1 @@
+{"bIdx":37986,"bType":"axiom","type":"","name":"diff.cass.w","params":"wff w0","body":["|- diffcw(cass, w0)"],"bodyPretty":["⊢ d(Ass, w0)"],"proof":[],"comment":"","parent":[],"children":[]}

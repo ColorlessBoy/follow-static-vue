@@ -1,0 +1,1 @@
+{"bIdx":36385,"bType":"axiom","type":"","name":"diff.chf.s","params":"setvar s0","body":["|- diffsc(s0, chf)"],"bodyPretty":["⊢ d(s0, Hf)"],"proof":[],"comment":"","parent":[],"children":[]}

@@ -1,0 +1,1 @@
+{"bIdx":21419,"bType":"axiom","type":"","name":"diff.crlreg.c","params":"class c0","body":["|- diffcc(crlreg, c0)"],"bodyPretty":["⊢ d(RLReg, c0)"],"proof":[],"comment":"","parent":[],"children":[]}

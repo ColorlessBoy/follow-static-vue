@@ -1,0 +1,1 @@
+{"bIdx":21944,"bType":"axiom","type":"","name":"diff.cpsmet.c","params":"class c0","body":["|- diffcc(cpsmet, c0)"],"bodyPretty":["⊢ d(PsMet, c0)"],"proof":[],"comment":"","parent":[],"children":[]}

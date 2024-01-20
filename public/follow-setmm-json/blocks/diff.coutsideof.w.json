@@ -1,0 +1,1 @@
+{"bIdx":36316,"bType":"axiom","type":"","name":"diff.coutsideof.w","params":"wff w0","body":["|- diffcw(coutsideof, w0)"],"bodyPretty":["⊢ d(OutsideOf, w0)"],"proof":[],"comment":"","parent":[],"children":[]}

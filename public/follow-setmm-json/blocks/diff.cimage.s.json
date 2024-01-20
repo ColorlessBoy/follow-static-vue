@@ -1,0 +1,1 @@
+{"bIdx":35966,"bType":"axiom","type":"","name":"diff.cimage.s","params":"setvar sBase, class c0","body":["|- diffsc(sBase, cimage(c0))","-| diffsc(sBase, c0)"],"bodyPretty":["⊢ d(sBase, Image(c0))","⊣ d(sBase, c0)"],"proof":[],"comment":"","parent":[],"children":[]}

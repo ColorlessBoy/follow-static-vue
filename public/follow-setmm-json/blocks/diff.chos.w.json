@@ -1,0 +1,1 @@
+{"bIdx":31107,"bType":"axiom","type":"","name":"diff.chos.w","params":"wff w0","body":["|- diffcw(chos, w0)"],"bodyPretty":["⊢ d(+op, w0)"],"proof":[],"comment":"","parent":[],"children":[]}

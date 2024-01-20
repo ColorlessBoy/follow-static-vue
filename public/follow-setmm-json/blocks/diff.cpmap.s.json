@@ -1,0 +1,1 @@
+{"bIdx":39742,"bType":"axiom","type":"","name":"diff.cpmap.s","params":"setvar s0","body":["|- diffsc(s0, cpmap)"],"bodyPretty":["⊢ d(s0, pmap)"],"proof":[],"comment":"","parent":[],"children":[]}

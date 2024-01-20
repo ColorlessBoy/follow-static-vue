@@ -1,0 +1,1 @@
+{"bIdx":17021,"bType":"axiom","type":"","name":"diff.cnumer.s","params":"setvar s0","body":["|- diffsc(s0, cnumer)"],"bodyPretty":["⊢ d(s0, numer)"],"proof":[],"comment":"","parent":[],"children":[]}

@@ -1,0 +1,1 @@
+{"bIdx":38509,"bType":"axiom","type":"","name":"diff.wfunALTV.c","params":"class cBase, class c0","body":["|- diffcw(cBase, wfunALTV(c0))","-| diffcc(cBase, c0)"],"bodyPretty":["⊢ d(cBase, FunALTV(c0))","⊣ d(cBase, c0)"],"proof":[],"comment":"","parent":[],"children":[]}

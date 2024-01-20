@@ -1,0 +1,1 @@
+{"bIdx":21755,"bType":"axiom","type":"","name":"diff.ctp1.w","params":"wff w0","body":["|- diffcw(ctp1, w0)"],"bodyPretty":["⊢ d(toPoly1, w0)"],"proof":[],"comment":"","parent":[],"children":[]}

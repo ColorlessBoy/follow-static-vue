@@ -1,0 +1,1 @@
+{"bIdx":2847,"bType":"prop","type":"wff","name":"wmo","params":"setvar s0, wff w0","body":["∃*(s0, w0)"],"bodyPretty":[],"proof":[],"comment":"Extend wff definition to include the at-most-one quantifier (\"there exists at most one ` x ` such that ` ph ` \").","parent":[],"children":[]}

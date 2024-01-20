@@ -1,0 +1,1 @@
+{"bIdx":17472,"bType":"axiom","type":"","name":"diff.cslot.s","params":"setvar sBase, class c0","body":["|- diffsc(sBase, cslot(c0))","-| diffsc(sBase, c0)"],"bodyPretty":["⊢ d(sBase, Slot(c0))","⊣ d(sBase, c0)"],"proof":[],"comment":"","parent":[],"children":[]}

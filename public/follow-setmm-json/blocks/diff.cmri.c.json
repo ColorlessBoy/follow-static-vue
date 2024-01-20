@@ -1,0 +1,1 @@
+{"bIdx":17944,"bType":"axiom","type":"","name":"diff.cmri.c","params":"class c0","body":["|- diffcc(cmri, c0)"],"bodyPretty":["⊢ d(mrInd, c0)"],"proof":[],"comment":"","parent":[],"children":[]}

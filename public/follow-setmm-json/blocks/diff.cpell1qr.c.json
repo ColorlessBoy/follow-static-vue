@@ -1,0 +1,1 @@
+{"bIdx":42603,"bType":"axiom","type":"","name":"diff.cpell1qr.c","params":"class c0","body":["|- diffcc(cpell1qr, c0)"],"bodyPretty":["⊢ d(Pell1QR, c0)"],"proof":[],"comment":"","parent":[],"children":[]}

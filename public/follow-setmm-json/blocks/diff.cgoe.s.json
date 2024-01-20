@@ -1,0 +1,1 @@
+{"bIdx":35029,"bType":"axiom","type":"","name":"diff.cgoe.s","params":"setvar s0","body":["|- diffsc(s0, cgoe)"],"bodyPretty":["⊢ d(s0, e.g)"],"proof":[],"comment":"","parent":[],"children":[]}

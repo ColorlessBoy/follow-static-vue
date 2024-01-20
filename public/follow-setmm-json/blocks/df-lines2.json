@@ -1,0 +1,1 @@
+{"bIdx":36345,"bType":"axiom","type":"","name":"df-lines2","params":"","body":["|- wceq(clines2, crn(cline2))"],"bodyPretty":["⊢ LinesEE = ran(Line)"],"proof":[],"comment":"Define the set of all lines. Definition 6.14, part 2 of [Schwabhauser] p. 45. See ~ ellines for membership. (Contributed by Scott Fenton, 28-Oct-2013.)","parent":[],"children":["ellines"]}

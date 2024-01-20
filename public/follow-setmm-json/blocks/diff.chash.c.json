@@ -1,0 +1,1 @@
+{"bIdx":14434,"bType":"axiom","type":"","name":"diff.chash.c","params":"class c0","body":["|- diffcc(chash, c0)"],"bodyPretty":["⊢ d(#, c0)"],"proof":[],"comment":"","parent":[],"children":[]}

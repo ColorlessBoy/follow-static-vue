@@ -1,0 +1,1 @@
+{"bIdx":23420,"bType":"const","type":"class","name":"clm","params":"","body":["~~>t"],"bodyPretty":[],"proof":[],"comment":"Extend class notation with a function on topological spaces whose value is the convergence relation for limit sequences in the space.","parent":[],"children":[]}

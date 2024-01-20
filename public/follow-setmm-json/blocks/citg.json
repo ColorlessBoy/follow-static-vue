@@ -1,0 +1,1 @@
+{"bIdx":26065,"bType":"prop","type":"class","name":"citg","params":"setvar s0, class c0, class c1","body":["S.(c0, c1, s0)"],"bodyPretty":[],"proof":[],"comment":"Extend class notation with the general Lebesgue integral.","parent":[],"children":[]}

@@ -1,0 +1,1 @@
+{"bIdx":36315,"bType":"axiom","type":"","name":"diff.coutsideof.c","params":"class c0","body":["|- diffcc(coutsideof, c0)"],"bodyPretty":["⊢ d(OutsideOf, c0)"],"proof":[],"comment":"","parent":[],"children":[]}

@@ -1,0 +1,1 @@
+{"bIdx":35036,"bType":"prop","type":"class","name":"cgol","params":"class c0, class c1","body":["∀(c0, c1)"],"bodyPretty":[],"proof":[],"comment":"The Godel-set of universal quantification. (Note that this is not a wff.)","parent":[],"children":[]}

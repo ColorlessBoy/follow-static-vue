@@ -1,0 +1,1 @@
+{"bIdx":6662,"bType":"prop","type":"wff","name":"wf","params":"class c0, class c1, class c2","body":["(c0 : c1 → c2)"],"bodyPretty":[],"proof":[],"comment":"Extend the definition of a wff to include the function predicate with domain and codomain. (Read: ` F ` maps ` A ` into ` B ` .)","parent":[],"children":[]}

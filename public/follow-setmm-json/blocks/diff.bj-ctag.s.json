@@ -1,0 +1,1 @@
+{"bIdx":37075,"bType":"axiom","type":"","name":"diff.bj-ctag.s","params":"setvar sBase, class c0","body":["|- diffsc(sBase, bj-ctag(c0))","-| diffsc(sBase, c0)"],"bodyPretty":["⊢ d(sBase, tag(c0))","⊣ d(sBase, c0)"],"proof":[],"comment":"","parent":[],"children":[]}

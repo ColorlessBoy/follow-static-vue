@@ -1,0 +1,1 @@
+{"bIdx":22847,"bType":"const","type":"class","name":"cmat2pmat","params":"","body":["matToPolyMat"],"bodyPretty":[],"proof":[],"comment":"Extend class notation with the transformation of a matrix into a matrix of polynomials.","parent":[],"children":[]}

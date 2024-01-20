@@ -1,0 +1,1 @@
+{"bIdx":31197,"bType":"axiom","type":"","name":"diff.cspc.s","params":"setvar s0","body":["|- diffsc(s0, cspc)"],"bodyPretty":["⊢ d(s0, Lambda)"],"proof":[],"comment":"","parent":[],"children":[]}

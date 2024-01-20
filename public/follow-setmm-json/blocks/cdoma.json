@@ -1,0 +1,1 @@
+{"bIdx":18448,"bType":"const","type":"class","name":"cdoma","params":"","body":["domA"],"bodyPretty":[],"proof":[],"comment":"Extend class notation to include the domain extractor for an arrow.","parent":[],"children":[]}

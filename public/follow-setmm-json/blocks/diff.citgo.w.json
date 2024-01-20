@@ -1,0 +1,1 @@
+{"bIdx":42971,"bType":"axiom","type":"","name":"diff.citgo.w","params":"wff w0","body":["|- diffcw(citgo, w0)"],"bodyPretty":["⊢ d(IntgOver, w0)"],"proof":[],"comment":"","parent":[],"children":[]}

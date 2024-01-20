@@ -1,0 +1,1 @@
+{"bIdx":38443,"bType":"prop","type":"wff","name":"wtrrel","params":"class c0","body":["TrRel(c0)"],"bodyPretty":[],"proof":[],"comment":"Extend the definition of a wff to include the transitive relation predicate. (Read: ` R ` is a transitive relation.)","parent":[],"children":[]}

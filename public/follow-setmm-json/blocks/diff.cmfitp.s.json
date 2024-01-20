@@ -1,0 +1,1 @@
+{"bIdx":35407,"bType":"axiom","type":"","name":"diff.cmfitp.s","params":"setvar s0","body":["|- diffsc(s0, cmfitp)"],"bodyPretty":["⊢ d(s0, mFromItp)"],"proof":[],"comment":"","parent":[],"children":[]}

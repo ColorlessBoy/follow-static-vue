@@ -1,0 +1,1 @@
+{"bIdx":5854,"bType":"prop","type":"class","name":"ccom","params":"class c0, class c1","body":["(c0 ∘ c1)"],"bodyPretty":[],"proof":[],"comment":"Extend the definition of a class to include the composition of two classes. (Read: The composition of ` A ` and ` B ` .)","parent":[],"children":[]}

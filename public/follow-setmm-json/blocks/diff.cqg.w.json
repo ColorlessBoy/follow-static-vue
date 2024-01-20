@@ -1,0 +1,1 @@
+{"bIdx":19528,"bType":"axiom","type":"","name":"diff.cqg.w","params":"wff w0","body":["|- diffcw(cqg, w0)"],"bodyPretty":["⊢ d(~QG, w0)"],"proof":[],"comment":"","parent":[],"children":[]}

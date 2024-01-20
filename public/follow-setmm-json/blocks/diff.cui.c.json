@@ -1,0 +1,1 @@
+{"bIdx":20677,"bType":"axiom","type":"","name":"diff.cui.c","params":"class c0","body":["|- diffcc(cui, c0)"],"bodyPretty":["⊢ d(Unit, c0)"],"proof":[],"comment":"","parent":[],"children":[]}

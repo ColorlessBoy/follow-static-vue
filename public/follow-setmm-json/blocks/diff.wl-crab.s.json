@@ -1,0 +1,1 @@
+{"bIdx":37682,"bType":"axiom","type":"","name":"diff.wl-crab.s","params":"setvar sBase, setvar s0, class c0, wff w0","body":["|- diffsc(sBase, wl-crab(s0, c0, w0))","-| diffss(sBase, s0)","-| diffsc(sBase, c0)","-| diffsw(sBase, w0)"],"bodyPretty":["⊢ d(sBase, { s0 ∈ c0 | w0 })","⊣ d(sBase, s0)","⊣ d(sBase, c0)","⊣ d(sBase, w0)"],"proof":[],"comment":"","parent":[],"children":[]}

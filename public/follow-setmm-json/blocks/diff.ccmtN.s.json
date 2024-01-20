@@ -1,0 +1,1 @@
+{"bIdx":39376,"bType":"axiom","type":"","name":"diff.ccmtN.s","params":"setvar s0","body":["|- diffsc(s0, ccmtN)"],"bodyPretty":["⊢ d(s0, cm)"],"proof":[],"comment":"","parent":[],"children":[]}

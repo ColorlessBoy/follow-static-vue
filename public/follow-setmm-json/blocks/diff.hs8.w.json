@@ -1,0 +1,1 @@
+{"bIdx":167,"bType":"axiom","type":"","name":"diff.hs8.w","params":"wff w0","body":["|- diffsw(hs8, w0)"],"bodyPretty":["⊢ d(hs8, w0)"],"proof":[],"comment":"","parent":[],"children":[]}

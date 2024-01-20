@@ -1,0 +1,1 @@
+{"bIdx":16333,"bType":"axiom","type":"","name":"diff.ccos.s","params":"setvar s0","body":["|- diffsc(s0, ccos)"],"bodyPretty":["⊢ d(s0, cos)"],"proof":[],"comment":"","parent":[],"children":[]}

@@ -1,0 +1,1 @@
+{"bIdx":24930,"bType":"axiom","type":"","name":"diff.ctng.s","params":"setvar s0","body":["|- diffsc(s0, ctng)"],"bodyPretty":["⊢ d(s0, toNrmGrp)"],"proof":[],"comment":"","parent":[],"children":[]}

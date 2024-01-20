@@ -1,0 +1,1 @@
+{"bIdx":23781,"bType":"axiom","type":"","name":"diff.ckgen.w","params":"wff w0","body":["|- diffcw(ckgen, w0)"],"bodyPretty":["⊢ d(kGen, w0)"],"proof":[],"comment":"","parent":[],"children":[]}

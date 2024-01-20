@@ -1,0 +1,1 @@
+{"bIdx":14401,"bType":"const","type":"class","name":"cbc","params":"","body":["_C"],"bodyPretty":[],"proof":[],"comment":"Extend class notation to include the binomial coefficient operation (combinatorial choose operation).","parent":[],"children":[]}

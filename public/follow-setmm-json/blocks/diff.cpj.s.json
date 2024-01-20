@@ -1,0 +1,1 @@
+{"bIdx":22318,"bType":"axiom","type":"","name":"diff.cpj.s","params":"setvar s0","body":["|- diffsc(s0, cpj)"],"bodyPretty":["⊢ d(s0, proj)"],"proof":[],"comment":"","parent":[],"children":[]}

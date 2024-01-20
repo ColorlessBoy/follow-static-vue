@@ -1,0 +1,1 @@
+{"bIdx":30830,"bType":"axiom","type":"","name":"diff.cblo.c","params":"class c0","body":["|- diffcc(cblo, c0)"],"bodyPretty":["⊢ d(BLnOp, c0)"],"proof":[],"comment":"","parent":[],"children":[]}

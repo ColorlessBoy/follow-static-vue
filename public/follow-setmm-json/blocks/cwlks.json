@@ -1,0 +1,1 @@
+{"bIdx":29492,"bType":"const","type":"class","name":"cwlks","params":"","body":["Walks"],"bodyPretty":[],"proof":[],"comment":"Extend class notation with walks (i.e. 1-walks) (of a hypergraph).","parent":[],"children":[]}

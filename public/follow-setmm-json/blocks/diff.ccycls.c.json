@@ -1,0 +1,1 @@
+{"bIdx":29717,"bType":"axiom","type":"","name":"diff.ccycls.c","params":"class c0","body":["|- diffcc(ccycls, c0)"],"bodyPretty":["⊢ d(Cycles, c0)"],"proof":[],"comment":"","parent":[],"children":[]}

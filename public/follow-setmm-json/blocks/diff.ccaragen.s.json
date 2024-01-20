@@ -1,0 +1,1 @@
+{"bIdx":46083,"bType":"axiom","type":"","name":"diff.ccaragen.s","params":"setvar s0","body":["|- diffsc(s0, ccaragen)"],"bodyPretty":["⊢ d(s0, CaraGen)"],"proof":[],"comment":"","parent":[],"children":[]}

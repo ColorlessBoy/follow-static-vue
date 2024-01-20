@@ -1,0 +1,1 @@
+{"bIdx":18673,"bType":"axiom","type":"","name":"diff.ccurf.w","params":"wff w0","body":["|- diffcw(ccurf, w0)"],"bodyPretty":["⊢ d(curryF, w0)"],"proof":[],"comment":"","parent":[],"children":[]}

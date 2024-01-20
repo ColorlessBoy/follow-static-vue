@@ -1,0 +1,1 @@
+{"bIdx":29946,"bType":"const","type":"class","name":"cclwwlk","params":"","body":["ClWWalks"],"bodyPretty":[],"proof":[],"comment":"Extend class notation with closed walks (in an undirected graph) as word over the set of vertices.","parent":[],"children":[]}

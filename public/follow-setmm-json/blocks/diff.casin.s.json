@@ -1,0 +1,1 @@
+{"bIdx":27361,"bType":"axiom","type":"","name":"diff.casin.s","params":"setvar s0","body":["|- diffsc(s0, casin)"],"bodyPretty":["⊢ d(s0, arcsin)"],"proof":[],"comment":"","parent":[],"children":[]}

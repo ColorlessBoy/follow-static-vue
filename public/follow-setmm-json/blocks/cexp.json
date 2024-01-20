@@ -1,0 +1,1 @@
+{"bIdx":14164,"bType":"const","type":"class","name":"cexp","params":"","body":["^"],"bodyPretty":[],"proof":[],"comment":"Extend class notation to include exponentiation of a complex number to an integer power.","parent":[],"children":[]}

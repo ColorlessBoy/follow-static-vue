@@ -1,0 +1,1 @@
+{"bIdx":31215,"bType":"axiom","type":"","name":"diff.cat.w","params":"wff w0","body":["|- diffcw(cat, w0)"],"bodyPretty":["⊢ d(HAtoms, w0)"],"proof":[],"comment":"","parent":[],"children":[]}

@@ -1,0 +1,1 @@
+{"bIdx":17620,"bType":"axiom","type":"","name":"df-ip","params":"","body":["|- wceq(cip, cslot(nat8))"],"bodyPretty":["⊢ · = Slot(8)"],"proof":[],"comment":"Define Hermitian form (inner product). (Contributed by NM, 4-Sep-2011.) (Revised by Mario Carneiro, 14-Aug-2015.)","parent":[],"children":["ipndx","ipid","ressip","tngip"]}

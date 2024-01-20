@@ -1,0 +1,1 @@
+{"bIdx":29014,"bType":"axiom","type":"","name":"diff.cuspgr.w","params":"wff w0","body":["|- diffcw(cuspgr, w0)"],"bodyPretty":["⊢ d(USPGraph, w0)"],"proof":[],"comment":"","parent":[],"children":[]}

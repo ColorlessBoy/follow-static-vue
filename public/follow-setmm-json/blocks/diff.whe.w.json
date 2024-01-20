@@ -1,0 +1,1 @@
+{"bIdx":43331,"bType":"axiom","type":"","name":"diff.whe.w","params":"wff wBase, class c0, class c1","body":["|- diffww(wBase, whe(c0, c1))","-| diffcw(c0, wBase)","-| diffcw(c1, wBase)"],"bodyPretty":["⊢ d(wBase, c0[hereditary]c1)","⊣ d(c0, wBase)","⊣ d(c1, wBase)"],"proof":[],"comment":"","parent":[],"children":[]}

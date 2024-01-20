@@ -1,0 +1,1 @@
+{"bIdx":14910,"bType":"axiom","type":"","name":"diff.cspliceOLD.w","params":"wff w0","body":["|- diffcw(cspliceOLD, w0)"],"bodyPretty":["⊢ d(spliceOLD, w0)"],"proof":[],"comment":"","parent":[],"children":[]}

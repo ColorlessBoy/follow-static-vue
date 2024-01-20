@@ -1,0 +1,1 @@
+{"bIdx":35365,"bType":"axiom","type":"","name":"df-mufs","params":"setvar s0","body":["|- wceq(cmufs, crab(s0, cmgfs, wfun(cfv(cmst, cv(s0)))))"],"bodyPretty":["⊢ mUFS = { s0 ∈ mGFS | Fun((mST ` s0))}"],"proof":[],"comment":"Define the set of unambiguous formal systems. (Contributed by Mario Carneiro, 14-Jul-2016.)","parent":[],"children":[""]}

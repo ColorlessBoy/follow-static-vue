@@ -1,0 +1,1 @@
+{"bIdx":2887,"bType":"prop","type":"wff","name":"weu","params":"setvar s0, wff w0","body":["∃!(s0, w0)"],"bodyPretty":[],"proof":[],"comment":"Extend wff definition to include the unique existential quantifier (\"there exists a unique ` x ` such that ` ph ` \").","parent":[],"children":[]}

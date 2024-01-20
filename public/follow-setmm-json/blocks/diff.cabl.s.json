@@ -1,0 +1,1 @@
+{"bIdx":20198,"bType":"axiom","type":"","name":"diff.cabl.s","params":"setvar s0","body":["|- diffsc(s0, cabl)"],"bodyPretty":["⊢ d(s0, Abel)"],"proof":[],"comment":"","parent":[],"children":[]}

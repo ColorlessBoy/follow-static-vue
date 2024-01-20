@@ -1,0 +1,1 @@
+{"bIdx":34427,"bType":"axiom","type":"","name":"diff.clpad.w","params":"wff w0","body":["|- diffcw(clpad, w0)"],"bodyPretty":["⊢ d(leftpad, w0)"],"proof":[],"comment":"","parent":[],"children":[]}

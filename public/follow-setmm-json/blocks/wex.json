@@ -1,0 +1,1 @@
+{"bIdx":2060,"bType":"prop","type":"wff","name":"wex","params":"setvar s0, wff w0","body":["∃(s0, w0)"],"bodyPretty":[],"proof":[],"comment":"Extend wff definition to include the existential quantifier (\"there exists\").","parent":[],"children":[]}

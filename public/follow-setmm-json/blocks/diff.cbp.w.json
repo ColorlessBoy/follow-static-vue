@@ -1,0 +1,1 @@
+{"bIdx":16305,"bType":"axiom","type":"","name":"diff.cbp.w","params":"wff w0","body":["|- diffcw(cbp, w0)"],"bodyPretty":["⊢ d(BernPoly, w0)"],"proof":[],"comment":"","parent":[],"children":[]}

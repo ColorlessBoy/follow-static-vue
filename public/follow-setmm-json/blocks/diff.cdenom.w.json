@@ -1,0 +1,1 @@
+{"bIdx":17027,"bType":"axiom","type":"","name":"diff.cdenom.w","params":"wff w0","body":["|- diffcw(cdenom, w0)"],"bodyPretty":["⊢ d(denom, w0)"],"proof":[],"comment":"","parent":[],"children":[]}

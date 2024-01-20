@@ -1,0 +1,1 @@
+{"bIdx":37331,"bType":"axiom","type":"","name":"df-bj-rrbar","params":"","body":["|- wceq(crrbar, cun(cr, cpr(cminfty, cpinfty)))"],"bodyPretty":["⊢ RRbar =(ℝ ⋃ { minfty, pinfty })"],"proof":[],"comment":"Definition of the set of extended real numbers. This aims to replace ~ df-xr . (Contributed by BJ, 29-Jun-2019.)","parent":[],"children":[""]}

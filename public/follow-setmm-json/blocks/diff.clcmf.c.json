@@ -1,0 +1,1 @@
+{"bIdx":16876,"bType":"axiom","type":"","name":"diff.clcmf.c","params":"class c0","body":["|- diffcc(clcmf, c0)"],"bodyPretty":["⊢ d(_lcm, c0)"],"proof":[],"comment":"","parent":[],"children":[]}

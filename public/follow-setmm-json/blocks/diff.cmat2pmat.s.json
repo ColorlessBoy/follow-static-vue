@@ -1,0 +1,1 @@
+{"bIdx":22848,"bType":"axiom","type":"","name":"diff.cmat2pmat.s","params":"setvar s0","body":["|- diffsc(s0, cmat2pmat)"],"bodyPretty":["⊢ d(s0, matToPolyMat)"],"proof":[],"comment":"","parent":[],"children":[]}

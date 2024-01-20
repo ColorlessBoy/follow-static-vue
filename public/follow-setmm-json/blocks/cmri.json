@@ -1,0 +1,1 @@
+{"bIdx":17942,"bType":"const","type":"class","name":"cmri","params":"","body":["mrInd"],"bodyPretty":[],"proof":[],"comment":"` mrInd ` is a class function which takes a Moore system to its set of independent sets.","parent":[],"children":[]}

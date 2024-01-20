@@ -1,0 +1,1 @@
+{"bIdx":35213,"bType":"axiom","type":"","name":"df-mcn","params":"","body":["|- wceq(cmcn, cslot(nat1))"],"bodyPretty":["⊢ mCN = Slot(1)"],"proof":[],"comment":"Define the set of constants in a Metamath formal system. (Contributed by Mario Carneiro, 14-Jul-2016.)","parent":[],"children":[""]}

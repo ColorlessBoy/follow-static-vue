@@ -1,0 +1,1 @@
+{"bIdx":43991,"bType":"axiom","type":"","name":"diff.cminusr.c","params":"class c0","body":["|- diffcc(cminusr, c0)"],"bodyPretty":["⊢ d(-r, c0)"],"proof":[],"comment":"","parent":[],"children":[]}

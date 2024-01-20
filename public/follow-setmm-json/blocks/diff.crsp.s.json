@@ -1,0 +1,1 @@
+{"bIdx":21295,"bType":"axiom","type":"","name":"diff.crsp.s","params":"setvar s0","body":["|- diffsc(s0, crsp)"],"bodyPretty":["⊢ d(s0, RSpan)"],"proof":[],"comment":"","parent":[],"children":[]}

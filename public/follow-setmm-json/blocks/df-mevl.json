@@ -1,0 +1,1 @@
+{"bIdx":35412,"bType":"axiom","type":"","name":"df-mevl","params":"","body":["|- wceq(cmevl, cslot(nat9))"],"bodyPretty":["⊢ mEval = Slot(9)"],"proof":[],"comment":"Define the evaluation function of a model. (Contributed by Mario Carneiro, 14-Jul-2016.)","parent":[],"children":[""]}

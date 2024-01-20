@@ -1,0 +1,1 @@
+{"bIdx":22324,"bType":"axiom","type":"","name":"diff.chil.w","params":"wff w0","body":["|- diffcw(chil, w0)"],"bodyPretty":["⊢ d(Hil, w0)"],"proof":[],"comment":"","parent":[],"children":[]}

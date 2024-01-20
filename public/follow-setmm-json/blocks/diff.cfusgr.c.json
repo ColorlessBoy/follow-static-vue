@@ -1,0 +1,1 @@
+{"bIdx":29187,"bType":"axiom","type":"","name":"diff.cfusgr.c","params":"class c0","body":["|- diffcc(cfusgr, c0)"],"bodyPretty":["⊢ d(FinUSGraph, c0)"],"proof":[],"comment":"","parent":[],"children":[]}

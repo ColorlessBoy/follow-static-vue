@@ -1,0 +1,1 @@
+{"bIdx":19670,"bType":"axiom","type":"","name":"diff.cga.c","params":"class c0","body":["|- diffcc(cga, c0)"],"bodyPretty":["⊢ d(GrpAct, c0)"],"proof":[],"comment":"","parent":[],"children":[]}

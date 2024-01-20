@@ -1,0 +1,1 @@
+{"bIdx":18908,"bType":"axiom","type":"","name":"df-p1","params":"setvar s0","body":["|- wceq(cp1, cmpt(s0, universe, cfv(cfv(club, cv(s0)), cfv(cbs, cv(s0)))))"],"bodyPretty":["⊢ 1. =(s0 ∈ 𝕌 ↦((lub ` s0)`(Base ` s0)))"],"proof":[],"comment":"Define poset unit. (Contributed by NM, 22-Oct-2011.)","parent":[],"children":["p1val"]}

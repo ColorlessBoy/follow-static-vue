@@ -1,0 +1,1 @@
+{"bIdx":23504,"bType":"axiom","type":"","name":"diff.ct0.s","params":"setvar s0","body":["|- diffsc(s0, ct0)"],"bodyPretty":["⊢ d(s0, Kol2)"],"proof":[],"comment":"","parent":[],"children":[]}

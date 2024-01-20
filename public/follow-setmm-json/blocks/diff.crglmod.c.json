@@ -1,0 +1,1 @@
+{"bIdx":21288,"bType":"axiom","type":"","name":"diff.crglmod.c","params":"class c0","body":["|- diffcc(crglmod, c0)"],"bodyPretty":["⊢ d(ringLMod, c0)"],"proof":[],"comment":"","parent":[],"children":[]}

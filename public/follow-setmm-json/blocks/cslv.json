@@ -1,0 +1,1 @@
+{"bIdx":21724,"bType":"const","type":"class","name":"cslv","params":"","body":["selectVars"],"bodyPretty":[],"proof":[],"comment":"Select a subset of variables in a multivariate polynomial.","parent":[],"children":[]}

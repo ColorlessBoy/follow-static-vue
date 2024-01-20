@@ -1,0 +1,1 @@
+{"bIdx":16480,"bType":"axiom","type":"","name":"diff.ctau.c","params":"class c0","body":["|- diffcc(ctau, c0)"],"bodyPretty":["⊢ d(τ, c0)"],"proof":[],"comment":"","parent":[],"children":[]}

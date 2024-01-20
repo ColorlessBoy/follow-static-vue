@@ -1,0 +1,1 @@
+{"bIdx":19005,"bType":"axiom","type":"","name":"diff.codu.w","params":"wff w0","body":["|- diffcw(codu, w0)"],"bodyPretty":["⊢ d(ODual, w0)"],"proof":[],"comment":"","parent":[],"children":[]}

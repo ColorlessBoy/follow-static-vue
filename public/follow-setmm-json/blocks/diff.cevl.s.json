@@ -1,0 +1,1 @@
+{"bIdx":21682,"bType":"axiom","type":"","name":"diff.cevl.s","params":"setvar s0","body":["|- diffsc(s0, cevl)"],"bodyPretty":["⊢ d(s0, eval)"],"proof":[],"comment":"","parent":[],"children":[]}

@@ -1,0 +1,1 @@
+{"bIdx":35411,"bType":"axiom","type":"","name":"df-mfsh","params":"","body":["|- wceq(cmfsh, cslot(nat8))"],"bodyPretty":["⊢ mFresh = Slot(8)"],"proof":[],"comment":"Define the freshness relation of a model. (Contributed by Mario Carneiro, 14-Jul-2016.)","parent":[],"children":[""]}

@@ -1,0 +1,1 @@
+{"bIdx":28652,"bType":"axiom","type":"","name":"diff.cinag.s","params":"setvar s0","body":["|- diffsc(s0, cinag)"],"bodyPretty":["⊢ d(s0, inA)"],"proof":[],"comment":"","parent":[],"children":[]}

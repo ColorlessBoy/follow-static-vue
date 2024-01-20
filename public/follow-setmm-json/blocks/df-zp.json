@@ -1,0 +1,1 @@
+{"bIdx":35507,"bType":"axiom","type":"","name":"df-zp","params":"","body":["|- wceq(czp, ccom(czr, cqp))"],"bodyPretty":["⊢ Zp =(ZRing ∘ Qp)"],"proof":[],"comment":"Define the ` p ` -adic integers, as a subset of the ` p ` -adic rationals. (Contributed by Mario Carneiro, 2-Dec-2014.)","parent":[],"children":[""]}

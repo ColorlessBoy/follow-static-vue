@@ -1,0 +1,1 @@
+{"bIdx":44144,"bType":"prop","type":"wff","name":"wvd3","params":"wff w0, wff w1, wff w2, wff w3","body":["(w0, w1, w2 → w3)"],"bodyPretty":[],"proof":[],"comment":"Syntax for a 3-hypothesis virtual deduction. (New usage is discouraged.)","parent":[],"children":[]}

@@ -1,0 +1,1 @@
+{"bIdx":18762,"bType":"axiom","type":"","name":"diff.cproset.s","params":"setvar s0","body":["|- diffsc(s0, cproset)"],"bodyPretty":["⊢ d(s0, Proset)"],"proof":[],"comment":"","parent":[],"children":[]}

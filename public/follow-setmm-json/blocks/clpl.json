@@ -1,0 +1,1 @@
+{"bIdx":39721,"bType":"const","type":"class","name":"clpl","params":"","body":["LPlanes"],"bodyPretty":[],"proof":[],"comment":"Extend class notation with set of all \"lattice planes\" (lattice elements which cover a line) in a Hilbert lattice.","parent":[],"children":[]}

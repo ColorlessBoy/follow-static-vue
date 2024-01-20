@@ -1,0 +1,1 @@
+{"bIdx":18895,"bType":"axiom","type":"","name":"diff.ctos.w","params":"wff w0","body":["|- diffcw(ctos, w0)"],"bodyPretty":["⊢ d(Toset, w0)"],"proof":[],"comment":"","parent":[],"children":[]}

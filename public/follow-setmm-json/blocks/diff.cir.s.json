@@ -1,0 +1,1 @@
+{"bIdx":20680,"bType":"axiom","type":"","name":"diff.cir.s","params":"setvar s0","body":["|- diffsc(s0, cir)"],"bodyPretty":["⊢ d(s0, Irred)"],"proof":[],"comment":"","parent":[],"children":[]}

@@ -1,0 +1,1 @@
+{"bIdx":30663,"bType":"axiom","type":"","name":"diff.cims.s","params":"setvar s0","body":["|- diffsc(s0, cims)"],"bodyPretty":["⊢ d(s0, IndMet)"],"proof":[],"comment":"","parent":[],"children":[]}

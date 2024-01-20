@@ -1,0 +1,1 @@
+{"bIdx":33753,"bType":"axiom","type":"","name":"diff.cofc.w","params":"wff wBase, class c0","body":["|- diffcw(cofc(c0), wBase)","-| diffcw(c0, wBase)"],"bodyPretty":["⊢ d(oFC(c0), wBase)","⊣ d(c0, wBase)"],"proof":[],"comment":"","parent":[],"children":[]}

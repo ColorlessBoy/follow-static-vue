@@ -1,0 +1,1 @@
+{"bIdx":30504,"bType":"axiom","type":"","name":"diff.cplig.s","params":"setvar s0","body":["|- diffsc(s0, cplig)"],"bodyPretty":["⊢ d(s0, Plig)"],"proof":[],"comment":"","parent":[],"children":[]}

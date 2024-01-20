@@ -1,0 +1,1 @@
+{"bIdx":30525,"bType":"const","type":"class","name":"cgi","params":"","body":["GId"],"bodyPretty":[],"proof":[],"comment":"Extend class notation with a function mapping a group operation to the group's identity element.","parent":[],"children":[]}

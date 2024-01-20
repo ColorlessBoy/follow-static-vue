@@ -1,0 +1,1 @@
+{"bIdx":27362,"bType":"axiom","type":"","name":"diff.casin.c","params":"class c0","body":["|- diffcc(casin, c0)"],"bodyPretty":["⊢ d(arcsin, c0)"],"proof":[],"comment":"","parent":[],"children":[]}

@@ -1,0 +1,1 @@
+{"bIdx":35379,"bType":"axiom","type":"","name":"diff.cmfsh.s","params":"setvar s0","body":["|- diffsc(s0, cmfsh)"],"bodyPretty":["⊢ d(s0, mFresh)"],"proof":[],"comment":"","parent":[],"children":[]}

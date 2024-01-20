@@ -1,0 +1,1 @@
+{"bIdx":24931,"bType":"axiom","type":"","name":"diff.ctng.c","params":"class c0","body":["|- diffcc(ctng, c0)"],"bodyPretty":["⊢ d(toNrmGrp, c0)"],"proof":[],"comment":"","parent":[],"children":[]}

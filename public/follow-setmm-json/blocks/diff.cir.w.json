@@ -1,0 +1,1 @@
+{"bIdx":20682,"bType":"axiom","type":"","name":"diff.cir.w","params":"wff w0","body":["|- diffcw(cir, w0)"],"bodyPretty":["⊢ d(Irred, w0)"],"proof":[],"comment":"","parent":[],"children":[]}

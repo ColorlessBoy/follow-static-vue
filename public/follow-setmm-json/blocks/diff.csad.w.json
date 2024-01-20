@@ -1,0 +1,1 @@
+{"bIdx":16705,"bType":"axiom","type":"","name":"diff.csad.w","params":"wff w0","body":["|- diffcw(csad, w0)"],"bodyPretty":["⊢ d(sadd, w0)"],"proof":[],"comment":"","parent":[],"children":[]}

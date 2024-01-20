@@ -1,0 +1,1 @@
+{"bIdx":38054,"bType":"axiom","type":"","name":"diff.crngo.s","params":"setvar s0","body":["|- diffsc(s0, crngo)"],"bodyPretty":["⊢ d(s0, RingOps)"],"proof":[],"comment":"","parent":[],"children":[]}

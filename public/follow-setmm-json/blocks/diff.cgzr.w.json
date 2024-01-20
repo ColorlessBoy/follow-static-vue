@@ -1,0 +1,1 @@
+{"bIdx":35105,"bType":"axiom","type":"","name":"diff.cgzr.w","params":"wff w0","body":["|- diffcw(cgzr, w0)"],"bodyPretty":["⊢ d(AxRep, w0)"],"proof":[],"comment":"","parent":[],"children":[]}

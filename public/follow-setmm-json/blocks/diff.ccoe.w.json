@@ -1,0 +1,1 @@
+{"bIdx":26673,"bType":"axiom","type":"","name":"diff.ccoe.w","params":"wff w0","body":["|- diffcw(ccoe, w0)"],"bodyPretty":["⊢ d(coeff, w0)"],"proof":[],"comment":"","parent":[],"children":[]}

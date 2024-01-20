@@ -1,0 +1,1 @@
+{"bIdx":44128,"bType":"prop","type":"wff","name":"wvd2","params":"wff w0, wff w1, wff w2","body":["(w0, w1 → w2)"],"bodyPretty":[],"proof":[],"comment":"Syntax for a 2-hypothesis virtual deduction. (New usage is discouraged.)","parent":[],"children":[]}

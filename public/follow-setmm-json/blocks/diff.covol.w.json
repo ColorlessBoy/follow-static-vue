@@ -1,0 +1,1 @@
+{"bIdx":25894,"bType":"axiom","type":"","name":"diff.covol.w","params":"wff w0","body":["|- diffcw(covol, w0)"],"bodyPretty":["⊢ d(vol*, w0)"],"proof":[],"comment":"","parent":[],"children":[]}

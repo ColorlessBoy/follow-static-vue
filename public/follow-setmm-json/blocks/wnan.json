@@ -1,0 +1,1 @@
+{"bIdx":1752,"bType":"prop","type":"wff","name":"wnan","params":"wff w0, wff w1","body":["(w0 ⊼ w1)"],"bodyPretty":[],"proof":[],"comment":"Extend wff definition to include alternative denial (\"nand\").","parent":[],"children":[]}

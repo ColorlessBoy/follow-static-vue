@@ -1,0 +1,1 @@
+{"bIdx":35353,"bType":"axiom","type":"","name":"diff.cmsax.w","params":"wff w0","body":["|- diffcw(cmsax, w0)"],"bodyPretty":["⊢ d(mSAX, w0)"],"proof":[],"comment":"","parent":[],"children":[]}

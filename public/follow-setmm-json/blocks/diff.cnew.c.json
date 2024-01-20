@@ -1,0 +1,1 @@
+{"bIdx":35908,"bType":"axiom","type":"","name":"diff.cnew.c","params":"class c0","body":["|- diffcc(cnew, c0)"],"bodyPretty":["⊢ d(_N, c0)"],"proof":[],"comment":"","parent":[],"children":[]}

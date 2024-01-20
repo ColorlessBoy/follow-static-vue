@@ -1,0 +1,1 @@
+{"bIdx":48222,"bType":"axiom","type":"","name":"diff.cge-real.c","params":"class c0","body":["|- diffcc(cge-real, c0)"],"bodyPretty":["⊢ d(≥, c0)"],"proof":[],"comment":"","parent":[],"children":[]}

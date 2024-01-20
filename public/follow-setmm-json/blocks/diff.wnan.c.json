@@ -1,0 +1,1 @@
+{"bIdx":1754,"bType":"axiom","type":"","name":"diff.wnan.c","params":"class cBase, wff w0, wff w1","body":["|- diffcw(cBase, wnan(w0, w1))","-| diffcw(cBase, w0)","-| diffcw(cBase, w1)"],"bodyPretty":["⊢ d(cBase,(w0 ⊼ w1))","⊣ d(cBase, w0)","⊣ d(cBase, w1)"],"proof":[],"comment":"","parent":[],"children":[]}

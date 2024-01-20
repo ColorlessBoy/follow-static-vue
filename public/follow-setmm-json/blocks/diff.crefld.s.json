@@ -1,0 +1,1 @@
+{"bIdx":22204,"bType":"axiom","type":"","name":"diff.crefld.s","params":"setvar s0","body":["|- diffsc(s0, crefld)"],"bodyPretty":["⊢ d(s0, RRfld)"],"proof":[],"comment":"","parent":[],"children":[]}

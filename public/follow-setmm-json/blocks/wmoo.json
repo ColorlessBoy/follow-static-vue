@@ -1,0 +1,1 @@
+{"bIdx":36735,"bType":"prop","type":"wff","name":"wmoo","params":"setvar s0, wff w0","body":["∃**(s0, w0)"],"bodyPretty":[],"proof":[],"comment":"Syntax for BJ's version of the uniqueness quantifier.","parent":[],"children":[]}

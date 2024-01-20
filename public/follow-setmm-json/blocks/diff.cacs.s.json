@@ -1,0 +1,1 @@
+{"bIdx":17947,"bType":"axiom","type":"","name":"diff.cacs.s","params":"setvar s0","body":["|- diffsc(s0, cacs)"],"bodyPretty":["⊢ d(s0, ACS)"],"proof":[],"comment":"","parent":[],"children":[]}

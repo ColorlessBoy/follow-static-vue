@@ -1,0 +1,1 @@
+{"bIdx":17853,"bType":"axiom","type":"","name":"diff.cqus.c","params":"class c0","body":["|- diffcc(cqus, c0)"],"bodyPretty":["⊢ d(/s, c0)"],"proof":[],"comment":"","parent":[],"children":[]}

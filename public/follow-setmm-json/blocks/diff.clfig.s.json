@@ -1,0 +1,1 @@
+{"bIdx":42855,"bType":"axiom","type":"","name":"diff.clfig.s","params":"setvar s0","body":["|- diffsc(s0, clfig)"],"bodyPretty":["⊢ d(s0, LFinGen)"],"proof":[],"comment":"","parent":[],"children":[]}

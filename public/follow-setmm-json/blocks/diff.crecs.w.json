@@ -1,0 +1,1 @@
+{"bIdx":8352,"bType":"axiom","type":"","name":"diff.crecs.w","params":"wff wBase, class c0","body":["|- diffcw(crecs(c0), wBase)","-| diffcw(c0, wBase)"],"bodyPretty":["⊢ d(recs(c0), wBase)","⊣ d(c0, wBase)"],"proof":[],"comment":"","parent":[],"children":[]}

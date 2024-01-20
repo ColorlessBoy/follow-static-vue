@@ -1,0 +1,1 @@
+{"bIdx":34419,"bType":"axiom","type":"","name":"diff.cafs.w","params":"wff w0","body":["|- diffcw(cafs, w0)"],"bodyPretty":["⊢ d(AFS, w0)"],"proof":[],"comment":"","parent":[],"children":[]}

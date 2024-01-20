@@ -1,0 +1,1 @@
+{"bIdx":38401,"bType":"axiom","type":"","name":"diff.crefs.c","params":"class c0","body":["|- diffcc(crefs, c0)"],"bodyPretty":["⊢ d(Refs, c0)"],"proof":[],"comment":"","parent":[],"children":[]}

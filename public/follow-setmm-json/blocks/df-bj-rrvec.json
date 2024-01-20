@@ -1,0 +1,1 @@
+{"bIdx":37431,"bType":"axiom","type":"","name":"df-bj-rrvec","params":"setvar s0","body":["|- wceq(crrvec, crab(s0, clvec, wceq(cfv(csca, cv(s0)), crefld)))"],"bodyPretty":["⊢ RRVec = { s0 ∈ LVec |(Scalar ` s0)= RRfld }"],"proof":[],"comment":"Definition of the class of real vector spaces. (Contributed by BJ, 9-Jun-2019.)","parent":[],"children":["bj-rrvecssvec"]}

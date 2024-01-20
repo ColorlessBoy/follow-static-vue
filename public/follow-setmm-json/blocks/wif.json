@@ -1,0 +1,1 @@
+{"bIdx":1323,"bType":"prop","type":"wff","name":"wif","params":"wff w0, wff w1, wff w2","body":["if(w0, w1, w2)"],"bodyPretty":[],"proof":[],"comment":"Extend class notation to include the conditional operator for propositions.","parent":[],"children":[]}

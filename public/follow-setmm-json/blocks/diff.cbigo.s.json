@@ -1,0 +1,1 @@
+{"bIdx":47989,"bType":"axiom","type":"","name":"diff.cbigo.s","params":"setvar s0","body":["|- diffsc(s0, cbigo)"],"bodyPretty":["⊢ d(s0, _O)"],"proof":[],"comment":"","parent":[],"children":[]}

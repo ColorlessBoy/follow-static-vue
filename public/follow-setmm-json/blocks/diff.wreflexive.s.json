@@ -1,0 +1,1 @@
+{"bIdx":48295,"bType":"axiom","type":"","name":"diff.wreflexive.s","params":"setvar sBase, class c0, class c1","body":["|- diffsw(sBase, wreflexive(c0, c1))","-| diffsc(sBase, c0)","-| diffsc(sBase, c1)"],"bodyPretty":["⊢ d(sBase, c0[Reflexive]c1)","⊣ d(sBase, c0)","⊣ d(sBase, c1)"],"proof":[],"comment":"","parent":[],"children":[]}

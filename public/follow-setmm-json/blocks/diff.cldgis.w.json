@@ -1,0 +1,1 @@
+{"bIdx":42920,"bType":"axiom","type":"","name":"diff.cldgis.w","params":"wff w0","body":["|- diffcw(cldgis, w0)"],"bodyPretty":["⊢ d(ldgIdlSeq, w0)"],"proof":[],"comment":"","parent":[],"children":[]}

@@ -1,0 +1,1 @@
+{"bIdx":35980,"bType":"axiom","type":"","name":"diff.cdomain.w","params":"wff w0","body":["|- diffcw(cdomain, w0)"],"bodyPretty":["⊢ d(Domain, w0)"],"proof":[],"comment":"","parent":[],"children":[]}

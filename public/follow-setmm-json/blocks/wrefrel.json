@@ -1,0 +1,1 @@
+{"bIdx":38407,"bType":"prop","type":"wff","name":"wrefrel","params":"class c0","body":["RefRel(c0)"],"bodyPretty":[],"proof":[],"comment":"Extend the definition of a wff to include the reflexive relation predicate. (Read: ` R ` is a reflexive relation.)","parent":[],"children":[]}

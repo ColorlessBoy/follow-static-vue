@@ -1,0 +1,1 @@
+{"bIdx":10822,"bType":"axiom","type":"","name":"diff.cltq.s","params":"setvar s0","body":["|- diffsc(s0, cltq)"],"bodyPretty":["⊢ d(s0, <)"],"proof":[],"comment":"","parent":[],"children":[]}

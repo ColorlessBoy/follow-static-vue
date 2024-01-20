@@ -1,0 +1,1 @@
+{"bIdx":1884,"bType":"prop","type":"wff","name":"wcad","params":"wff w0, wff w1, wff w2","body":["cadd(w0, w1, w2)"],"bodyPretty":[],"proof":[],"comment":"Syntax for the \"carry\" output of the full adder. (Contributed by Mario Carneiro, 4-Sep-2016.)","parent":[],"children":[]}

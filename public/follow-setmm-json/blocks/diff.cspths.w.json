@@ -1,0 +1,1 @@
+{"bIdx":29631,"bType":"axiom","type":"","name":"diff.cspths.w","params":"wff w0","body":["|- diffcw(cspths, w0)"],"bodyPretty":["⊢ d(SPaths, w0)"],"proof":[],"comment":"","parent":[],"children":[]}

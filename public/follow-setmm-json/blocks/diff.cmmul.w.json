@@ -1,0 +1,1 @@
+{"bIdx":22494,"bType":"axiom","type":"","name":"diff.cmmul.w","params":"wff w0","body":["|- diffcw(cmmul, w0)"],"bodyPretty":["⊢ d(maMul, w0)"],"proof":[],"comment":"","parent":[],"children":[]}

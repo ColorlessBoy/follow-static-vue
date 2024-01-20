@@ -1,0 +1,1 @@
+{"bIdx":35701,"bType":"prop","type":"class","name":"cwsuc","params":"class c0, class c1, class c2","body":["wsuc(c0, c1, c2)"],"bodyPretty":[],"proof":[],"comment":"Declare the syntax for well-founded successor.","parent":[],"children":[]}

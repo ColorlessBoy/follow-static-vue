@@ -1,0 +1,1 @@
+{"bIdx":6485,"bType":"prop","type":"wff","name":"word","params":"class c0","body":["Ord(c0)"],"bodyPretty":[],"proof":[],"comment":"Extend the definition of a wff to include the ordinal predicate.","parent":[],"children":[]}

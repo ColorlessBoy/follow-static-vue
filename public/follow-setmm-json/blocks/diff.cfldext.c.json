@@ -1,0 +1,1 @@
+{"bIdx":33356,"bType":"axiom","type":"","name":"diff.cfldext.c","params":"class c0","body":["|- diffcc(cfldext, c0)"],"bodyPretty":["⊢ d(/FldExt, c0)"],"proof":[],"comment":"","parent":[],"children":[]}

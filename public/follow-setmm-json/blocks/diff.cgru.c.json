@@ -1,0 +1,1 @@
+{"bIdx":10707,"bType":"axiom","type":"","name":"diff.cgru.c","params":"class c0","body":["|- diffcc(cgru, c0)"],"bodyPretty":["⊢ d(Univ, c0)"],"proof":[],"comment":"","parent":[],"children":[]}

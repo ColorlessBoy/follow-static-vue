@@ -1,0 +1,1 @@
+{"bIdx":16155,"bType":"axiom","type":"","name":"diff.cprod.w","params":"wff wBase, setvar s0, class c0, class c1","body":["|- diffcw(cprod(s0, c0, c1), wBase)","-| diffsw(s0, wBase)","-| diffcw(c0, wBase)","-| diffcw(c1, wBase)"],"bodyPretty":["⊢ d(prod(s0 ∈ c0, c1), wBase)","⊣ d(s0, wBase)","⊣ d(c0, wBase)","⊣ d(c1, wBase)"],"proof":[],"comment":"","parent":[],"children":[]}

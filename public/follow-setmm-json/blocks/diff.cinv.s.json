@@ -1,0 +1,1 @@
+{"bIdx":18133,"bType":"axiom","type":"","name":"diff.cinv.s","params":"setvar s0","body":["|- diffsc(s0, cinv)"],"bodyPretty":["⊢ d(s0, Inv)"],"proof":[],"comment":"","parent":[],"children":[]}

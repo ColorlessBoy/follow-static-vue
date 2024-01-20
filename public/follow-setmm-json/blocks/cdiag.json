@@ -1,0 +1,1 @@
+{"bIdx":18678,"bType":"const","type":"class","name":"cdiag","params":"","body":["DiagFunc"],"bodyPretty":[],"proof":[],"comment":"Extend class notation to include the diagonal functor.","parent":[],"children":[]}

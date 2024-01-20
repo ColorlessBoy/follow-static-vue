@@ -1,0 +1,1 @@
+{"bIdx":47573,"bType":"axiom","type":"","name":"diff.crngc.s","params":"setvar s0","body":["|- diffsc(s0, crngc)"],"bodyPretty":["⊢ d(s0, RngCat)"],"proof":[],"comment":"","parent":[],"children":[]}

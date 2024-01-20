@@ -1,0 +1,1 @@
+{"bIdx":10163,"bType":"axiom","type":"","name":"diff.cfin4.s","params":"setvar s0","body":["|- diffsc(s0, cfin4)"],"bodyPretty":["⊢ d(s0, Fin4)"],"proof":[],"comment":"","parent":[],"children":[]}

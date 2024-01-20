@@ -1,0 +1,1 @@
+{"bIdx":24011,"bType":"axiom","type":"","name":"diff.chmeo.s","params":"setvar s0","body":["|- diffsc(s0, chmeo)"],"bodyPretty":["⊢ d(s0, Homeo)"],"proof":[],"comment":"","parent":[],"children":[]}

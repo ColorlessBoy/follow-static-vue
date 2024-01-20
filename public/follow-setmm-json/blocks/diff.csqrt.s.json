@@ -1,0 +1,1 @@
+{"bIdx":15465,"bType":"axiom","type":"","name":"diff.csqrt.s","params":"setvar s0","body":["|- diffsc(s0, csqrt)"],"bodyPretty":["⊢ d(s0, sqrt)"],"proof":[],"comment":"","parent":[],"children":[]}

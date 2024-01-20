@@ -1,0 +1,1 @@
+{"bIdx":38132,"bType":"axiom","type":"","name":"diff.crngiso.w","params":"wff w0","body":["|- diffcw(crngiso, w0)"],"bodyPretty":["⊢ d(RngIso, w0)"],"proof":[],"comment":"","parent":[],"children":[]}

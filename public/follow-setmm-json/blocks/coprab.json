@@ -1,0 +1,1 @@
+{"bIdx":7479,"bType":"prop","type":"class","name":"coprab","params":"setvar s0, setvar s1, setvar s2, wff w0","body":["{ < < s0, s1 >, s2 > | w0 }"],"bodyPretty":[],"proof":[],"comment":"Extend class notation to include class abstraction (class builder) of nested ordered pairs.","parent":[],"children":[]}

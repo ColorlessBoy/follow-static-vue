@@ -1,0 +1,1 @@
+{"bIdx":29626,"bType":"axiom","type":"","name":"diff.cpths.c","params":"class c0","body":["|- diffcc(cpths, c0)"],"bodyPretty":["⊢ d(Paths, c0)"],"proof":[],"comment":"","parent":[],"children":[]}

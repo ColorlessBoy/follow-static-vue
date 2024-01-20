@@ -1,0 +1,1 @@
+{"bIdx":26848,"bType":"axiom","type":"","name":"diff.ctayl.s","params":"setvar s0","body":["|- diffsc(s0, ctayl)"],"bodyPretty":["⊢ d(s0, Tayl)"],"proof":[],"comment":"","parent":[],"children":[]}

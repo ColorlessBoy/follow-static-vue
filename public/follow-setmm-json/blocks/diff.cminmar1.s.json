@@ -1,0 +1,1 @@
+{"bIdx":22772,"bType":"axiom","type":"","name":"diff.cminmar1.s","params":"setvar s0","body":["|- diffsc(s0, cminmar1)"],"bodyPretty":["⊢ d(s0, minMatR1)"],"proof":[],"comment":"","parent":[],"children":[]}

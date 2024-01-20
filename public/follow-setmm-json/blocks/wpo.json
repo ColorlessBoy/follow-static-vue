@@ -1,0 +1,1 @@
+{"bIdx":5734,"bType":"prop","type":"wff","name":"wpo","params":"class c0, class c1","body":["c0 ⪯ c1"],"bodyPretty":[],"proof":[],"comment":"Extend wff notation to include the strict partial ordering predicate. Read: \" ` R ` is a partial order on ` A ` \".","parent":[],"children":[]}

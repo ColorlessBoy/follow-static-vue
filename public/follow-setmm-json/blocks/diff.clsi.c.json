@@ -1,0 +1,1 @@
+{"bIdx":45319,"bType":"axiom","type":"","name":"diff.clsi.c","params":"class c0","body":["|- diffcc(clsi, c0)"],"bodyPretty":["⊢ d(liminf, c0)"],"proof":[],"comment":"","parent":[],"children":[]}

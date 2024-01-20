@@ -1,0 +1,1 @@
+{"bIdx":35445,"bType":"const","type":"class","name":"csf","params":"","body":["splitFld"],"bodyPretty":[],"proof":[],"comment":"Splitting field for a finite set of polynomials.","parent":[],"children":[]}

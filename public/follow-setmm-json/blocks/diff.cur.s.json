@@ -1,0 +1,1 @@
+{"bIdx":20520,"bType":"axiom","type":"","name":"diff.cur.s","params":"setvar s0","body":["|- diffsc(s0, cur)"],"bodyPretty":["⊢ d(s0, 1r)"],"proof":[],"comment":"","parent":[],"children":[]}

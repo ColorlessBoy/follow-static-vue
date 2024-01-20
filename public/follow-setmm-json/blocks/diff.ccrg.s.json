@@ -1,0 +1,1 @@
+{"bIdx":20576,"bType":"axiom","type":"","name":"diff.ccrg.s","params":"setvar s0","body":["|- diffsc(s0, ccrg)"],"bodyPretty":["⊢ d(s0, CRing)"],"proof":[],"comment":"","parent":[],"children":[]}

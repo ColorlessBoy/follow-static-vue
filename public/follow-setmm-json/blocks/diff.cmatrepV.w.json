@@ -1,0 +1,1 @@
+{"bIdx":22686,"bType":"axiom","type":"","name":"diff.cmatrepV.w","params":"wff w0","body":["|- diffcw(cmatrepV, w0)"],"bodyPretty":["⊢ d(matRepV, w0)"],"proof":[],"comment":"","parent":[],"children":[]}

@@ -1,0 +1,1 @@
+{"bIdx":30265,"bType":"axiom","type":"","name":"diff.cfrgr.s","params":"setvar s0","body":["|- diffsc(s0, cfrgr)"],"bodyPretty":["⊢ d(s0, FriendGraph)"],"proof":[],"comment":"","parent":[],"children":[]}

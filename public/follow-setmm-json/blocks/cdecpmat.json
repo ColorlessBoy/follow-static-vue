@@ -1,0 +1,1 @@
+{"bIdx":22911,"bType":"const","type":"class","name":"cdecpmat","params":"","body":["decompPMat"],"bodyPretty":[],"proof":[],"comment":"Extend class notation to include the decomposition of polynomial matrices.","parent":[],"children":[]}

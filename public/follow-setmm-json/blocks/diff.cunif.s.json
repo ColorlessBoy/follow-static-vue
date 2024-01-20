@@ -1,0 +1,1 @@
+{"bIdx":17604,"bType":"axiom","type":"","name":"diff.cunif.s","params":"setvar s0","body":["|- diffsc(s0, cunif)"],"bodyPretty":["⊢ d(s0, UnifSet)"],"proof":[],"comment":"","parent":[],"children":[]}

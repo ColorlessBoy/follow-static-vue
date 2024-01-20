@@ -1,0 +1,1 @@
+{"bIdx":36215,"bType":"axiom","type":"","name":"diff.cifs.s","params":"setvar s0","body":["|- diffsc(s0, cifs)"],"bodyPretty":["⊢ d(s0, InnerFiveSeg)"],"proof":[],"comment":"","parent":[],"children":[]}

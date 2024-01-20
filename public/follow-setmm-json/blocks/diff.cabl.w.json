@@ -1,0 +1,1 @@
+{"bIdx":20200,"bType":"axiom","type":"","name":"diff.cabl.w","params":"wff w0","body":["|- diffcw(cabl, w0)"],"bodyPretty":["⊢ d(Abel, w0)"],"proof":[],"comment":"","parent":[],"children":[]}

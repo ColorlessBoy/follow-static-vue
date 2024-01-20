@@ -1,0 +1,1 @@
+{"bIdx":39050,"bType":"axiom","type":"","name":"diff.wprt.s","params":"setvar sBase, class c0","body":["|- diffsw(sBase, wprt(c0))","-| diffsc(sBase, c0)"],"bodyPretty":["⊢ d(sBase, Prt(c0))","⊣ d(sBase, c0)"],"proof":[],"comment":"","parent":[],"children":[]}

@@ -1,0 +1,1 @@
+{"bIdx":39726,"bType":"axiom","type":"","name":"diff.clvol.s","params":"setvar s0","body":["|- diffsc(s0, clvol)"],"bodyPretty":["⊢ d(s0, LVols)"],"proof":[],"comment":"","parent":[],"children":[]}

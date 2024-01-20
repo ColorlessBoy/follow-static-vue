@@ -1,0 +1,1 @@
+{"bIdx":37132,"bType":"axiom","type":"","name":"diff.bj-cpr2.w","params":"wff wBase, class c0","body":["|- diffcw(bj-cpr2(c0), wBase)","-| diffcw(c0, wBase)"],"bodyPretty":["⊢ d(pr2(c0), wBase)","⊣ d(c0, wBase)"],"proof":[],"comment":"","parent":[],"children":[]}

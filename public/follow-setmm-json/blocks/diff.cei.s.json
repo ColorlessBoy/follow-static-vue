@@ -1,0 +1,1 @@
+{"bIdx":31189,"bType":"axiom","type":"","name":"diff.cei.s","params":"setvar s0","body":["|- diffsc(s0, cei)"],"bodyPretty":["⊢ d(s0, eigvec)"],"proof":[],"comment":"","parent":[],"children":[]}

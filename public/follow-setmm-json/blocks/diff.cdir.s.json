@@ -1,0 +1,1 @@
+{"bIdx":19118,"bType":"axiom","type":"","name":"diff.cdir.s","params":"setvar s0","body":["|- diffsc(s0, cdir)"],"bodyPretty":["⊢ d(s0, DirRel)"],"proof":[],"comment":"","parent":[],"children":[]}

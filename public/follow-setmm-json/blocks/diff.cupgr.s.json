@@ -1,0 +1,1 @@
+{"bIdx":28938,"bType":"axiom","type":"","name":"diff.cupgr.s","params":"setvar s0","body":["|- diffsc(s0, cupgr)"],"bodyPretty":["⊢ d(s0, UPGraph)"],"proof":[],"comment":"","parent":[],"children":[]}

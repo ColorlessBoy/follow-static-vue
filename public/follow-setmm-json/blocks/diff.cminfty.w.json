@@ -1,0 +1,1 @@
+{"bIdx":37322,"bType":"axiom","type":"","name":"diff.cminfty.w","params":"wff w0","body":["|- diffcw(cminfty, w0)"],"bodyPretty":["⊢ d(minfty, w0)"],"proof":[],"comment":"","parent":[],"children":[]}

@@ -1,0 +1,1 @@
+{"bIdx":22269,"bType":"axiom","type":"","name":"diff.cocv.s","params":"setvar s0","body":["|- diffsc(s0, cocv)"],"bodyPretty":["⊢ d(s0, ocv)"],"proof":[],"comment":"","parent":[],"children":[]}

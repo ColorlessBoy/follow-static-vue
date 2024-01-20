@@ -1,0 +1,1 @@
+{"bIdx":27371,"bType":"axiom","type":"","name":"diff.catan.w","params":"wff w0","body":["|- diffcw(catan, w0)"],"bodyPretty":["⊢ d(arctan, w0)"],"proof":[],"comment":"","parent":[],"children":[]}

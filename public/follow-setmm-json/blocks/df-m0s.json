@@ -1,0 +1,1 @@
+{"bIdx":35358,"bType":"axiom","type":"","name":"df-m0s","params":"setvar s0","body":["|- wceq(cm0s, cmpt(s0, universe, cotp(emptycls, emptycls, cv(s0))))"],"bodyPretty":["⊢ m0St =(s0 ∈ 𝕌 ↦ < ∅, ∅, s0 >)"],"proof":[],"comment":"Define a function mapping expressions to statements. (Contributed by Mario Carneiro, 14-Jul-2016.)","parent":[],"children":[""]}

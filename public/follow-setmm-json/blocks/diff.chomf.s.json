@@ -1,0 +1,1 @@
+{"bIdx":18037,"bType":"axiom","type":"","name":"diff.chomf.s","params":"setvar s0","body":["|- diffsc(s0, chomf)"],"bodyPretty":["⊢ d(s0, Homf)"],"proof":[],"comment":"","parent":[],"children":[]}

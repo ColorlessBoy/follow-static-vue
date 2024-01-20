@@ -1,0 +1,1 @@
+{"bIdx":35990,"bType":"axiom","type":"","name":"diff.ccup.s","params":"setvar s0","body":["|- diffsc(s0, ccup)"],"bodyPretty":["⊢ d(s0, Cup)"],"proof":[],"comment":"","parent":[],"children":[]}

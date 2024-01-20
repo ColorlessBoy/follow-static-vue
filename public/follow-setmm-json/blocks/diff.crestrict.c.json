@@ -1,0 +1,1 @@
+{"bIdx":36011,"bType":"axiom","type":"","name":"diff.crestrict.c","params":"class c0","body":["|- diffcc(crestrict, c0)"],"bodyPretty":["⊢ d(Restrict, c0)"],"proof":[],"comment":"","parent":[],"children":[]}

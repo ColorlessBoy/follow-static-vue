@@ -1,0 +1,1 @@
+{"bIdx":37063,"bType":"axiom","type":"","name":"diff.bj-csngl.s","params":"setvar sBase, class c0","body":["|- diffsc(sBase, bj-csngl(c0))","-| diffsc(sBase, c0)"],"bodyPretty":["⊢ d(sBase, sngl(c0))","⊣ d(sBase, c0)"],"proof":[],"comment":"","parent":[],"children":[]}

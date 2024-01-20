@@ -1,0 +1,1 @@
+{"bIdx":18763,"bType":"axiom","type":"","name":"diff.cproset.c","params":"class c0","body":["|- diffcc(cproset, c0)"],"bodyPretty":["⊢ d(Proset, c0)"],"proof":[],"comment":"","parent":[],"children":[]}

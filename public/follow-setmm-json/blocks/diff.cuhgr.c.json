@@ -1,0 +1,1 @@
+{"bIdx":28909,"bType":"axiom","type":"","name":"diff.cuhgr.c","params":"class c0","body":["|- diffcc(cuhgr, c0)"],"bodyPretty":["⊢ d(UHGraph, c0)"],"proof":[],"comment":"","parent":[],"children":[]}

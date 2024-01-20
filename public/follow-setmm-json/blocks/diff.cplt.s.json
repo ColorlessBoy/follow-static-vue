@@ -1,0 +1,1 @@
+{"bIdx":18786,"bType":"axiom","type":"","name":"diff.cplt.s","params":"setvar s0","body":["|- diffsc(s0, cplt)"],"bodyPretty":["⊢ d(s0, lt)"],"proof":[],"comment":"","parent":[],"children":[]}

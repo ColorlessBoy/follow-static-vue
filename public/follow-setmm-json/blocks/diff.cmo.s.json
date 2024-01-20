@@ -1,0 +1,1 @@
+{"bIdx":13968,"bType":"axiom","type":"","name":"diff.cmo.s","params":"setvar s0","body":["|- diffsc(s0, cmo)"],"bodyPretty":["⊢ d(s0, mod)"],"proof":[],"comment":"","parent":[],"children":[]}

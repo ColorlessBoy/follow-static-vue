@@ -1,0 +1,1 @@
+{"bIdx":34443,"bType":"prop","type":"class","name":"c-bnj14","params":"class c0, class c1, class c2","body":["_pred(c0, c1, c2)"],"bodyPretty":[],"proof":[],"comment":"Extend class notation with the function giving: the class of all elements of ` A ` that are \"smaller\" than ` X ` according to ` R ` . (New usage is discouraged.)","parent":[],"children":[]}

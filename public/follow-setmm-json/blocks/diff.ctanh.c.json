@@ -1,0 +1,1 @@
+{"bIdx":48246,"bType":"axiom","type":"","name":"diff.ctanh.c","params":"class c0","body":["|- diffcc(ctanh, c0)"],"bodyPretty":["⊢ d(tanh, c0)"],"proof":[],"comment":"","parent":[],"children":[]}

@@ -1,0 +1,1 @@
+{"bIdx":36044,"bType":"axiom","type":"","name":"df-lb","params":"class c0","body":["|- wceq(clb(c0), cub(ccnv(c0)))"],"bodyPretty":["⊢ LB(c0)= UB(`' c0)"],"proof":[],"comment":"Define the lower bound relationship functor. See ~ brlb for value. (Contributed by Scott Fenton, 3-May-2018.)","parent":[],"children":["brlb"]}

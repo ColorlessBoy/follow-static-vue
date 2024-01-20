@@ -1,0 +1,1 @@
+{"bIdx":36691,"bType":"axiom","type":"","name":"ax-prv1","params":"wff w0","body":["|- cprvb(w0)","-| w0"],"bodyPretty":["⊢ Prv(w0)","⊣ w0"],"proof":[],"comment":"First property of three of the provability predicate. (Contributed by BJ, 3-Apr-2019.)","parent":[],"children":["prvlem1","bj-babygodel","bj-babylob"]}

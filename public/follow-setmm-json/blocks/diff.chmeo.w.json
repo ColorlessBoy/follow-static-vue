@@ -1,0 +1,1 @@
+{"bIdx":24013,"bType":"axiom","type":"","name":"diff.chmeo.w","params":"wff w0","body":["|- diffcw(chmeo, w0)"],"bodyPretty":["⊢ d(Homeo, w0)"],"proof":[],"comment":"","parent":[],"children":[]}

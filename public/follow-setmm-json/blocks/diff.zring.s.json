@@ -1,0 +1,1 @@
+{"bIdx":22058,"bType":"axiom","type":"","name":"diff.zring.s","params":"setvar s0","body":["|- diffsc(s0, zring)"],"bodyPretty":["⊢ d(s0, ZZring)"],"proof":[],"comment":"","parent":[],"children":[]}

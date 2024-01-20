@@ -1,0 +1,1 @@
+{"bIdx":35466,"bType":"axiom","type":"","name":"diff.cgf.s","params":"setvar s0","body":["|- diffsc(s0, cgf)"],"bodyPretty":["⊢ d(s0, GF)"],"proof":[],"comment":"","parent":[],"children":[]}

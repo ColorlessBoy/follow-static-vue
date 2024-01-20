@@ -1,0 +1,1 @@
+{"bIdx":22277,"bType":"axiom","type":"","name":"diff.cthl.s","params":"setvar s0","body":["|- diffsc(s0, cthl)"],"bodyPretty":["⊢ d(s0, toHL)"],"proof":[],"comment":"","parent":[],"children":[]}

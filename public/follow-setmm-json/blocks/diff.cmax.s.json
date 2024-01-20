@@ -1,0 +1,1 @@
+{"bIdx":35154,"bType":"axiom","type":"","name":"diff.cmax.s","params":"setvar s0","body":["|- diffsc(s0, cmax)"],"bodyPretty":["⊢ d(s0, mAx)"],"proof":[],"comment":"","parent":[],"children":[]}

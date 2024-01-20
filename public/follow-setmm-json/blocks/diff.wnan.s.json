@@ -1,0 +1,1 @@
+{"bIdx":1753,"bType":"axiom","type":"","name":"diff.wnan.s","params":"setvar sBase, wff w0, wff w1","body":["|- diffsw(sBase, wnan(w0, w1))","-| diffsw(sBase, w0)","-| diffsw(sBase, w1)"],"bodyPretty":["⊢ d(sBase,(w0 ⊼ w1))","⊣ d(sBase, w0)","⊣ d(sBase, w1)"],"proof":[],"comment":"","parent":[],"children":[]}

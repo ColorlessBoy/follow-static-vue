@@ -1,0 +1,1 @@
+{"bIdx":13041,"bType":"axiom","type":"","name":"df-q","params":"","body":["|- wceq(cq, cima(cdiv, cxp(cz, cn)))"],"bodyPretty":["⊢ ℚ =(÷ \"(ℤ × ℕ))"],"proof":[],"comment":"Define the set of rational numbers. Based on definition of rationals in [Apostol] p. 22. See ~ elq for the relation \"is rational.\" (Contributed by NM, 8-Jan-2002.)","parent":[],"children":["elq"]}

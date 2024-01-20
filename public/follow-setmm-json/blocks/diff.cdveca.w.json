@@ -1,0 +1,1 @@
+{"bIdx":41303,"bType":"axiom","type":"","name":"diff.cdveca.w","params":"wff w0","body":["|- diffcw(cdveca, w0)"],"bodyPretty":["⊢ d(DVecA, w0)"],"proof":[],"comment":"","parent":[],"children":[]}

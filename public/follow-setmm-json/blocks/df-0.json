@@ -1,0 +1,1 @@
+{"bIdx":11151,"bType":"axiom","type":"","name":"df-0","params":"","body":["|- wceq(nat0, cop(c0r, c0r))"],"bodyPretty":["⊢ 0 = < 0, 0 >"],"proof":[],"comment":"Define the complex number 0. (Contributed by NM, 22-Feb-1996.) (New usage is discouraged.)","parent":[],"children":["axi2m1","ax1ne0","axrnegex","axrrecex","axpre-mulgt0"]}

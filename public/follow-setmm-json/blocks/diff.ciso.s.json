@@ -1,0 +1,1 @@
+{"bIdx":18137,"bType":"axiom","type":"","name":"diff.ciso.s","params":"setvar s0","body":["|- diffsc(s0, ciso)"],"bodyPretty":["⊢ d(s0, Iso)"],"proof":[],"comment":"","parent":[],"children":[]}

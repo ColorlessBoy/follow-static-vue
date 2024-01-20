@@ -1,0 +1,1 @@
+{"bIdx":42230,"bType":"axiom","type":"","name":"diff.chg.s","params":"setvar s0","body":["|- diffsc(s0, chg)"],"bodyPretty":["⊢ d(s0, HGMap)"],"proof":[],"comment":"","parent":[],"children":[]}

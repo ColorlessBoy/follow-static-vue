@@ -1,0 +1,1 @@
+{"bIdx":15467,"bType":"axiom","type":"","name":"diff.csqrt.w","params":"wff w0","body":["|- diffcw(csqrt, w0)"],"bodyPretty":["⊢ d(sqrt, w0)"],"proof":[],"comment":"","parent":[],"children":[]}

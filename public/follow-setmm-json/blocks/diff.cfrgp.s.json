@@ -1,0 +1,1 @@
+{"bIdx":20113,"bType":"axiom","type":"","name":"diff.cfrgp.s","params":"setvar s0","body":["|- diffsc(s0, cfrgp)"],"bodyPretty":["⊢ d(s0, freeGrp)"],"proof":[],"comment":"","parent":[],"children":[]}

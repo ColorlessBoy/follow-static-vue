@@ -1,0 +1,1 @@
+{"bIdx":1869,"bType":"axiom","type":"","name":"diff.whad.s","params":"setvar sBase, wff w0, wff w1, wff w2","body":["|- diffsw(sBase, whad(w0, w1, w2))","-| diffsw(sBase, w0)","-| diffsw(sBase, w1)","-| diffsw(sBase, w2)"],"bodyPretty":["⊢ d(sBase, hadd(w0, w1, w2))","⊣ d(sBase, w0)","⊣ d(sBase, w1)","⊣ d(sBase, w2)"],"proof":[],"comment":"","parent":[],"children":[]}

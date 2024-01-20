@@ -1,0 +1,1 @@
+{"bIdx":13611,"bType":"const","type":"class","name":"cfz","params":"","body":["..."],"bodyPretty":[],"proof":[],"comment":"Extend class notation to include the notation for a contiguous finite set of integers. Read \" ` M ... N ` \" as \"the set of integers from ` M ` to ` N ` inclusive.\"","parent":[],"children":[]}

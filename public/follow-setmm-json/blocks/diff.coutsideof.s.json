@@ -1,0 +1,1 @@
+{"bIdx":36314,"bType":"axiom","type":"","name":"diff.coutsideof.s","params":"setvar s0","body":["|- diffsc(s0, coutsideof)"],"bodyPretty":["⊢ d(s0, OutsideOf)"],"proof":[],"comment":"","parent":[],"children":[]}

@@ -1,0 +1,1 @@
+{"bIdx":30829,"bType":"axiom","type":"","name":"diff.cblo.s","params":"setvar s0","body":["|- diffsc(s0, cblo)"],"bodyPretty":["⊢ d(s0, BLnOp)"],"proof":[],"comment":"","parent":[],"children":[]}

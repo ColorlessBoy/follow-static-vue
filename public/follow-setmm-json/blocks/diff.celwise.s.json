@@ -1,0 +1,1 @@
+{"bIdx":37169,"bType":"axiom","type":"","name":"diff.celwise.s","params":"setvar s0","body":["|- diffsc(s0, celwise)"],"bodyPretty":["⊢ d(s0, elwise)"],"proof":[],"comment":"","parent":[],"children":[]}

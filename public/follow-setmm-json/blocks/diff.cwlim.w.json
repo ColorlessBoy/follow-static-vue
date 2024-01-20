@@ -1,0 +1,1 @@
+{"bIdx":35708,"bType":"axiom","type":"","name":"diff.cwlim.w","params":"wff wBase, class c0, class c1","body":["|- diffcw(cwlim(c0, c1), wBase)","-| diffcw(c0, wBase)","-| diffcw(c1, wBase)"],"bodyPretty":["⊢ d(WLim(c0, c1), wBase)","⊣ d(c0, wBase)","⊣ d(c1, wBase)"],"proof":[],"comment":"","parent":[],"children":[]}

@@ -1,0 +1,1 @@
+{"bIdx":35043,"bType":"axiom","type":"","name":"diff.csat.w","params":"wff w0","body":["|- diffcw(csat, w0)"],"bodyPretty":["⊢ d(Sat, w0)"],"proof":[],"comment":"","parent":[],"children":[]}

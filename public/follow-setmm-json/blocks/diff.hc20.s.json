@@ -1,0 +1,1 @@
+{"bIdx":264,"bType":"axiom","type":"","name":"diff.hc20.s","params":"setvar s0","body":["|- diffsc(s0, hc20)"],"bodyPretty":["⊢ d(s0, hc20)"],"proof":[],"comment":"","parent":[],"children":[]}

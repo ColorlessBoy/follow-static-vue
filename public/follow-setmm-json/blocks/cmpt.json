@@ -1,0 +1,1 @@
+{"bIdx":5406,"bType":"prop","type":"class","name":"cmpt","params":"setvar s0, class c0, class c1","body":["(s0 ∈ c0 ↦ c1)"],"bodyPretty":[],"proof":[],"comment":"Extend the definition of a class to include maps-to notation for defining a function via a rule.","parent":[],"children":[]}

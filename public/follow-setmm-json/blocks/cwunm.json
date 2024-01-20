@@ -1,0 +1,1 @@
+{"bIdx":10610,"bType":"const","type":"class","name":"cwunm","params":"","body":["wUniCl"],"bodyPretty":[],"proof":[],"comment":"Extend class definition to include the map whose value is the smallest weak universe of which the given set is a subset.","parent":[],"children":[]}

@@ -1,0 +1,1 @@
+{"bIdx":22774,"bType":"axiom","type":"","name":"diff.cminmar1.w","params":"wff w0","body":["|- diffcw(cminmar1, w0)"],"bodyPretty":["⊢ d(minMatR1, w0)"],"proof":[],"comment":"","parent":[],"children":[]}

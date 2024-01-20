@@ -1,0 +1,1 @@
+{"bIdx":42135,"bType":"const","type":"class","name":"chdma","params":"","body":["HDMap"],"bodyPretty":[],"proof":[],"comment":"Extend class notation with map from vectors to functionals in the closed kernel dual space.","parent":[],"children":[]}

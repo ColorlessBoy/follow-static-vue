@@ -1,0 +1,1 @@
+{"bIdx":18113,"bType":"axiom","type":"","name":"diff.cepi.w","params":"wff w0","body":["|- diffcw(cepi, w0)"],"bodyPretty":["⊢ d(Epi, w0)"],"proof":[],"comment":"","parent":[],"children":[]}

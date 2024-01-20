@@ -1,0 +1,1 @@
+{"bIdx":35051,"bType":"axiom","type":"","name":"diff.csate.w","params":"wff w0","body":["|- diffcw(csate, w0)"],"bodyPretty":["⊢ d(SatE, w0)"],"proof":[],"comment":"","parent":[],"children":[]}

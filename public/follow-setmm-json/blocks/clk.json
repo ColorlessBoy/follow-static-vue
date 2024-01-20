@@ -1,0 +1,1 @@
+{"bIdx":39278,"bType":"const","type":"class","name":"clk","params":"","body":["LKer"],"bodyPretty":[],"proof":[],"comment":"Extend class notation with the kernel of a functional (set of vectors whose functional value is zero) on a left module or left vector space.","parent":[],"children":[]}

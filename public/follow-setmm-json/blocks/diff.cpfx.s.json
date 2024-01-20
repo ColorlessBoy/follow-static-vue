@@ -1,0 +1,1 @@
+{"bIdx":14795,"bType":"axiom","type":"","name":"diff.cpfx.s","params":"setvar s0","body":["|- diffsc(s0, cpfx)"],"bodyPretty":["⊢ d(s0, prefix)"],"proof":[],"comment":"","parent":[],"children":[]}

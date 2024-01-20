@@ -1,0 +1,1 @@
+{"bIdx":5289,"bType":"axiom","type":"","name":"diff.wdisj.w","params":"wff wBase, setvar s0, class c0, class c1","body":["|- diffww(wBase, wdisj(s0, c0, c1))","-| diffsw(s0, wBase)","-| diffcw(c0, wBase)","-| diffcw(c1, wBase)"],"bodyPretty":["⊢ d(wBase, ⊔(s0 ∈ c0, c1))","⊣ d(s0, wBase)","⊣ d(c0, wBase)","⊣ d(c1, wBase)"],"proof":[],"comment":"","parent":[],"children":[]}

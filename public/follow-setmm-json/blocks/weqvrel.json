@@ -1,0 +1,1 @@
+{"bIdx":38451,"bType":"prop","type":"wff","name":"weqvrel","params":"class c0","body":["EqvRel(c0)"],"bodyPretty":[],"proof":[],"comment":"Extend the definition of a wff to include the equivalence relation predicate. (Read: ` R ` is an equivalence relation.)","parent":[],"children":[]}

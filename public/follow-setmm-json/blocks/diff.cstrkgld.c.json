@@ -1,0 +1,1 @@
+{"bIdx":28206,"bType":"axiom","type":"","name":"diff.cstrkgld.c","params":"class c0","body":["|- diffcc(cstrkgld, c0)"],"bodyPretty":["⊢ d(TarskiGDim>=, c0)"],"proof":[],"comment":"","parent":[],"children":[]}

@@ -1,0 +1,1 @@
+{"bIdx":37323,"bType":"axiom","type":"","name":"df-bj-minfty","params":"","body":["|- wceq(cminfty, cfv(cinftyexpi, cpi))"],"bodyPretty":["⊢ minfty =(inftyexpi ` π)"],"proof":[],"comment":"Definition of \"minus infinity\". (Contributed by BJ, 27-Jun-2019.)","parent":[],"children":["bj-minftyccb","bj-minftynrr","bj-pinftynminfty"]}
