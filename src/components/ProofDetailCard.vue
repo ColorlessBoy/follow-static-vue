@@ -3,16 +3,17 @@ import { fetchBlockFile, type FollowBlock } from "@/types/data";
 import { ChevronRight, ChevronDown } from "lucide-vue-next";
 import { ref, watch } from "vue";
 
-const followBlockData = ref<FollowBlock>();
-const isExpanded = ref(false);
-
-const { name, enablePretty } = defineProps<{
+const { name, enablePretty, data } = defineProps<{
   name: string;
   enablePretty: boolean;
+  data?: FollowBlock;
 }>();
 const onClick = () => {
   isExpanded.value = !isExpanded.value;
 };
+
+const followBlockData = ref<FollowBlock | undefined>(data);
+const isExpanded = ref(false);
 
 watch(
   () => isExpanded.value,
@@ -56,7 +57,7 @@ watch(
             <p v-html="enablePretty ? proofblock.body.pretty : proofblock.body.origin" className="text-wrap p-0 m-0"></p>
           </pre>
           <pre className="m-0 rounded-md w-full px-2 py-0"> 
-            <p v-html="enablePretty ? proofblock.body.pretty : proofblock.body.origin" className="text-wrap p-0 m-0"></p>
+            <p v-html="enablePretty ? proofblock.cumulated.pretty : proofblock.cumulated.origin" className="text-wrap p-0 m-0"></p>
           </pre>
         </div>
       </details>
