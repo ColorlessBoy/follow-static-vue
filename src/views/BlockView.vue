@@ -1,8 +1,9 @@
 <script setup lang="ts">
 import BlockSearchItem from "@/components/BlockSearchItem.vue";
 import CodeCardButton from "@/components/CodeCardButton.vue";
+import { useBlockMenu } from "@/stores/blockMenu";
 import { searchBlock } from "@/types/data";
-import { reactive, ref, watch } from "vue";
+import { ref, watch } from "vue";
 
 const query = ref("");
 const result = ref<
@@ -11,14 +12,25 @@ const result = ref<
     link: string;
   }[]
 >([]);
-const blocklist = reactive<string[]>([]);
+const blockMenu = useBlockMenu();
+const blockMenuRoot = blockMenu.getById(0);
+
 const enablePretty = ref(true);
 
 const onClickResultBuilder = (name: string) => {
   return () => {
-    blocklist.push(name);
+    if (blockMenuRoot) {
+      blockMenu.addMenu(blockMenuRoot.id, name);
+    }
   };
 };
+
+const onDeleteBuilder = (id: number) => {
+  return () => {
+    blockMenu.deleteById(id);
+  };
+};
+
 const onClickOriginPretty = () => {
   enablePretty.value = !enablePretty.value;
 };
@@ -35,7 +47,7 @@ watch(
 </script>
 <template>
   <article
-    className="prose prose-base dark:prose-invert prose-neutral my-20 mx-5 md:mx-10"
+    className="prose prose-base dark:prose-invert prose-neutral mt-20 mx-5 md:mx-10 mb-[100vh]"
   >
     <p>
       -------------------------------------------------------------------------------
@@ -73,9 +85,10 @@ watch(
       </div>
       <BlockSearchItem
         :enable-pretty="enablePretty"
-        v-for="name in blocklist"
-        :key="'block-search-item' + name"
-        :name="name"
+        v-for="id in blockMenuRoot?.children"
+        :key="'block-search-item' + id"
+        :id="id"
+        :onDelete="onDeleteBuilder(id)"
       />
     </div>
   </article>
