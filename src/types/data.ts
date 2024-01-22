@@ -44,6 +44,7 @@ export type FollowProofBlock = {
 export type FollowBlock = {
   bIdx: number;
   bType: string;
+  type: string;
   name: string;
   params: string;
   body: string[];
@@ -84,4 +85,76 @@ export const setmmBlockMap = new Map(
 export function searchBlock(query: string) {
   const result = setmmFuse.search(query, { limit: 10 });
   return result.map((value) => value.item);
+}
+
+export function getCodeOriginAndPretty(block: FollowBlock) {
+  if (block.bType === "type") {
+    return {
+      origin: `type ${block.name}`,
+      pretty: "",
+    };
+  } else if (block.bType === "const") {
+    let code = `const ${block.type} ${block.name}`;
+    if (block.body.length > 0) {
+      code += ` { ${block.body[0]} }`;
+    }
+    return {
+      origin: code,
+      pretty: "",
+    };
+  } else if (block.bType === "prop") {
+    let code = `prop ${block.type} ${block.name}(${block.params})`;
+    if (block.body.length > 0) {
+      code += ` { ${block.body[0]} }`;
+    }
+    return {
+      origin: code,
+      pretty: "",
+    };
+  } else if (block.bType === "absurd") {
+    let code = `absurd ${block.name}(${block.params})`;
+    let codePretty = `absurd ${block.name}(${block.params})`;
+    if (block.body.length > 0) {
+      code += ` { ${block.body[0]} }`;
+      codePretty += ` { ${block.bodyPretty[0]}}`;
+    }
+    return {
+      origin: code,
+      pretty: codePretty,
+    };
+  } else if (block.bType === "axiom") {
+    const code = [
+      `axiom ${block.name}(${block.params}) {`,
+      ...block.body.map((e) => `  ${e}`),
+      "}",
+    ].join("\n");
+    const codePretty = [
+      `axiom ${block.name}(${block.params}) {`,
+      ...block.bodyPretty.map((e) => `  ${e}`),
+      "}",
+    ].join("\n");
+    return {
+      origin: code,
+      pretty: codePretty,
+    };
+  } else if (block.bType === "thm") {
+    const code = [
+      `thm ${block.name}(${block.params}) {`,
+      ...block.body.map((e) => `  ${e}`),
+      "} = {",
+      ...block.proof.map((e) => `  ${e.stmt.origin}`),
+      "}",
+    ].join("\n");
+    const codePretty = [
+      `thm ${block.name}(${block.params}) {`,
+      ...block.bodyPretty.map((e) => `  ${e}`),
+      "} = {",
+      ...block.proof.map((e) => `  ${e.stmt.pretty}`),
+      "}",
+    ].join("\n");
+    return {
+      origin: code,
+      pretty: codePretty,
+    };
+  }
 }

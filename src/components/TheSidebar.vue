@@ -37,6 +37,9 @@ const onClick = () => {
         className="flex h-12 w-full items-center border-b bg-slate-100 pl-4 shadow-sm justify-between"
       >
         <FollowLogo />
+        <div className="border-2 rounded-md px-2">
+          <RouterLink to="/block">Block</RouterLink>
+        </div>
         <div className="flex items-center justify-between space-x-2">
           <ThemeButton />
           <button :onclick="onClick">

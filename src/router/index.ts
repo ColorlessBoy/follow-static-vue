@@ -8,6 +8,7 @@ import HomeView from "../views/HomeView.vue";
 import AboutView from "@/views/AboutView.vue";
 import FileView from "@/views/FileView.vue";
 import { fetchJsonFile } from "@/types/data";
+import BlockViewVue from "@/views/BlockView.vue";
 
 export const fetchDataRouter = async (
   to: RouteLocationNormalized,
@@ -46,6 +47,11 @@ const router = createRouter({
       name: "file",
       component: FileView,
       beforeEnter: fetchDataRouter,
+    },
+    {
+      path: "/block",
+      name: "block",
+      component: BlockViewVue,
     },
   ],
   scrollBehavior(to, from, savedPosition) {
