@@ -5,13 +5,13 @@ import ThemeButton from "./ThemeButton.vue";
 import ContentList from "./ContentList.vue";
 import TheSearchBar from "./TheSearchBar.vue";
 import { ArrowRight, XCircle } from "lucide-vue-next";
-import { ref } from "vue";
 import { twMerge } from "tailwind-merge";
+import { useSidebarExpanded } from "@/stores/sidebar";
 
-const isActivate = ref(true);
+const sidebarExpanded = useSidebarExpanded();
 
 const onClick = () => {
-  isActivate.value = !isActivate.value;
+  sidebarExpanded.change();
 };
 </script>
 
@@ -28,7 +28,7 @@ const onClick = () => {
       :className="
         twMerge(
           'hidden fixed  top-0 left-0 z-30 h-screen w-[75%] max-w-80 overflow-y-auto bg-vuebg-light dark:bg-vuebg-dark flex-col justify-items-center',
-          isActivate && 'block',
+          sidebarExpanded.expanded && 'block',
         )
       "
       aria-label="Sidebar"

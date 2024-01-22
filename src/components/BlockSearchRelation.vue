@@ -1,22 +1,34 @@
 <script setup lang="ts">
 import { ChevronRight, ChevronDown } from "lucide-vue-next";
-import { reactive, ref } from "vue";
+import { ref } from "vue";
 import BlockSearchItem from "./BlockSearchItem.vue";
+import { useBlockMenu } from "@/stores/blockMenu";
 const isExpanded = ref(false);
 
-const { title, nameList, enablePretty } = defineProps<{
+const { id, title, nameList, enablePretty } = defineProps<{
+  id: number;
   title: string;
   nameList: string[];
   enablePretty: boolean;
 }>();
+
+const blockMenu = useBlockMenu();
+const blockMenuRoot = blockMenu.getById(id);
+
 const onClick = () => {
   isExpanded.value = !isExpanded.value;
 };
 
-const blocklist = reactive<string[]>([]);
 const onClickResultBuilder = (name: string) => {
   return () => {
-    blocklist.push(name);
+    if (blockMenuRoot) {
+      blockMenu.addMenu(blockMenuRoot.id, name);
+    }
+  };
+};
+const onDeleteBuilder = (id: number) => {
+  return () => {
+    blockMenu.deleteById(id);
   };
 };
 </script>
@@ -46,10 +58,17 @@ const onClickResultBuilder = (name: string) => {
         </div>
       </div>
     </div>
-    <div v-if="blocklist.length > 0">
-      <div v-for="name in blocklist" :key="'block-search-relation' + name">
-        <BlockSearchItem :enablePretty="enablePretty" :name="name" />
-      </div>
+  </div>
+  <div v-if="blockMenuRoot && blockMenuRoot.children.length > 0">
+    <div
+      v-for="id in blockMenuRoot.children"
+      :key="'block-search-relation' + id"
+    >
+      <BlockSearchItem
+        :enablePretty="enablePretty"
+        :id="id"
+        :onDelete="onDeleteBuilder(id)"
+      />
     </div>
   </div>
 </template>
