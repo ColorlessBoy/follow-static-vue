@@ -42,7 +42,7 @@ const onClickResultBuilder = (name: string) => {
           :key="'block-search-relation-namelist' + name"
           :onClick="onClickResultBuilder(name)"
         >
-          <p>{{ name }}</p>
+          {{ name }}
         </div>
       </div>
     </div>

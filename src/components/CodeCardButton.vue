@@ -5,7 +5,10 @@ const { text } = defineProps<{
 </script>
 
 <template>
-  <div role="button" className="w-16 border-2 rounded-md">
+  <div
+    role="button"
+    className="w-16 border-2 rounded-md flex items-center justify-center"
+  >
     {{ text }}
   </div>
 </template>

@@ -1,5 +1,6 @@
 <script setup lang="ts">
 import BlockSearchItem from "@/components/BlockSearchItem.vue";
+import CodeCardButton from "@/components/CodeCardButton.vue";
 import { searchBlock } from "@/types/data";
 import { reactive, ref, watch } from "vue";
 
@@ -17,6 +18,9 @@ const onClickResultBuilder = (name: string) => {
   return () => {
     blocklist.push(name);
   };
+};
+const onClickOriginPretty = () => {
+  enablePretty.value = !enablePretty.value;
 };
 watch(
   () => query.value,
@@ -49,16 +53,23 @@ watch(
       </div>
       <div
         v-if="result.length > 0"
-        className="flex space-x-2 w-full flex-wrap justify-start max-h-40 overflow-y-auto"
+        className="flex space-x-2 w-full flex-wrap justify-between px-2 max-h-40 overflow-y-auto leading-0 border-2 rounded-md my-2"
       >
         <div
           role="button"
           v-for="term in result"
           :key="'search-result' + term.name"
           :onClick="onClickResultBuilder(term.name)"
+          className="flex h-8 my-0 py-0 items-center justify-center"
         >
-          <p>{{ term.name }}</p>
+          {{ term.name }}
         </div>
+      </div>
+      <div className="flex justify-start text-center text-sm py-2">
+        <CodeCardButton
+          :text="enablePretty ? 'Pretty' : 'Origin'"
+          :onclick="onClickOriginPretty"
+        />
       </div>
       <BlockSearchItem
         :enable-pretty="enablePretty"
