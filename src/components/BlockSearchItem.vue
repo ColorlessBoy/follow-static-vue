@@ -47,6 +47,7 @@ watch(
       console.error(e);
     }
   },
+  { immediate: true },
 );
 </script>
 
