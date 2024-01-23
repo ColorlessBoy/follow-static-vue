@@ -85,7 +85,7 @@ watch(
         />
         <BlockSearchRelation
           title="Parent"
-          v-if="blockMenuRoot"
+          v-if="blockMenuRoot && followBlockData.parent.length > 0"
           :id="blockMenuRoot.id"
           :nameList="followBlockData.parent"
           :enablePretty="enablePretty"

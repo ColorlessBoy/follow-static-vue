@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import { searchBlock } from "@/types/data";
+import { searchBlockByName } from "@/types/data";
 import { ref, watch } from "vue";
 
 const query = ref("");
@@ -13,7 +13,7 @@ watch(
   () => query.value,
   () => {
     if (query.value.length > 0) {
-      result.value = searchBlock(query.value);
+      result.value = searchBlockByName(query.value);
     } else {
       result.value = [];
     }
@@ -27,7 +27,7 @@ watch(
       <input
         type="text"
         id="blocksearbar"
-        placeholder="Search Block"
+        placeholder="Search Block By Name"
         className="dark:bg-vuebg-dark border-2 w-full h-full mx-4 rounded-md px-2"
         v-model="query"
       />

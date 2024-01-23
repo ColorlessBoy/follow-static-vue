@@ -38,7 +38,7 @@ const onClick = () => {
       >
         <FollowLogo />
         <div className="border-2 rounded-md px-2">
-          <RouterLink to="/block">Block</RouterLink>
+          <RouterLink to="/block">Search Page</RouterLink>
         </div>
         <div className="flex items-center justify-between space-x-2">
           <ThemeButton />

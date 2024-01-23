@@ -2,19 +2,20 @@
 import BlockSearchItem from "@/components/BlockSearchItem.vue";
 import CodeCardButton from "@/components/CodeCardButton.vue";
 import { useBlockMenu } from "@/stores/blockMenu";
-import { searchBlock } from "@/types/data";
+import { searchBlockByName, searchBlockByTarget } from "@/types/data";
 import { ref, watch } from "vue";
+import { debounce } from "lodash";
 
 const query = ref("");
 const result = ref<
   {
     name: string;
-    link: string;
+    target?: string;
+    link?: string;
   }[]
 >([]);
 const blockMenu = useBlockMenu();
 const blockMenuRoot = blockMenu.getById(0);
-
 const enablePretty = ref(true);
 
 const onClickResultBuilder = (name: string) => {
@@ -31,14 +32,30 @@ const onDeleteBuilder = (id: number) => {
   };
 };
 
+const isSearchByTarget = ref(false);
+
+const onChangeSearchBy = () => {
+  isSearchByTarget.value = !isSearchByTarget.value;
+};
+
 const onClickOriginPretty = () => {
   enablePretty.value = !enablePretty.value;
 };
+
+const debounceSearch = debounce((query) => {
+  console.log(query);
+  result.value = searchBlockByTarget(query);
+}, 500);
+
 watch(
-  () => query.value,
-  () => {
+  () => [query.value, isSearchByTarget.value],
+  async () => {
     if (query.value.length > 0) {
-      result.value = searchBlock(query.value);
+      if (isSearchByTarget.value) {
+        debounceSearch(query.value);
+      } else {
+        result.value = searchBlockByName(query.value);
+      }
     } else {
       result.value = [];
     }
@@ -50,11 +67,18 @@ watch(
     className="prose prose-base dark:prose-invert prose-neutral mt-20 mx-5 md:mx-10 mb-[100vh]"
   >
     <p>
-      -------------------------------------------------------------------------------
-      -------------------------------------------------------------------------------
+      ------------------------------------------------------------------------------------------
     </p>
     <div className="px-2">
-      <div className="flex h-16 w-full items-center justify-center py-2">
+      <div
+        className="flex h-16 w-full items-center justify-center py-2 space-x-1"
+      >
+        <button
+          @click="onChangeSearchBy"
+          className="flex items-center justify-center border-2 rounded-md h-12 w-16"
+        >
+          {{ isSearchByTarget ? "Target" : "Name" }}
+        </button>
         <input
           type="text"
           id="blocksearbar"

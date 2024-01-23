@@ -63,27 +63,45 @@ export async function fetchBlockFile(name: string) {
   }
 }
 
-import fileIndex from "@/assets/follow-setmm-json/index.json";
+type IndexType = {
+  titleList: string[];
+  blockTitleIndex: (string | number)[][];
+};
+
+import fileIndexJson from "@/assets/follow-setmm-json/index.json";
 import Fuse from "fuse.js";
+const fileIndex = fileIndexJson as IndexType;
 export const setmmTitleList = fileIndex.titleList;
+export const setmmBlockMap = new Map(
+  fileIndex.blockTitleIndex.map((value) => [
+    value[0] as string,
+    value[2] as number,
+  ]),
+);
 const setmmFuse = new Fuse(
   fileIndex.blockTitleIndex.map((value) => {
     return {
       name: value[0] as string,
-      link: `/file/${value[1]}#${value[0]}` as string,
+      link: `/file/${value[2]}#${value[0]}` as string,
     };
   }),
   { keys: ["name"] },
 );
-export const setmmBlockMap = new Map(
-  fileIndex.blockTitleIndex.map((value) => [
-    value[0] as string,
-    value[1] as number,
-  ]),
-);
-
-export function searchBlock(query: string) {
+export function searchBlockByName(query: string) {
   const result = setmmFuse.search(query, { limit: 10 });
+  return result.map((value) => value.item);
+}
+const setmmTargetFuse = new Fuse(
+  fileIndex.blockTitleIndex.map((value) => {
+    return {
+      name: value[0] as string,
+      target: value[1] as string,
+    };
+  }),
+  { keys: ["target"] },
+);
+export function searchBlockByTarget(query: string) {
+  const result = setmmTargetFuse.search(query.replace(/ /g, ""), { limit: 10 });
   return result.map((value) => value.item);
 }
 
