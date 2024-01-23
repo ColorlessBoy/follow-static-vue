@@ -32,7 +32,6 @@ function enhancedJSONStringify(obj: any) {
 
 function enhancedJSONParse(str: any) {
   const result = JSON.parse(str, parseWithMapReviver);
-  console.log(result);
   return result;
 }
 
