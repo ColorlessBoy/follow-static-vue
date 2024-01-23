@@ -32,6 +32,7 @@ function enhancedJSONStringify(obj: any) {
 
 function enhancedJSONParse(str: any) {
   const result = JSON.parse(str, parseWithMapReviver);
+  console.log(result);
   return result;
 }
 
@@ -94,7 +95,7 @@ export const useBlockMenu = defineStore(
           const idx = parent.children.findIndex((e) => e === id);
           parent.children.splice(idx, 1);
         }
-        if (block.parent) menuState.data.delete(id);
+        menuState.data.delete(id);
       }
     };
 
