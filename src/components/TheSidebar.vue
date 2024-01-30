@@ -27,14 +27,14 @@ const onClick = () => {
       id="sidebar"
       :className="
         twMerge(
-          'hidden fixed  top-0 left-0 z-30 h-screen w-[75%] max-w-80 overflow-y-auto bg-vuebg-light dark:bg-vuebg-dark flex-col justify-items-center',
+          'hidden fixed top-0 left-0 z-30 h-screen w-[75%] max-w-80 overflow-y-auto bg-vuebg-light dark:bg-vuebg-dark flex-col justify-items-center',
           sidebarExpanded.expanded && 'block',
         )
       "
       aria-label="Sidebar"
     >
       <div
-        className="flex h-12 w-full items-center border-b bg-slate-100 pl-4 shadow-sm justify-between"
+        className="z-40 sticky top-0 flex h-12 w-full items-center border-b bg-slate-100 px-2 shadow-sm justify-between bg-vuebg-light dark:bg-vuebg-dark"
       >
         <FollowLogo />
         <div className="border-2 rounded-md px-2">
@@ -50,5 +50,14 @@ const onClick = () => {
       <TheSearchBar />
       <ContentList :content="setmmContent" />
     </aside>
+    <button
+      :className="
+        twMerge(
+          'z-20 fixed top-0 left-0 w-[100vw] h-[100vh] bg-opacity-50 bg-vuebg-dark hidden md:hidden',
+          sidebarExpanded.expanded && 'block',
+        )
+      "
+      :onclick="onClick"
+    ></button>
   </div>
 </template>
